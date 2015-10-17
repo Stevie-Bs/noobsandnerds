@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.luxeria"
+		name="luxeria Add-ons"
+		version="0"
+		provider-name="linuxluemmel.ch@gmail.ch">
+	<extension point="xbmc.addon.repository"
+		name="Unofficial luxeria addon repository">
+		<info compressed="false">http://luxeria-repository.googlecode.com/svn/trunk/luxeria//addons.xml</info>
+                <checksum>http://luxeria-repository.googlecode.com/svn/trunk/luxeria/addons.xml.md5</checksum> 
+		<datadir zip="true">http://luxeria-repository.googlecode.com/svn/trunk/luxeria/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install addons from the luxeria-repository</summary>
+		<description>Download and install addons from the unofficial luxeria-repository.</description>
+		<disclaimer>The use of the addons provided by luxeria-repository is at your own risk !</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

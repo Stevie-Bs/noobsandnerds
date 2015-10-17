@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.nlsports" name="NL Sports Repository" version="0" provider-name="NLSPORTS">
+	<extension point="xbmc.addon.repository" name="NL Sports Repository">
+		<info compressed="true">http://git.tvaddons.nl:8888/root/NL-Addons/raw/master/addons.xml</info>
+		<checksum>http://git.tvaddons.nl:8888/root/NL-Addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://git.tvaddons.nl:8888/root/NL-Addons/raw/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository NL Sports</summary>
+		<description>Download and install addons from NL Sports</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

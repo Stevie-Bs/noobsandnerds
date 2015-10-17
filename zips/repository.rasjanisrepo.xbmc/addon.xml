@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.rasjanisrepo.xbmc" name="Rasjani's Add-ons" version="0" provider-name="rasjani">
+        <extension point="xbmc.addon.repository" name="Rasjani's Add-ons">
+                <info compressed="false">http://pcuf.fi/~rasjani/xbmc-rasjanisrepo/addons.xml</info>
+                <checksum>http://pcuf.fi/~rasjani/xbmc-rasjanisrepo/addons.xml.md5</checksum>
+                <datadir zip="true">http://pcuf.fi/~rasjani/xbmc-rasjanisrepo/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Finnish free streaming  content and some general addons</summary>
+                <summary lang="fi">Ilmaista suomalaista sisältöä ja muita lisäreitä.</summary>
+                <description>Provides freely available content from Finnish media sites where no official xbmc addons available.</description>
+                <description lang="fi">Lisärit tuo suomalaisen sisällön sivuilta joilla ei ole virallista xbmc lisäriä.</description>
+                <disclaimer></disclaimer>
+                <platform>all</platform>
+        </extension>
+</addon>
+

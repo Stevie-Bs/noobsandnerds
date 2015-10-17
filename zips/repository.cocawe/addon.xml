@@ -1,0 +1,12 @@
+<addon id="repository.cocawe" name="Cocawe's REPO" version="0" provider-name="Cocawe">
+	<extension point="xbmc.addon.repository" name="Cocawe's Addon Repository">
+		<info compressed="false">https://raw.github.com/cocawe/My-xbmc-repo/master/addons.xml</info>
+		<checksum>https://raw.github.com/cocawe/My-xbmc-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/cocawe/My-xbmc-repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>iStream extensions</description>
+		<platform>all</platform>
+	</extension>
+</addon>

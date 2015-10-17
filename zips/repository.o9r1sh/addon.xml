@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.o9r1sh" name="o9r1sh's Repo" version="0" provider-name="o9r1sh">
+	<extension point="xbmc.addon.repository" name="o9r1sh's Addon Repository">
+		<info compressed="false">http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml</info>
+		<checksum>http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/o9r1sh/o9r1sh/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Addons from o9r1sh</summary>
+		<description>Download and install addons from o9r1sh. For OFFICIAL !! Support Visit XBMCHUB.COM
+Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
+		
+	<platform>all</platform>
+	</extension>
+</addon>
+
+

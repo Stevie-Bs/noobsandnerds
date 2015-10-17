@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.maniac" name="Maniac's Add-on Repository" version="0" provider-name="Maniac">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Maniac's Add-on Repository">
+		<dir minversion="14.0.0">
+			<info compressed="true">http://github.com/manijak/repository.maniac/raw/master/helix/addons.xml</info>
+			<checksum>http://github.com/manijak/repository.maniac/raw/master/helix/addons.xml.md5</checksum>
+			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/helix</datadir>
+			<hashes>true</hashes>
+		</dir>
+		<dir minversion="15.0.0">
+			<info compressed="true">http://github.com/manijak/repository.maniac/raw/master/isengard/addons.xml</info>
+			<checksum>http://github.com/manijak/repository.maniac/raw/master/isengard/addons.xml.md5</checksum>
+			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/isengard</datadir>
+			<hashes>true</hashes>
+		</dir>
+		<dir minversion="15.9.0">
+			<info compressed="true">http://github.com/manijak/repository.maniac/raw/master/jarvis/addons.xml</info>
+			<checksum>http://github.com/manijak/repository.maniac/raw/master/jarvis/addons.xml.md5</checksum>
+			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/jarvis</datadir>
+			<hashes>true</hashes>
+		</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Maniac's Add-on Repository</summary>
+        <description>Get updates and follow development of the Aeon-Nox-5 with LiveTV mod for XBMC/Kodi.</description>
+		<disclaimer>by Maniac</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

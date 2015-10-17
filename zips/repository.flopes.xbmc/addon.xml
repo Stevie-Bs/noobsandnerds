@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.flopes.xbmc" name="flopes repositorio" version="0" provider-name="flopes">
+	<extension point="xbmc.addon.repository" name="flopes Add-on Repository">
+		<info compressed="false">http://repo-flopes-xbmc.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://repo-flopes-xbmc.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://repo-flopes-xbmc.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio flopes</summary>
+		<description>Repositorio para os addons do flopes</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

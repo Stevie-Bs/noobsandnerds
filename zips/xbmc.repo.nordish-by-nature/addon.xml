@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="xbmc.repo.nordish-by-nature" name="NordishByNature Addons" version="0" provider-name="mablae">
+	<extension point="xbmc.addon.repository" name="NordishByNature Addons">
+		<info compressed="false">http://raw.github.com/mablae/xbmc-repo-nordish-by-nature/master/addons.xml</info>
+		<checksum>http://raw.github.com/mablae/xbmc-repo-nordish-by-nature/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/mablae/xbmc-repo-nordish-by-nature/raw/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>NordishByNature Addons</summary>
+		<description>Current Addons:[CR] - Call Notifications[CR] - Twisted[CR] - Zope Interface</description>
+		<disclaimer>All Beta. Have fun! </disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

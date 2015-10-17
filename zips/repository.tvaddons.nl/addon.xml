@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tvaddons.nl" name=".TV Addons Nederland" version="0" provider-name="TVAddons.nl">
+    <extension point="xbmc.addon.repository" name="Club TV Repository">
+        <info compressed="true">http://repo.tvaddons.nl/addons.xml</info>
+        <checksum>http://repo.tvaddons.nl/addons.xml.md5</checksum>
+        <datadir zip="true">http://repo.tvaddons.nl/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>De meest gebruikte add-ons in 1 repository.</summary>
+        <description>De meest gebruikte add-ons vindt u in deze repository.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

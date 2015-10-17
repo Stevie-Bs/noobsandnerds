@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+  id="repository.tcsystem"
+  version="0"
+  name="TCSystem KODI Repo"
+  provider-name="TCSystem(Thomas Goessler)">
+
+  <extension point="xbmc.addon.repository" name="TCSystem KODI Repo">
+	<info compressed="false">http://raw.github.com/ThE-TiGeR/kodi-tcsystem-repository/master/addons.xml</info>
+	<checksum>http://raw.github.com/ThE-TiGeR/kodi-tcsystem-repository/master/addons.xml.md5</checksum>
+	<datadir zip="true">http://raw.github.com/ThE-TiGeR/kodi-tcsystem-repository/master</datadir>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+	<summary>KODI Addons by Thomas Goessler</summary>
+	<description></description>
+	<disclaimer>KODI Addons provided by TCSystem(Thomas Goessler)</disclaimer>
+	<platform>all</platform>
+  </extension>
+
+</addon>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.xbmc.doplnky"
+  version="0"
+  name="XBMC Doplňky (CZ &amp; SK) deprecated"
+  provider-name="Libor Zoubek">
+  <requires>
+    <import addon="repository.kodi-czsk" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.addon.repository"
+    name="repozitář českých a slovenských doplňků">
+    <info compressed="false">http://lzoubek.github.io/xbmc-doplnky/repo/addons.xml</info>
+    <checksum>http://lzoubek.github.io/xbmc-doplnky/repo/addons.xml.md5</checksum>
+    <datadir zip="true">http://lzoubek.github.io/xbmc-doplnky/repo/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>XBMC Doplňky (CZ &amp; SK)</summary>
+    <description>
+      This repository is deprecated and no longer provides updates, you can uninstall it.
+    </description>
+    <description lang="cs">
+      Tento repozitář je zastaralý, můžete jej odinstalovat 
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>

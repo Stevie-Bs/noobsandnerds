@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.he.xbmc" name="HE Xbmc Brasil" version="0" provider-name="hgarcia/eseffair">
+ <extension point="xbmc.addon.repository" name="HE Xbmc Brasil Add-on Repository">
+  <info compressed="false">http://he-repository-brasil.googlecode.com/svn/trunk/addons.xml</info>
+  <checksum>http://he-repository-brasil.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+  <datadir zip="false">http://he-repository-brasil.googlecode.com/svn/trunk/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>XBMC Addons HE</summary>
+  <description>XBMC Addons HE</description>
+  <disclaimer></disclaimer>
+  <platform>all</platform>
+ </extension>
+</addon>

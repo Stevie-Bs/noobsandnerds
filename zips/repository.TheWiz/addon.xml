@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.TheWiz" name="TheWiz Hebrew Repository" version="0" provider-name="TheWiz">
+    <extension point="xbmc.addon.repository" name="TheWiz Hebrew Repository">
+        <info compressed="true">http://repo.thewiz.info/addons.xml</info>
+        <checksum>http://repo.thewiz.info/addons.xml.md5</checksum>
+        <datadir zip="true">http://repo.thewiz.info/</datadir>
+    </extension>		
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">A repository for all Hebrew must have Add-On. All updated</summary>
+        <summary lang="he">תוספים מומלצים ומעודכנים</summary>
+        <description lang="en">Hebrew Movies/TV Wall, Hebrew movies scraper, Hebrew Skins....</description>
+        <description lang="he">קיר סרטים וסדרות, סקרייפר לסרטים בעברית, עשרות סקינים בעברית ועוד</description>
+    </extension>
+</addon>

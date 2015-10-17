@@ -1,0 +1,13 @@
+<addon id="repository.bstrdsmkr" name="Bstrdsmkr's Repository" version="0" provider-name="Bstrdsmkr">
+	<extension point="xbmc.addon.repository" name="Bstrdsmkrs XBMC Addons">
+		<info compressed="false">http://repo.gosub.dk/bstrdsmkr/repository/addons.xml</info>
+		<checksum>http://repo.gosub.dk/bstrdsmkr/repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.gosub.dk/bstrdsmkr/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Bstrdsmkr's Addons</summary>
+		<description>Download and install addons by Bstrdsmkr!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

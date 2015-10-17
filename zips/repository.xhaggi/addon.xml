@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xhaggi" name="xhaggi's repository" version="0" provider-name="xhaggi">
+    <extension point="xbmc.addon.repository" name="xhaggi's repository">
+        <info compressed="false">https://raw.githubusercontent.com/xhaggi/kodi-addons/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/xhaggi/kodi-addons/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/xhaggi/kodi-addons/master/data/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>xhaggi's repository</summary>
+        <description>xhaggi's repository</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

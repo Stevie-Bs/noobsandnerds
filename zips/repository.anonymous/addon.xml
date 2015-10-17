@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.anonymous" name="anonymous repo" version="0" provider-name="Anonymous">
+	<extension point="xbmc.addon.repository" name="Anonymous">
+		<info compressed="false">https://anonymousrepo.svn.codeplex.com/svn/anonymous-repo/addons.xml</info>
+		<checksum>https://anonymousrepo.svn.codeplex.com/svn/anonymous-repo/addons.xml.md5</checksum>
+		<datadir zip="false">https://anonymousrepo.svn.codeplex.com/svn/anonymous-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>My XBMC addons</summary>
+		<description>My XBMC addons</description>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="xbmc.repo.jeroen" name="Jeroen's Add-on Repository" version="0" provider-name="Jeroen">
+    <extension point="xbmc.addon.repository" name="Jeroen's Add-on Repository">
+        <info>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml</info>
+        <checksum>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/download/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Jeroen's Add-on Repository</summary>
+        <description>Home of the reFocus skin</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

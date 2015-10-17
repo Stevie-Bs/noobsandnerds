@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodinerds"
+		name="kodinerds.net Add-ons"
+		version="0"
+		provider-name="Jugger">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+	<extension point="xbmc.addon.repository"
+		name="kodinerds.net Add-on Repository">
+		<dir minversion="14.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi14/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi14/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi14</datadir>
+		</dir>
+		<dir minversion="15.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi15/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi15/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi15</datadir>
+		</dir>
+		<dir minversion="16.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi16/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi16/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi16</datadir>
+		</dir>
+		<dir minversion="17.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi17/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi17/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi17</datadir>
+		</dir>
+		<dir minversion="18.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi18/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi18/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi18</datadir>
+		</dir>
+		<dir minversion="19.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi19/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi19/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi19</datadir>
+		</dir>
+		<dir minversion="20.0.0">
+			<info compressed="true">http://repo.skinquantum.de/nerdsrepo/kodi20/addons.xml</info>
+			<checksum>http://repo.skinquantum.de/nerdsrepo/kodi20/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.skinquantum.de/nerdsrepo/kodi20</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install add-ons from kodinerds</summary>
+		<summary lang="de">Installiere Add-ons von kodinerds</summary>
+		<description>download and install add-ons from repository-kodinerds addon-repository.</description>
+		<description lang="de">Downloade und installiere Add-ons vom repository-kodinerds Add-on-Repository.</description>
+		<disclaimer>kodinerds.net hat die Add-ons nicht selber erstellt und haftet nicht für deren Inhalt.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+

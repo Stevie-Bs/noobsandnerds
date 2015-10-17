@@ -1,0 +1,13 @@
+<addon id="repository.m0ngr31" name="m0ngr31's Repository" version="0" provider-name="m0ngr31">
+	<extension point="xbmc.addon.repository" name="m0ngr31's Add-on Repository">
+		<info compressed="false">http://m0ngr31.us/repo/addons.xml</info>
+		<checksum>http://m0ngr31.us/repo/addons.xml.md5</checksum>
+		<datadir zip="false">http://m0ngr31.us/repo/download</datadir>
+		<hashes>false</hashes>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">m0ngr31's repository</summary>
+		<description lang="en">Download and install add-ons from the m0ngr31 repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>

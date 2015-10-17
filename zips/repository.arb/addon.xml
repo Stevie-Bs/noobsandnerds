@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.arb" name="ARB Repo" version="0" provider-name="ARB">
+	<extension point="xbmc.addon.repository" name="ARB Repo">
+		<info compressed="false">https://raw.github.com/Andrewrb84/ARBMODRAPIER/master/addons.xml</info>
+		<checksum>https://raw.github.com/Andrewrb84/ARBMODRAPIER/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/Andrewrb84/ARBMODRAPIER/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ARB Repository</summary>
+		<description>Home of the ARB Rapier skin and ARB wizard</description>
+		<platform>all</platform>
+	</extension>
+</addon>

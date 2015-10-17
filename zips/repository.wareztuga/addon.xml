@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.wareztuga" name="wareztuga.tv repositorio" version="0" provider-name="wareztuga">
+	<extension point="xbmc.addon.repository" name="wareztuga.tv repositorio">
+		<info compressed="false">http://fightnight-xbmc.googlecode.com/svn/addons/wareztuga/addons.xml</info>
+		<checksum>http://fightnight-xbmc.googlecode.com/svn/addons/wareztuga/addons.xml.md5</checksum>
+		<datadir zip="true">http://fightnight-xbmc.googlecode.com/svn/addons/wareztuga/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Filmes e Series do wareztuga.tv no XBMC</summary>
+		<description>Visita o site oficial. www.wareztuga.tv</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

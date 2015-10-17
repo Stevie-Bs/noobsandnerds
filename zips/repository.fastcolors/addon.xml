@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fastcolors"
+       name="Fastcolors Repo"
+       version="0"
+       provider-name="fastcolors">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository"
+               name="Fastcolors Repo">
+        <dir minversion="13.0.0">
+            <info>http://fastcolors.net/Repo/addons.xml</info>
+            <checksum>http://fastcolors.net/Repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://fastcolors.net/Repo</datadir>
+            <hashes>true</hashes>
+        </dir>
+        <dir minversion="13.9.0">
+            <info>http://fastcolors.net/Repo/helix/addons.xml</info>
+            <checksum>http://fastcolors.net/Repo/helix/addons.xml.md5</checksum>
+            <datadir zip="true">http://fastcolors.net/Repo/helix</datadir>
+            <hashes>true</hashes>
+        </dir>
+        <info>http://fastcolors.net/Repo/addons.xml</info>
+        <checksum>http://fastcolors.net/Repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://fastcolors.net/Repo</datadir>
+        <hashes>true</hashes>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Fastcolor Repository.</summary>
+        <description>Keep Up with latest developement of Sio2x.</description>
+        <disclaimer>Home of Sio2x.</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+

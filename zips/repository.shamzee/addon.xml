@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.shamzee" name="Shamzee's Repo" version="0" provider-name="TerrorKeed">
+	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
+		<info compressed="false">http://github.com/TerrorKeed/shamzee-repo/raw/master/addons.xml</info>
+		<checksum>http://github.com/TerrorKeed/shamzee-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/TerrorKeed/shamzee-repo/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>My official addons repo for Kodi/XBMC</summary>
+		<description>Download and install addons from TerrorKeed</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

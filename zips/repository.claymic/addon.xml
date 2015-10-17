@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <addon id="repository.claymic" name="Repo Claymic" version="0" provider-name="Clayton Claymic">
+    <extension point="xbmc.addon.repository" name="Repo Claymic">
+    <info>http://script-allinone.googlecode.com/svn/trunk/addons.xml</info>
+    <checksum>http://script-allinone.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+    <datadir zip="true">http://script-allinone.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Claymic repo, by Clayton Claymic.</summary>
+    <summary lang="pt">Repo Claymic, por Clayton Claymic.</summary>
+		<description lang="en">With this repository you keep the add-ons always updated.</description>
+		<description lang="pt">Com este repositório você mantém os addons sempre atualizados.</description>
+		<disclaimer lang="en">This repository is a complement for skins.</disclaimer>
+		<disclaimer lang="pt">Este repositório é um complemento para skins.</disclaimer>
+		<platform>all</platform>
+    </extension>
+  </addon>

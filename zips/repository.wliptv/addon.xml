@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.wliptv" name="WLIPTV Repository" version="0" provider-name="WLIPTV Repository">
+	<extension point="xbmc.addon.repository" name="WLIPTV Repository">
+		<info compressed="false">http://xbmc.wliptv.com/addons.xml</info>
+		<checksum>http://xbmc.wliptv.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://xbmc.wliptv.com/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>WLIPTV Repository</summary>
+		<description>WLIPTV Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

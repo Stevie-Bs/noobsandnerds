@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="Tugafree.repositorio" name="Tugafree Repositorio" version="0" provider-name="Tugafree">
+	<extension point="xbmc.addon.repository" name="Tugafree Add-on Repository">
+		<info compressed="false">http://raw.github.com/Tugafree/Tugafree.repositorio/master/addons.xml</info>
+		<checksum>http://raw.github.com/Tugafree/Tugafree.repositorio/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Tugafree/Tugafree.repositorio/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Tugafree Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

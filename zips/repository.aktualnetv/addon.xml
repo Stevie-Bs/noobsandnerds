@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.aktualnetv" name="Aktualně TV Add-on Repository" version="0" provider-name="Petr Kutalek (petr@kutalek.cz)">
+  <extension point="xbmc.addon.repository" name="Aktualně TV Add-on Repository">
+    <info compressed="false">https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml</info>
+    <checksum>https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/</datadir>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">This repository provides up-to-date version of Aktualne TV addon</summary>
+    <summary lang="cs">Tento repozitář poskytuje aktuální verzi doplňku Aktuálně TV</summary>
+    <description lang="en">Aktualne.cz — covering all aspects of life in the Czech Republic, from political, social, economic and sports news to arts and culture</description>
+    <description lang="cs">Aktuálně.cz — kompletní zpravodajství, zprávy z domova i ze světa</description>
+    <disclaimer lang="en">This is an unofficial repository and is in no way affiliated with publisher Economia, a. s.</disclaimer>
+    <disclaimer lang="cs">Toto je neoficiální repozitář a není žádným způsobem spojen s vydavatelstvím Economia, a. s.</disclaimer>
+    <platform>all</platform>
+    <language>en cs</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <website>http://video.aktualne.cz/</website>
+    <forum>https://github.com/petrkutalek/plugin.video.aktualnetv/issues</forum>
+    <email>petr@kutalek.cz</email>
+    <source>http://github.com/petrkutalek/plugin.video.aktualnetv/</source>
+  </extension>
+</addon>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.japanese" name="Japanese XBMC Addons" version="0" provider-name="xbmc_now">
+	<extension point="xbmc.addon.repository" name="Japanese XBMC Addon Repository">
+		<info compressed="false">https://raw.github.com/xbmc-now/japanese-xbmc-addons/master/repo/addons.xml</info>
+		<checksum>https://raw.github.com/xbmc-now/japanese-xbmc-addons/master/repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/xbmc-now/japanese-xbmc-addons/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Japanese Addons</summary>
+		<description>Download and install Japanese addons</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

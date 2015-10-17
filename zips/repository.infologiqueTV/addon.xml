@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.infologiqueTV" name="Source OFFICIELLE de plugins Infologique.net" version="0" provider-name="Dany">
+	<extension point="xbmc.addon.repository" name="Private Addons XBMC">
+		<info compressed="false">http://tv.infologique.net/XBMC/addons.xml</info>
+		<checksum>http://tv.infologique.net/XBMC/addons.xml.md5</checksum>
+		<datadir zip="true">http://tv.infologique.net/XBMC/zip</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Rassemble diverses sources de contenu québécois</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>

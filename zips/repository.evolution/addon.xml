@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.evolution" 
+	   name="Studio-Evolution Addons" 
+	   version="0" 
+	   provider-name="Studio-Evolution">
+	<extension point="xbmc.addon.repository" name="Studio-Evolution Addons">
+		<info compressed="false">http://raw.github.com/GeekEdem/zip/master/addons.xml</info>
+		<checksum>http://raw.github.com/GeekEdem/zip/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/GeekEdem/zip/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Studio-Evolution Addons Repository</summary>
+		<summary lang="ru">Репозиторий с дополненеиями от Studio-Evolution</summary>
+		<description lang="en">This repository contains media addons for different resources, such as MEGOGO.NET</description>
+		<description lang="ru">Это хранилище содержит приложения для различных ресурсов, таких как MEGOGO.NET</description>
+		<platform>all</platform>
+	</extension>
+</addon>

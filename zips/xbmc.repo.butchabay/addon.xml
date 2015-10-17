@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+  <addon id="repo.butchabay" name="repository butchabay" version="0" provider-name="butchabay">
+  <extension point="xbmc.addon.repository" name="repository butchabay">
+  <info>http://xbmc-repository-butchabay.googlecode.com/svn/trunk/addons.xml</info>
+  <datadir zip="true">http://xbmc-repository-butchabay.googlecode.com/svn/trunk</datadir> 
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">Install skins from butchabay's repository.</summary> 
+  <description lang="en">download and install skins from googlecode.repository-butchabay.</description> 
+  <disclaimer lang="en">no official releases, use at your own risk.</disclaimer> 
+  <platform>all</platform> 
+  </extension>
+  </addon>

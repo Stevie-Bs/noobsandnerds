@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.googlecode.xbmc-phoenix" name="Phoenix Addons" version="0" provider-name="PhoenixCrew">
+	<extension point="xbmc.addon.repository" name="Phoenix Addon Repository">
+		<info compressed="false">https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml</info>
+		<checksum>https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
+		<datadir zip="true">https://xbmc-phoenix.googlecode.com/svn/trunk/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Phoenix addons from xbmc-phoenix.googlecode.com</summary>
+		<description>Download and install Phoenix addons from Phoenix Addon Repository</description>
+		<disclaimer>The video add-ons hosted by my XBMC add-ons repository makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, video add-ons don't warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Internet web site where from data is retrieved or otherwise relating to such materials or on any sites linked to this addon. Videos are streamed directly from video-hosting websites that are having full rights to remove such access to video if required.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

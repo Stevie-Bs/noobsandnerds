@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.leandros.xbmc-plugins" name="Leandros Repository" version="0" provider-name="Leandros">
+  <extension point="xbmc.addon.repository" name="Leandros Repository">
+        <info compressed="false">http://xbmcrepo.arvid-g.de/addons.xml</info>
+        <checksum>http://xbmcrepo.arvid-g.de/addons.xml.md5</checksum>
+        <datadir zip="true">http://xbmcrepo.arvid-g.de</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">Repository from Leandros</summary>
+		<description lang="en">Leandros' Repository for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

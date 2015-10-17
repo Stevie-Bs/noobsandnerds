@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.VEOLO"
+		name="VEOLO Add-ons"
+		version="0"
+		provider-name="A.C. Ryan">
+	<extension point="xbmc.addon.repository"
+		name="VEOLO Add-on Repository">
+		<info>https://copy.com/3ZP97S79haAMs0IF/Repo.VEOLO/addons.xml</info>
+		<checksum>https://copy.com/3ZP97S79haAMs0IF/Repo.VEOLO/addons.xml.md5</checksum>
+		<datadir zip="true">https://copy.com/3ZP97S79haAMs0IF/Repo.VEOLO/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">VEOLO Add-on Repository</summary>
+		<summary lang="nl">VEOLO Addon Depot</summary>
+		<description lang="en">A.C. Ryan's official add-on repository.</description>
+		<description lang="nl">A.C. Ryan's officiële addon depot.</description>
+		<disclaimer lang="en">A.C. Ryan did not make all the add-ons in this repository and is in no way responsible for their content.</disclaimer>
+		<disclaimer lang="nl">A.C. Ryan heeft niet alle add-ons in dit depot gemaakt en is op geen enkele manier verantwoordelijk voor hun inhoud.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

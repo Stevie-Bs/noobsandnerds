@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ninbora"
+       name="Ninbora Addons"
+       version="0"
+       provider-name="Ninbora Development Team">
+  <extension point="xbmc.addon.repository" name="Ninbora">
+    <info compressed="false">http://www.ninbora.com/addons/addons.xml</info>
+    <checksum>http://www.ninbora.com/addons/addons.xml.md5</checksum>
+    <datadir zip="true">http://www.ninbora.com/addons</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <minversion>1</minversion>
+    <platform>all</platform>
+    <summary     lang="en">Ninbora Repository</summary>
+    <description lang="en">Addons from Ninbora</description>
+    <summary     lang="he">מאגר ההרחבות והתוספים של נינבורה</summary>
+    <description lang="he">מאגר ההרחבות והתוספים של נינבורה</description>
+    <website>https://www.ninbora.com</website>
+  </extension>
+</addon>

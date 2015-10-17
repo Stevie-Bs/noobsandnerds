@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.malayxbmc.addons" name="Malaysia XBMC Addon Repository" version="0">
+	<extension point="xbmc.addon.repository" name="Malaysia XBMC Addon Repository">
+		<info compressed="false">http://malaysia-kodiaddon-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://malaysia-kodiaddon-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://malaysia-kodiaddon-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Non official Malaysia made add-ons XBMC repository.</summary>
+		<description>Add-ons for XBMC, all made by Malaysian members.</description>
+		<disclaimer>Show your support. All suggestion and comments,mail to daudfatihah35@yahoo.com</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bunkford" name="Bunkford's Repository" version="0" provider-name="bunkford">
+	<extension point="xbmc.addon.repository" name="Bunkford's Repository">
+		<info compressed="false">http://github.com/bunkford/Bunkford/raw/master/addons.xml</info>
+		<checksum>http://github.com/bunkford/Bunkford/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/bunkford/Bunkford/raw/master/zips</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>bunkford's Addon Repository</summary>
+        <description>Download and install bunkford's addon repository, home of bunkford, putlockertv and the new tvlinks.cc Plugins!</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+

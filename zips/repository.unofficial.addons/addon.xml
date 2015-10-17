@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.unofficial.addons" name="Unofficial Add-on Repository" version="0">
+	<extension point="xbmc.addon.repository" name="Unofficial Add-on Repository">
+		<info compressed="false">http://xbmc-addon-repository.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://xbmc-addon-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://xbmc-addon-repository.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Various Third-Party XBMC Add-ons</summary>
+		<description>Add-ons for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

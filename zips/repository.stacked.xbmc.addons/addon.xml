@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.stacked.xbmc.addons" name="stacked Add-ons" version="0" provider-name="stacked">
+	<extension point="xbmc.addon.repository" name="stacled Add-ons">
+		<info compressed="false">http://plugin.googlecode.com/git/addons.xml</info>
+		<checksum>http://plugin.googlecode.com/git/addons.xml.md5</checksum>
+		<datadir zip="false">http://plugin.googlecode.com/git/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Video Add-ons from stacked</summary>
+		<description>Download and install video add-ons from stacked Add-on Repository</description>
+		<disclaimer>Please report any issues with addons from this repository to stacked.xbmc@gmail.com</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+	</extension>
+</addon>

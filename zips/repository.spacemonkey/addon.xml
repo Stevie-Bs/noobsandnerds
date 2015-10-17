@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+	id="repository.spacemonkey"
+	name="SpaceMonkey's Addons"
+	version="0"
+	provider-name="SpaceMonkey">
+	<extension point="xbmc.addon.repository"
+        name="SpaceMonkey's Add-on Repository">
+		<info>http://dl.dropbox.com/u/6561811/Repository/addons.xml</info> 
+		<checksum>http://dl.dropbox.com/u/6561811/Repository/addons.xml.md5</checksum> 
+		<datadir zip="true">http://dl.dropbox.com/u/6561811/Repository</datadir>  
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>SpaceMonkey's Add-ons for XBMC</summary>
+		<description>Download and install Add-ons for XBMC.</description>
+		<disclaimer>-</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbxl" name="Xbxl Add-on Repository" version="0" provider-name="Xbxl">
+	<extension point="xbmc.addon.repository" name="The Xbxl Add-on Repository">
+		<info compressed="false">https://xbmc-dpstream.googlecode.com/git/repository/addons.xml</info>
+		<checksum>https://xbmc-dpstream.googlecode.com/git/repository/addons.xml.md5</checksum>
+		<datadir zip="false">https://xbmc-dpstream.googlecode.com/git/repository/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from Xbxl Repository</summary>
+		<description>Video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

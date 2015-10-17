@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="o.repository.maluco" name="O Repositorio Maluco" version="0" provider-name="OMaluco">
+	<extension point="xbmc.addon.repository" name="Filmes Series Tuga Add-on Repository">
+		<info compressed="false">http://o-repositorio-maluco.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://o-repositorio-maluco.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://o-repositorio-maluco.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio Maluco</summary>
+		<description>Filmes e Series</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

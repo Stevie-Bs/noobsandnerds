@@ -1,0 +1,14 @@
+<?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.movieshd" name="MoviesHD Addon Repository" version="0" provider-name="MoviesHD MetalKettle">
+	<extension point="xbmc.addon.repository" name="MoviesHD Addon Repository">
+		<info compressed="false">http://raw.github.com/metalkettle/MoviesHD/master/addons.xml</info>
+		<checksum>http://raw.github.com/metalkettle/MoviesHD/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/metalkettle/MoviesHD/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hashiname" name="Hashiname Add-on Repository" version="0" provider-name="Hashiname">
+    <extension point="xbmc.addon.repository" name="Hashiname Add-on Repository">
+        <info>https://raw.githubusercontent.com/hasherdene/kodi-repo-hashiname/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/hasherdene/kodi-repo-hashiname/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/hasherdene/kodi-repo-hashiname/master/datadir</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Hashiname Add-on Repository</summary>
+        <description>Personal kodi addons</description>
+        <disclaimer>I am not responsible for anything.</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

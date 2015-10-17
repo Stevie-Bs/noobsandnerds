@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.gbzygil" name="gbzygil's XBMC Addons" version="0" provider-name="gbzygil">
+	<extension point="xbmc.addon.repository" name="gbzygil's XBMC Addon Repository">
+		<info compressed="false">https://github.com/gbzygil/gbzygil-xbmc-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/gbzygil/gbzygil-xbmc-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/gbzygil/gbzygil-xbmc-repo/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>gbzygil's Addon Repository</summary>
+		<description>Download and install gbzygil's addon repository, home of the olangal.com and rajtamil.com addons!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodibrasilforum" name="Kodi Brasil Forum Repository" version="0" provider-name="Wanilton">
+	<extension point="xbmc.addon.repository" name="Kodi Brasil Forum Repository">
+		<info>http://raw.github.com/kodibrasil/kodibrasilforum/master/addons.xml</info>				                         
+		<checksum>http://raw.github.com/kodibrasil/kodibrasilforum/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/kodibrasil/kodibrasilforum/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi Brazil Forum Repository Addon</summary>
+		<description>Official Repository Kodi Brazil Forum</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

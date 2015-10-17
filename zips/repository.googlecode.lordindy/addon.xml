@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.googlecode.lordindy" name="lordindy addons" version="0" provider-name="lordindy">
+        <extension point="xbmc.addon.repository" name="lordindy add-on repository">
+                <info compressed="false">http://lordindy-xbmc.googlecode.com/svn/addons/addons.xml</info>
+                <checksum>http://lordindy-xbmc.googlecode.com/svn/addons/addons.xml.md5</checksum>
+                <datadir zip="true">http://lordindy-xbmc.googlecode.com/svn/addons</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Various addons from http://lordindy-xbmc.googlecode.com</summary>
+                <description>Various video and program addons and scripts from LordIndy repository.</description>
+                <platform>all</platform>
+        </extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.clubtv.nl" name="Club TV Repository" version="0" provider-name="vDia Internet Applications">
+	<extension point="xbmc.addon.repository" name="Club TV Repository">
+		<info compressed="true">http://clubtv.dooremolen.com/addons/addons.xml</info>
+		<checksum>http://clubtv.dooremolen.com/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://clubtv.dooremolen.com/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Officiele Youtube kanalen van de voetbalclubs uit de Eredivisie</summary>
+		<description>Download and install addons voor de Officiele Youtube kanalen van de voetbalclubs uit de Eredivisie</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

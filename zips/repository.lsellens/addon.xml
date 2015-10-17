@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.lsellens"
+       name="lsellens openelec addon repository"
+       version="0"
+       provider-name="lsellens">
+  <extension point="xbmc.addon.repository"
+             name="lsellens openelec addon repository">
+    <info compressed="false">http://lsellens.openelec.tv/addons/repo/addons.xml</info>
+    <checksum>http://lsellens.openelec.tv/addons/repo/addons.xml.md5</checksum>
+    <datadir zip="true">http://lsellens.openelec.tv/addons/repo</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Repository for xbmc/openelec addons by lsellens</summary>
+    <description lang="en">Repository for an unofficial fork of SABnzbd-Suite and SickPotatoHead</description>
+    <platform>all</platform>
+  </extension>
+</addon>

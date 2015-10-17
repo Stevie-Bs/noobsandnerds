@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon 
+        id="repository.crzen" 
+        name="Crzen's Repository" 
+        version="0" 
+        provider-name="Crzen">
+		<extension point="xbmc.addon.repository" name="Crzen's Repository">
+			<info compressed="false">http://raw.github.com/crzen/repository.crzen/master/addons.xml</info>
+			<checksum>http://raw.github.com/crzen/repository.crzen/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/crzen/repository.crzen/master/zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Crzen's Addon Repository</summary>
+			<description lang="en">Addons developed by Crzen.</description>
+			<disclaimer lang="en">For bugs, requests or general questions contact Crzen on the XBMCHUB forum.</disclaimer>
+			<platform>all</platform>
+			<license></license>
+			<language>en</language>
+			<forum>http://www.xbmchub.com/forums/</forum>
+			<website>http://www.xbmchub.com/</website>
+			<email></email>
+			<source>https://github.com/crzen/repository.crzen/tree/master/repository.crzen</source>
+		</extension>
+	</addon>

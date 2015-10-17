@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.googlecode.repothn" name="repothn" version="0" provider-name="THN - Twitter @KaptajnGuldkorn - http://www.vandtasi.net">
+	<extension point="xbmc.addon.repository" name="THNs Add-on Repository">
+		<info compressed="true">http://repothn.googlecode.com/svn/trunk/addons/addons.xml</info>
+		<checksum>http://repothn.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
+		<datadir zip="false">http://repothn.googlecode.com/svn/trunk/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Dette er et XBMC-addon til youtube nørderne. Gir f.eks adgang til livingsmarttv.dk, SoEinDing og mange andre videoer</summary>
+		<description>Dette repo. indeholder livingsmarttv, SoEinDing og Ashens youtube addons og nogle andre spændende sager</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

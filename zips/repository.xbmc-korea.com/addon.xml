@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc-korea.com"
+		name="XBMC-Korea.com Add-ons"
+		version="0"
+		provider-name="XBMC-Korea">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+	<extension point="xbmc.addon.repository"
+		name="XBMC-Korea.com Add-on Repository">
+		<dir minversion="12.9.0">
+			<info compressed="true">http://xbmc-korea-addons.googlecode.com/svn/addons/gotham/addons.xml</info>
+			<checksum>http://xbmc-korea-addons.googlecode.com/svn/addons/gotham/addons.xml.md5</checksum>
+			<datadir zip="true">http://xbmc-korea-addons.googlecode.com/svn/addons/gotham</datadir>
+			<hashes>true</hashes>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from XBMC-Korea.com</summary>
+		<summary lang="ko">XBMC-Korea.com에서 애드온 설치</summary>
+		<description lang="en">Download and install add-ons from the XBMC-Korea.com addon repository.[CR]  All addons on this repository have under gone basic testing, if you find a broken or not working addon please report it to XBMC-Korea.com so we can take any action needed.</description>
+		<description lang="ko">XBMC-Korea.com 애드온 저장소로부터 애드온들을 다운로드하고 설치합니다.[CR]  이 저장소의 모든 애드온들은 기본적인 확인을 했습니다. 만약 문제를 발견하시면 XBMC-Korea.com 포럼에 보고해주세요.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

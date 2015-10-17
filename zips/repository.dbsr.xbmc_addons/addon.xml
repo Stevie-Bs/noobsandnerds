@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dbsr.xbmc_addons" name="dbsrs xbmc addon repo" version="0" provider-name="dbsr">
+    <extension point="xbmc.addon.repository" name="dbsr's xbmc addon repo">
+        <info compressed="false">https://github.com/dbsr/repository.dbsr.xbmc_addons/raw/master/addons.xml</info>
+        <checksum>https://github.com/dbsr/repository.dbsr.xbmc_addons/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/dbsr/repository.dbsr.xbmc_addons/raw/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>install dbsr's addons</summary>
+        <description>download and install addons by dbsr</description>
+        <platform>all</platform>
+    </extension>
+</addon>

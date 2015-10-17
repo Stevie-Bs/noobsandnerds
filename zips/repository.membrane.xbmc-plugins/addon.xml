@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.membrane.xbmc-plugins" name="membrane Add-on Repository" version="0" provider-name="membrane">
+	<extension point="xbmc.addon.repository" name="membrane Add-on Repository">
+		<info compressed="false">http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://membrane-xbmc-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from membrane Add-on Repository</summary>
+		<description>Video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc-chinese-tube" name="Addons for Chinese TV on Youtube" version="0" provider-name="yuhangw">
+        <extension point="xbmc.addon.repository" name="Addons for Chinese TV on Youtube">
+                <info compressed="false">http://xbmc-chinese-tube.googlecode.com/svn/trunk/addons.xml</info>
+                <checksum>http://xbmc-chinese-tube.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+                <datadir zip="false">http://xbmc-chinese-tube.googlecode.com/svn/trunk</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Addons for Chinese TV on Youtube</summary>
+                <summary lang="zh">用来看Youtube上的中文电视节目的XBMC扩展功能库</summary>
+                <description>This repository contains addons that provide fast and convenient access to Chinese TV programs on Youtube. </description>
+                <description lang="zh">本扩展程序库可以让海外华人高速和便捷地观看Youtube上的中文电视节目。</description>
+                <disclaimer>The owners and submitters to this repository do not host or upload any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+                <disclaimer lang="zh">本扩展程序库的所有者和提交程序者没有伺服或上载任何本扩展程序显示的节目，并且和节目提供商没有任何联系。</disclaimer>
+                <platform>all</platform>
+        </extension>
+</addon>
+

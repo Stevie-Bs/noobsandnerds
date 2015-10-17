@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<addon id="repository.googlecode.xbmc-cycnow"
+name="xbmc-cycnow Add-ons" version="0"
+provider-name="MGendyS">
+  <extension point="xbmc.addon.repository"
+  name="xbmc-catchuptv-au Add-on Repository">
+    <info compressed="false">
+    https://repo.xbmc-cycnow.googlecode.com/hg/addons.xml</info>
+    <checksum>
+    https://repo.xbmc-cycnow.googlecode.com/hg/addons.xml.md5</checksum>
+    <datadir zip="true">
+    https://repo.xbmc-cycnow.googlecode.com/hg/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Install Add-ons from
+    xbmc-cycnow</summary>
+    <description>Download and install add-ons from
+    xbmc-cycnow addon repository.[CR][CR]By using
+    this Repository you will be able to download and use the latest
+    version of the Christian Youth Channel TV Plugins.</description>
+    <disclaimer>MGendyS did not make all the add-ons on this
+    repository and is not responsible for their
+    content</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

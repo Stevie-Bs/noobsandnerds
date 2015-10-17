@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<addon id="repository.xb-israel.shmulik" name="xb-israel, israeli VOD" version="0" provider-name="shmulik">
+  <extension point="xbmc.addon.repository" name="xb-israel, israeli VOD">
+    <info compressed="false">http://xb-israel.googlecode.com/svn/trunk/addons.xml</info> 
+    <checksum>http://xb-israel.googlecode.com/svn/trunk/addons.xml.md5</checksum> 
+    <datadir zip="false">http://xb-israel.googlecode.com/svn/trunk/</datadir> 
+  </extension> 
+  <extension point="xbmc.addon.metadata">
+    <summary>Install Add-ons for Israeli Vod sites</summary> 
+    <description>Video plug-ins for XBMC</description> 
+    <platform>all</platform> 
+  </extension>
+</addon>

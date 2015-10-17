@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.t0mus" name="Polish online videos repository" version="0" provider-name="t0mus">
+	<extension point="xbmc.addon.repository" name="t0mus-xbmc-addons repository">
+		<info compressed="false">http://t0mus-xbmc-addons.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://t0mus-xbmc-addons.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://t0mus-xbmc-addons.googlecode.com/svn/trunk</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Addons that allow users to browse contents of some polish online video sites.</summary>
+		<summary lang="pl">Wtyczki umożliwiające oglądanie filmów z kilku polskich serwisów z filmami onlie.</summary>
+		<description>This project contains xbmc addons that allow users to browse content of following polish online video sites: filmy.a33.pl, osiu.pl</description>
+		<description lang="pl">Ten projekt zawiera wtyczki umożliwiające oglądanie filmów z następujących serwisów: filmy.a33.pl, osiu.pl</description>
+		<disclaimer>Repository has non-comercial nature. Created by enthusiasts, acting in good faith.[CR]Authors make efforts (according their knowledge) to do not break any lows or regulations by publsihed solutions.[CR]If you notice any violation please let us know![CR]NOTE!Solutions created and tested in Poland, some of them might violate low or requlations in other countries.[CR]Authors take not responsibility for use of this repository and its content.</disclaimer>
+		<disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny, tworzone przez pasjonatów, działających w dobrej wierze.[CR]Autorzy dokładają starań aby (zgodnie z ich stanem wiedzy) publikowane rozwiązania nie naruszały prawa.[CR]Jeżeli jednak zauważysz jakiekolwiek naruszenie prawa, prosimy, poinformuj nas o tym![CR]UWAGA! Rozwiązania są tworzone i testowane w Polsce, mogą naruszać prawo w innych krajach.[CR]Autorzy nie ponoszą odpowiedzialności za używanie repozytorium i jego zawartości.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

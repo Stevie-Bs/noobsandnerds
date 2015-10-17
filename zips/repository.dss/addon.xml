@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dss" name="Dutch Sport Streams" version="0" provider-name="Dutch Cloud TV">
+	<extension point="xbmc.addon.repository" name="Dutch Sport Streams Repository">
+		<info compressed="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository Dutch Sport Streams</summary>
+		<description>Download and install addons from Dutch Sport Streams[CR]http://facebook.com/dutchcloudtv</description>
+		<platform>all</platform>
+	</extension>
+</addon>

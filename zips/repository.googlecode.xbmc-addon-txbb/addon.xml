@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.googlecode.xbmc-addon-txbb" name="TVChinese Add-on Repository" version="0" provider-name="rodney">
+    <extension point="xbmc.addon.repository" name="TVChinese Add-on Repository">
+        <info compressed="false">http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml</info>
+        <checksum>http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+        <datadir zip="false">http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install Add-ons for xbmc from googlecode.xbmc-addon-tv-tianxianbaby</summary>
+        <summary lang="zh">从googlecode.xbmc-addon-tv-tianxianbaby安装XBMC11或12的插件</summary>
+        <description>Download and install add-ons for XBMC from xbmc-addon-tv-tianxianbaby addon repository.[CR][CR]By using this Repository you will be able to take advantage of our cutting edge features developed for guys on TVChinese board.</description>
+        <description lang="zh">从googlecode.xbmc-addon-tv-tianxianbaby库下载安装XBMC11或12版的插件。[CR][CR]通过使用这个程序库，你将能够分享我们为TVChinese ID们开发的扩展功能。</description>
+        <disclaimer>Rodney made all the add-ons on this repository</disclaimer>
+        <disclaimer lang="zh">本库中插件由rodney开发。</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

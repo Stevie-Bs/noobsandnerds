@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.liquid8d" name="liquid8d's XBMC Addons" version="0" provider-name="liquid8d">
+	<extension point="xbmc.addon.repository" name="liquid8d's XBMC Addon Repository">
+		<info compressed="false">https://raw.github.com/liquid8d/xbmc/master/addons.xml</info>
+		<checksum>https://raw.github.com/liquid8d/xbmc/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/liquid8d/xbmc/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install liquid8d's Addons</summary>
+		<description>Download and install addons by liquid8d</description>
+		<platform>all</platform>
+	</extension>
+</addon>

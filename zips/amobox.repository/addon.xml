@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="amobox.repository" name="  [COLOR blue][B]AMO[/B][/COLOR][COLOR green]box[/COLOR] repository" version="0" provider-name="AdrXbmc">
+	<extension point="xbmc.addon.repository" name="AMObox Repository">
+		<info compressed="false">http://raw.github.com/adrxbmc/amobox.repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/adrxbmc/amobox.repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/adrxbmc/amobox.repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>AMObox Addons</summary>
+		<description>AMObox tools to make life easy</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

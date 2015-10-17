@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ao.xbmc-plugins" name="ao Add-on Repository" version="0" provider-name="ao">
+	<extension point="xbmc.addon.repository" name="ao Add-on Repository">
+                <info compressed="false">http://ao-xbmc-repository.googlecode.com/svn/trunk/addons.xml</info>
+                <checksum>http://ao-xbmc-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+                <datadir zip="false">http://ao-xbmc-repository.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from ao Add-on Repository</summary>
+		<description>Video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

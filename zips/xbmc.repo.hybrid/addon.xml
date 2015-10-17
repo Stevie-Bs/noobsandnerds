@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.hybrid"
+        name="Hybrid Development Repo"
+        version="0"
+        provider-name="Mudislander">
+    <extension point="xbmc.addon.repository"
+        name="Hybrid Development Repo">
+		<info>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://hybrid-development-repo.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary>Hybrid Development Repository</summary>
+		<description>Repository containing the development version of XBMC's skin.hybrid </description>
+		<disclaimer>You break it - You get to keep the pieces</disclaimer>
+        <license>GPL</license> 
+		<platform>all</platform>
+		<noicon>false</noicon> 
+		<nofanart>false</nofanart> 
+    </extension>
+</addon>

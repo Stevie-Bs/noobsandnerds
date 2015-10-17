@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.whitecream" name="Whitecream Repository" version="0" provider-name="Whitecream">
+	<extension point="xbmc.addon.repository" name="Whiteream Addon Repository">
+		<info compressed="false">http://whitecream.googlecode.com/svn/trunk/addon/addons.xml</info>
+		<checksum>http://whitecream.googlecode.com/svn/trunk/addon/addons.xml.md5</checksum>
+		<datadir zip="true">http://whitecream.googlecode.com/svn/trunk/addon/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best [COLOR red][B]XXX[/COLOR][/B] addon for [COLOR red][B]FULL LENGTH[/COLOR][/B] movies on XBMC/KODI</summary>
+		<description>The Best [COLOR red][B]XXX[/COLOR][/B] addon for [COLOR red][B]FULL LENGTH[/COLOR][/B] movies on XBMC/KODI, Follow us on twitter [COLOR blue][B]@WhiteCream01[/COLOR][/B] for updates and to request movies. </description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

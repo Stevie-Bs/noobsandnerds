@@ -1,0 +1,13 @@
+<?xml version="1.6.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.aaarepo" name="  [COLOR lime][B]AAA [/COLOR][COLOR white]Repository[/B][/COLOR]" version="0" provider-name="AAARepo">
+	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]AAA [/COLOR][COLOR white]Repository[/B][/COLOR]">
+        <info compressed="false">http://aaarepo.xyz/repo/addons.xml</info>
+		<checksum>http://aaarepo.xyz/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://aaarepo.xyz/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from AAA Repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>

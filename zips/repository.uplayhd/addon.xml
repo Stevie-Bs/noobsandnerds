@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.uplayhd" name="uPlayHD XBMC Add-ons" version="0" provider-name="iClosedz (iClosedz.blogspot.com)">
+	<extension point="xbmc.addon.repository" name="uPlayHD XBMC Add-ons">
+		<info compressed="false">http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml</info>
+		<checksum>http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from uPlayHD Add-on Repository</summary>
+		<description>Plug-ins for XBMC</description>
+		<disclaimer>Add-ons that allow viewing TV Series on XBMC</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

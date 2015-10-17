@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mFlow" name="mFlow XBMC Addon" version="0" provider-name="proteusplum">
+	<extension point="xbmc.addon.repository" name="mFlow XBMC Addon Repository">
+		<info compressed="false">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/addons.xml.md5</checksum>
+		<datadir 
+zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/downloads</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install mFlow Addon</summary>
+		<description>Download and install the mFlow XBMC plugin</description>x
+		<platform>all</platform>
+	</extension>
+</addon>
+

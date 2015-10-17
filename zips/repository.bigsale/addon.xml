@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bigsale" name="big$ale Add-on Repository" version="0" provider-name="big$ale">
+        <extension point="xbmc.addon.repository" name="big$ale Add-on Repository">
+                <info compressed="false">http://bigsale-repository.googlecode.com/svn/trunk/addons.xml</info>
+                <checksum>http://bigsale-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+                <datadir zip="false">http://bigsale-repository.googlecode.com/svn/trunk/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Install Add-ons from big$ale Add-on Repository</summary>
+                <description>Croatian plug-ins for XBMC</description>
+                <disclaimer></disclaimer>
+                <platform>all</platform>
+        </extension>
+</addon>

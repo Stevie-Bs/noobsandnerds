@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.techdealer" name="Techdealer Repo" version="0" provider-name="Techdealer">
+	<extension point="xbmc.addon.repository" name="Techdealer Repo">
+		<info compressed="false">https://techdealerrepo.svn.codeplex.com/svn/addons.xml</info>
+		<checksum>https://techdealerrepo.svn.codeplex.com/svn/addons.xml.md5</checksum>
+		<datadir zip="false">https://techdealerrepo.svn.codeplex.com/svn/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Techdealer Repo</summary>
+		<description>Techdealer XBMC repo</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

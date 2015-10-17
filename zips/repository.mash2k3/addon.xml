@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mash2k3" name="All Addons by Mash2k3" version="0" provider-name="Mash2k3">
+	<extension point="xbmc.addon.repository" name="Addons from Mash2k3">
+		<info compressed="false">http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml</info>
+		<checksum>http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repo for Mash Up</summary>
+		<description>Download and install addons from Mash2k3.......For OFFICIAL !! Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

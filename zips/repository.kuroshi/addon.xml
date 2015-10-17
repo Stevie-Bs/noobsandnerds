@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kuroshi" name="Kuroshi's XBMC Addons" version="0" provider-name="Kuroshi">
+	<extension point="xbmc.addon.repository" name="Kuroshi's XBMC Addon Repository">
+		<info compressed="false">http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml</info>
+		<checksum>http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://ramblingahoge.net/kuroshi-xbmc-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kuroshi's Addon Repository</summary>
+		<description>Download and install kuroshi's addon repository, home of the MAL updater plugin!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

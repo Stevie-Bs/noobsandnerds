@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="xbmc.repo.freeman" name="freem@n's Add-ons" version="0" provider-name="freem@n">
+  <extension point="xbmc.addon.repository" name="freem@n's Repository">
+    <info compressed="false">https://raw.github.com/freeman212/xbmc.repo.freeman/master/addons.xml</info>
+    <checksum>https://raw.github.com/freeman212/xbmc.repo.freeman/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.github.com/freeman212/xbmc.repo.freeman/master</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>freem@n's add-ons</summary>
+    <description>Download the latest official Release of the reFocus light Skin for Gotham</description>
+    <platform>all</platform>
+    <website>https://github.com/freeman212/xbmc.repo.freeman</website>
+  </extension>
+</addon>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="xbmcTR.repo" 
+		name="xbmc [COLOR red]T[/COLOR]U[COLOR red]R[/COLOR]K[COLOR red]I[/COLOR]Y[COLOR red]E[/COLOR] Eklenti Deposu" 
+		version="0" 
+		provider-name="drascom">
+	<extension point="xbmc.addon.repository" name="drascom Add-on Repository">
+		<info compressed="false">https://github.com/koditr/xbmc-tr-team-turkish-addons/raw/master/addons.xml</info>
+		<checksum>https://github.com/koditr/xbmc-tr-team-turkish-addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/koditr/xbmc-tr-team-turkish-addons/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from xbmcTR Add-on Repository</summary>
+		<summary lang="tr">xbmcTR.com sitesindeki Tum Eklentileri burdan yukleyebilirsiniz.</summary>
+		<description lang="en">Video plug-ins and Movie info scrapers for XBMC</description>
+		<description lang="tr">XBMC programi icin turkce kaynakli dizi,sinema,belgesel,islami yayinlar ve cok daha fazlasi burada...</description>
+		<disclaimer lang="tr">xbmcTR.com sitesi telif hakki ile korunan hicbir medyayi yayinlamaz.Link vermez.Tum yayinlar muhtelif web sitelerinden alinmaktadir.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

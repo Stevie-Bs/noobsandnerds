@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.github.fehmer" name="Addons for deaf people" version="0" provider-name="fehmer">
+	<extension point="xbmc.addon.repository" name="fehmer add-on repository">
+		<info compressed="false">https://raw.github.com/fehmer/xbmc-repository/master/addons.xml</info>
+		<checksum>https://raw.github.com/fehmer/xbmc-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/fehmer/xbmc-repository/master/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install video addons from repository.github.fehmer</summary>
+		<description>Download and install video addons from fehmer repository.</description>
+		<disclaimer>For test usage only. Not stable. Use at own risk. </disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+

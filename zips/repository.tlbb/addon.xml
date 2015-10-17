@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tlbb" name="TLBB Repository" version="0" provider-name="TLBB">
+  <requires>
+    <import addon="repository.Sense8tion" version="1.0"/>
+  </requires>
+	<extension point="xbmc.addon.repository" name="TLBB Repository">
+		<info compressed="false">http://cloud.thelittleblackbox.co.uk/repo/addons.xml</info>
+		<checksum>http://cloud.thelittleblackbox.co.uk/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://cloud.thelittleblackbox.co.uk/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install TLBB specific Addons</summary>
+		<description>Download and install official TLBB addons.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

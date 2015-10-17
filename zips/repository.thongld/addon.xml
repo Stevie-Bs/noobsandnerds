@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thongld" name="ThongLD`s REPO" version="0" provider-name="ThongLD">
+	<extension point="xbmc.addon.repository" name="ThongLD`s Addon Repository">
+		<info compressed="false">http://echipstore.net/thongld/addons.xml</info>
+		<checksum>http://echipstore.net/thongld/addons.xml.md5</checksum>
+		<datadir zip="true">http://echipstore.net/thongld/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install ThongLD Addons</summary>
+		<description>Download and install addons from ThongLD`s Repo: Watch free movies from Phim60s.info and more coming soon</description>
+		<platform>all</platform>
+	</extension>
+</addon>

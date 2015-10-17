@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.teefer.xbmc-plugins" name="teefer Add-on Repository" version="0" provider-name="teefer">
+	<extension point="xbmc.addon.repository" name="teefer Add-on Repository">
+		<info compressed="false">http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="false">http://teefer-xbmc-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from teefer Add-on Repository</summary>
+		<description>Video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

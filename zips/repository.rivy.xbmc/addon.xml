@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.rivy.xbmc" name="RIVY XBMC Repository" version="0" provider-name="rivy">
+	<extension point="xbmc.addon.repository" name="RIVY XBMC Repository">
+		<info compressed="false">https://raw.github.com/rivy/xbmc-repository/master/addons.xml</info>
+		<checksum>https://raw.github.com/rivy/xbmc-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/rivy/xbmc-repository/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install XBMC addons from RIVY</summary>
+		<description lang="en">Download and install addons from the RIVY XBMC repository</description>
+		<license>GPL-3.0</license><!-- see LICENSE.txt or [http://opensource.org/licenses/GPL-3.0] -->
+		<platform>all</platform>
+		<source>https://github.com/rivy/xbmc-repository.rivy.xbmc</source>
+	</extension>
+</addon>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.penguine"
+       name="PENguine Addon Repository"
+       version="0"
+       provider-name="[COLOR blue]PEN[/COLOR]guine">
+	<extension point="xbmc.addon.repository" name="PENguine's Addon Repository">
+                <info compressed="false">https://raw.github.com/PEN-guine/Kodi-Stuff/master/deployments/addons.xml</info>
+                <checksum>https://raw.github.com/PEN-guine/Kodi-Stuff/master/deployments/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.github.com/PEN-guine/Kodi-Stuff/master/deployments/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+                <summary>Addons related to Kodi for apalimarathi</summary>
+		<description>Contains repository and addon for ApaliMarathi.com</description>
+		<platform>all</platform>
+	</extension>
+</addon>

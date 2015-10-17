@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mko"
+        name="mKo's repository"
+        version="0"
+        provider-name="mKo">
+    <extension point="xbmc.addon.repository"
+        name="mKo's Add-on Repository">
+        <info>http://xbmc-repo-mko.googlecode.com/svn/trunk/addons.xml</info>
+        <checksum>http://xbmc-repo-mko.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+        <datadir zip="true">http://xbmc-repo-mko.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>mKo's Add-ons for XBMC</summary>
+        <description>Download and install Add-ons for XBMC.</description>
+        <disclaimer>Support your local lemmings.</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

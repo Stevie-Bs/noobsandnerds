@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mikaelec" name="mikaelec's XBMC Addons" version="0" provider-name="mikaelec">
+    <extension point="xbmc.addon.repository" name="mikaelec's XBMC Addon Repository">
+        <info compressed="false">https://raw.github.com/mikaelec/mikaelec-xbmc-repo/master/addons.xml</info>
+        <checksum>https://raw.github.com/mikaelec/mikaelec-xbmc-repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/mikaelec/mikaelec-xbmc-repo/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>mikaelec's Addon Repository</summary>
+        <description>Download and install mikaelec's addon repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>

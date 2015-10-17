@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.googlecode.XtreamMedia" name="Xtream addons" version="0" provider-name="coadyj">
+	<extension point="xbmc.addon.repository" name="Xtream Media add-on repository">
+		<info compressed="false">http://xtream-media.googlecode.com/svn/addons/addons.xml</info>
+		<checksum>http://xtream-media.googlecode.com/svn/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://xtream-media.googlecode.com/svn/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Addons from http://anarchintosh-projects.googlecode.com</summary>
+		<description>Download and install addons from anarchintosh repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
