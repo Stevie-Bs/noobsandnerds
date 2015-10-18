@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="0" provider-name="Blazetamer">
+<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="0.0.0.1" provider-name="Blazetamer">
 <extension point="xbmc.addon.repository" name="Blaztamer's Addon Repository">
 <info compressed="false">http://offshoregit.com/Blazetamer/repo/raw/master/addons.xml</info>
 <checksum>http://offshoregit.com/Blazetamer/repo/raw/master/addons.xml.md5</checksum>

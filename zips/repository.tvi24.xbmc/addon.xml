@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tvi24.xbmc" name="DeusMaior repositorio" version="0" provider-name="DeusMaior">
+<addon id="repository.tvi24.xbmc" name="DeusMaior repositorio" version="0.0.0.1" provider-name="DeusMaior">
 	<extension point="xbmc.addon.repository" name="DeusMaior Add-on Repository">
 		<info compressed="false">http://pluginxbmctvi24.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://pluginxbmctvi24.googlecode.com/svn/trunk/addons.xml.md5</checksum>

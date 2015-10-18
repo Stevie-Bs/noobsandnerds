@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.filmkodi.com" name="Kodi filmkodi.com repository" version="0" provider-name="Mrknow">
+<addon id="repository.filmkodi.com" name="Kodi filmkodi.com repository" version="0.0.0.1" provider-name="Mrknow">
 	<extension point="xbmc.addon.repository" name="Filmkodi.com Kodi Add-on Repository">
 		<info compressed="false">http://filmkodi.com/repository/addons.xml</info>
 		<checksum>http://filmkodi.com/repository/addons.xml.md5</checksum>

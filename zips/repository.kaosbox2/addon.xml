@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kaosbox2" name="KAOSbox Repo" version="0" provider-name="KAOSbox">
+<addon id="repository.kaosbox2" name="KAOSbox Repo" version="0.0.0.1" provider-name="KAOSbox">
 	<extension point="xbmc.addon.repository" name="Kaosbox Repository">
 		<info compressed="true">http://repobox.kaosbox.tv/addons.xml</info>
 		<checksum>http://repobox.kaosbox.tv/addons.xml.md5</checksum>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.openeleq"
 		name=" [COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR] Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="[COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR]">
 	<extension point="xbmc.addon.repository"
 		name="[COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR] Add-on Repository">

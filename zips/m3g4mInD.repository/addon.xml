@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="m3g4mInD.repository" name="m3g4mInD.repository repository" version="0" provider-name="m3g4mInD">
+<addon id="m3g4mInD.repository" name="m3g4mInD.repository repository" version="0.0.0.1" provider-name="m3g4mInD">
 	<extension point="xbmc.addon.repository" name="Repo Addon m3g4mInD">
 		<info compressed="false">http://raw.github.com/m3g4mInD/m3g4mInD.repository/master/addons.xml</info>
 		<checksum>http://raw.github.com/m3g4mInD/m3g4mInD.repository/master/addons.xml.md5</checksum>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tvaddons.nl" name=".TV Addons Nederland" version="0" provider-name="TVAddons.nl">
+<addon id="repository.tvaddons.nl" name=".TV Addons Nederland" version="0.0.0.1" provider-name="TVAddons.nl">
     <extension point="xbmc.addon.repository" name="Club TV Repository">
         <info compressed="true">http://repo.tvaddons.nl/addons.xml</info>
         <checksum>http://repo.tvaddons.nl/addons.xml.md5</checksum>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.evolution" 
 	   name="Studio-Evolution Addons" 
-	   version="0" 
+	   version="0.0.0.1" 
 	   provider-name="Studio-Evolution">
 	<extension point="xbmc.addon.repository" name="Studio-Evolution Addons">
 		<info compressed="false">http://raw.github.com/GeekEdem/zip/master/addons.xml</info>

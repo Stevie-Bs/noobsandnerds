@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodinerds.helix"
 		name="kodinerds.net Add-ons (Helix)"
-		version="0"
+		version="0.0.0.1"
 		provider-name="Jugger">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>

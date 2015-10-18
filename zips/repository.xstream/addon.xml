@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xstream" name="xStream Repository" version="0" provider-name="Lynx187">
+<addon id="repository.xstream" name="xStream Repository" version="0.0.0.1" provider-name="Lynx187">
     <extension point="xbmc.addon.repository" name="xStream Repository">
         <info compressed="false">http://raw.github.com/Lynx187/xStreamRepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/Lynx187/xStreamRepo/master/addons.xml.md5</checksum>

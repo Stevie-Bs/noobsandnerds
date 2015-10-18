@@ -2,7 +2,7 @@
 <addon
   id="repository.queeup"
   name="queeup Add-ons"
-  version="0"
+  version="0.0.0.1"
   provider-name="queeup">
   <requires>
     <import addon="xbmc.addon"

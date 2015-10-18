@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  <addon id="repository.sapo" name="XBMC on SAPO" version="0" provider-name="SAPO">
+  <addon id="repository.sapo" name="XBMC on SAPO" version="0.0.0.1" provider-name="SAPO">
     <extension point="xbmc.addon.repository" name="XBMC on SAPO">
     <info>https://raw.github.com/sapo/xbmc-repo/master/addons.xml</info>
     <checksum>https://raw.github.com/sapo/xbmc-repo/master/addons.xml.md5</checksum>

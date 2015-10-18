@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.qf.addons" name="QF XBMC Addons" version="0" provider-name="vikjon0">
+<addon id="repository.qf.addons" name="QF XBMC Addons" version="0.0.0.1" provider-name="vikjon0">
 	<extension point="xbmc.addon.repository" name="Eldorado's XBMC Addon Repository">
 		<info compressed="false">https://github.com/vikjon0/qf-xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/vikjon0/qf-xbmc-addons/raw/master/addons.xml.md5</checksum>

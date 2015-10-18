@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.massive-pt" name="massivept addons" version="0" provider-name="massivept">
+<addon id="repository.googlecode.massive-pt" name="massivept addons" version="0.0.0.1" provider-name="massivept">
 	<extension point="xbmc.addon.repository" name="massivept add-on repository">
 		<info compressed="false">http://massive-pt.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://massive-pt.googlecode.com/svn/trunk/addons.xml.md5</checksum>

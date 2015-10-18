@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.uplayhd" name="uPlayHD XBMC Add-ons" version="0" provider-name="iClosedz (iClosedz.blogspot.com)">
+<addon id="repository.uplayhd" name="uPlayHD XBMC Add-ons" version="0.0.0.1" provider-name="iClosedz (iClosedz.blogspot.com)">
 	<extension point="xbmc.addon.repository" name="uPlayHD XBMC Add-ons">
 		<info compressed="false">http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml</info>
 		<checksum>http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml.md5</checksum>

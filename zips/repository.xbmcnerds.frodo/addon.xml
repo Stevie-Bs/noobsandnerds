@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xbmcnerds.frodo" name="xbmcnerds.com Add-ons (Frodo)" version="0" provider-name="mad-max">
+<addon id="repository.xbmcnerds.frodo" name="xbmcnerds.com Add-ons (Frodo)" version="0.0.0.1" provider-name="mad-max">
 	<extension point="xbmc.addon.repository" name="xbmcnerds.com Add-on Repository (Frodo)">
 		<info compressed="true">http://repodl.xbmcnerds.com/repository/frodo/addons.xml</info>
 		<checksum>http://repodl.xbmcnerds.com/repository/frodo/addons.xml.md5</checksum>

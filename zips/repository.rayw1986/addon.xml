@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.rayw1986" name="RayW1986 Repo" version="0" provider-name="rayw1986">
+<addon id="repository.rayw1986" name="RayW1986 Repo" version="0.0.0.1" provider-name="rayw1986">
 	<extension point="xbmc.addon.repository" name="RayW1986 Repository">
 		<info compressed="false">http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml</info>
 		<checksum>http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml.md5</checksum>

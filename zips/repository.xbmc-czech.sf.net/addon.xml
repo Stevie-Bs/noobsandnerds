@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.xbmc-czech.sf.net"
-       version="0"
+       version="0.0.0.1"
        name="XBMC-Czech Repository (xbmc-czech.sf.net)"
        provider-name="Tomas Pokorny">
   <requires>

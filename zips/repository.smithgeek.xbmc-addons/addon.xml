@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.smithgeek.xbmc-addons" name="smithgeek's Add-ons" version="0" provider-name="smithgeek">
+<addon id="repository.smithgeek.xbmc-addons" name="smithgeek's Add-ons" version="0.0.0.1" provider-name="smithgeek">
 	<extension point="xbmc.addon.repository" name="Smithgeek Repository">
 		<info compressed="false">https://github.com/brentosmith/xbmc-addons/raw/master/Releases/addons.xml</info>
 		<checksum>https://github.com/brentosmith/xbmc-addons/raw/master/Releases/addons.xml.md5</checksum>

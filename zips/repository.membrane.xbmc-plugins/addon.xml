@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.membrane.xbmc-plugins" name="membrane Add-on Repository" version="0" provider-name="membrane">
+<addon id="repository.membrane.xbmc-plugins" name="membrane Add-on Repository" version="0.0.0.1" provider-name="membrane">
 	<extension point="xbmc.addon.repository" name="membrane Add-on Repository">
 		<info compressed="false">http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>

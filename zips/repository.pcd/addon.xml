@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pcd" name="PCD's Repository" version="0" provider-name="pcd">
+<addon id="repository.pcd" name="PCD's Repository" version="0.0.0.1" provider-name="pcd">
 	<extension point="xbmc.addon.repository" name="PCD's Repository">
 		<info compressed="false">https://offshoregit.com/pcd/pcd-repo/addons.xml</info>
 		<checksum>https://offshoregit.com/pcd/pcd-repo/addons.xml.md5</checksum>

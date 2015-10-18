@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xbmc.tvm" name="TvM Add-ons" version="0" provider-name="TvM">
+<addon id="repository.xbmc.tvm" name="TvM Add-ons" version="0.0.0.1" provider-name="TvM">
 	<extension point="xbmc.addon.repository" name="TvM">
 		<info compressed="false">http://repository-xbmc-tvm.googlecode.com/git/addons.xml</info>
 		<checksum>http://repository-xbmc-tvm.googlecode.com/git/addons.xml.md5</checksum>

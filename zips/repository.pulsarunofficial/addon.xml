@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pulsarunofficial" name="Pulsar [COLOR red]Unofficial [/COLOR]Repo" version="0" provider-name="mancuniancol,iCanuck">
+<addon id="repository.pulsarunofficial" name="Pulsar [COLOR red]Unofficial [/COLOR]Repo" version="0.0.0.1" provider-name="mancuniancol,iCanuck">
 	<extension point="xbmc.addon.repository" name="Pulsar Unofficial Repository">
        <info>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml</info>
        <checksum>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml.md5</checksum>

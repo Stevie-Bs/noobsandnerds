@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.ramfm" 
         name="RAM FM Eighties Hit Radio" 
-        version="0"
+        version="0.0.0.1"
         provider-name="RAM FM Eighties Hit Radio">
     <extension point="xbmc.addon.repository" 
         name="RAM FM XBMC Add-ons">

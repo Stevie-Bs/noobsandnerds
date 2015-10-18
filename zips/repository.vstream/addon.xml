@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.vstream"
         name="vStream Repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="Venom">
     <extension point="xbmc.addon.repository" name="vStream XBMC Addon Repository">
         <checksum>https://raw.githubusercontent.com/LordVenom/venom-xbmc-addons/master/addons.xml.md5</checksum>

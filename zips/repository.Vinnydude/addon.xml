@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Vinnydude" name="Addons by Vinnydude" version="0" provider-name="Vinnydude">
+<addon id="repository.Vinnydude" name="Addons by Vinnydude" version="0.0.0.1" provider-name="Vinnydude">
 	<extension point="xbmc.addon.repository" name="Addons From Vinnydude">
 		<info compressed="false">http://raw.github.com/vinnydude/vinnydude.repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/vinnydude/vinnydude.repo/master/addons.xml.md5</checksum>

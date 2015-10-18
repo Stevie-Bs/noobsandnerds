@@ -1,5 +1,5 @@
 <?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
-<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0" provider-name="DreamHD TECbox">
+<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0.0.0.1" provider-name="DreamHD TECbox">
 	<extension point="xbmc.addon.repository" name="iVue TV Guide Add-ons Repository">
 		<info compressed="false">http://tecbox.tv/repo/teciptvguide/addons.xml</info>
 		<checksum>http://tecbox.tv/repo/teciptvguide/addons.xml.md5</checksum>

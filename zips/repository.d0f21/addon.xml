@@ -1,5 +1,5 @@
 <?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.d0f21" name="d0f21's XBMC Addons" version="0" provider-name="d0f21">
+<addon id="repository.d0f21" name="d0f21's XBMC Addons" version="0.0.0.1" provider-name="d0f21">
 	<extension point="xbmc.addon.repository" name="Chris' XBMC Addon Repository">
 		<info >https://raw.githubusercontent.com/louca1221/d0f21-Repository/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/louca1221/d0f21-Repository/master/addons.xml.md5</checksum>

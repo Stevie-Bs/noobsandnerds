@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.eleazar" name="Eleazar's XBMC Add-on Repository" version="0" provider-name="eleazarcoding">
+<addon id="repository.eleazar" name="Eleazar's XBMC Add-on Repository" version="0.0.0.1" provider-name="eleazarcoding">
 	<extension point="xbmc.addon.repository" name="Eleazar's XBMC Addon Repository">
 		<info compressed="false">https://offshoregit.com/eleazarcoding/eleazar-xbmc/raw/master/addons.xml</info>
 		<checksum>https://offshoregit.com/eleazarcoding/eleazar-xbmc/raw/master/addons.xml.md5</checksum>

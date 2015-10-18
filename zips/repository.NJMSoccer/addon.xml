@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <addon id="repository.NJMSoccer" name="NJM Soccer Repo" version="0" provider-name="BaDg3R">       
+    <addon id="repository.NJMSoccer" name="NJM Soccer Repo" version="0.0.0.1" provider-name="BaDg3R">       
         <extension point="xbmc.addon.repository" name="NJM Soccer Repo">
             <info compressed="false">http://repo.badgersftv.com/repo/addons.xml</info>
             <checksum>http://repo.badgersftv.com/repo/addons.xml.md5</checksum>

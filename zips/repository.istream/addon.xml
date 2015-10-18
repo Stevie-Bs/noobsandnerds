@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="0" provider-name="iSTREAM">
+<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="0.0.0.1" provider-name="iSTREAM">
 	<extension point="xbmc.addon.repository" name="iSTREAM">
 		<info compressed="false">http://istreamrepo.me/istream/repo/addons.xml</info>
 		<checksum>http://istreamrepo.me/istream/repo/addons.xml.md5</checksum>

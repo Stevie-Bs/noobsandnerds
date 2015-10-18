@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="net.rieter.xot.repository"
         name="Retrospect (formerly XBMC Online TV) Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="Bas Rieter">
 
     <extension  point="xbmc.addon.repository"

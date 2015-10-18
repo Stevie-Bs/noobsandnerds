@@ -1,4 +1,4 @@
-<addon id="repository.m0ngr31" name="m0ngr31's Repository" version="0" provider-name="m0ngr31">
+<addon id="repository.m0ngr31" name="m0ngr31's Repository" version="0.0.0.1" provider-name="m0ngr31">
 	<extension point="xbmc.addon.repository" name="m0ngr31's Add-on Repository">
 		<info compressed="false">http://m0ngr31.us/repo/addons.xml</info>
 		<checksum>http://m0ngr31.us/repo/addons.xml.md5</checksum>

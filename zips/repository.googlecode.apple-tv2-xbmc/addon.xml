@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.apple-tv2-xbmc" name="aj addons" version="0" provider-name="ajay">
+<addon id="repository.googlecode.apple-tv2-xbmc" name="aj addons" version="0.0.0.1" provider-name="ajay">
 	<extension point="xbmc.addon.repository" name="aj add-on repository">
 		<info compressed="false">http://apple-tv2-xbmc.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>http://apple-tv2-xbmc.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tknorris.release" name="tknorris Release Repository" version="0" provider-name="tknorris">
+<addon id="repository.tknorris.release" name="tknorris Release Repository" version="0.0.0.1" provider-name="tknorris">
     <extension point="xbmc.addon.repository" name="tknorris release repository">
         <dir>
             <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>

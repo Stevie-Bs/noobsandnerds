@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-  <addon id="repo.butchabay" name="repository butchabay" version="0" provider-name="butchabay">
+  <addon id="repo.butchabay" name="repository butchabay" version="0.0.0.1" provider-name="butchabay">
   <extension point="xbmc.addon.repository" name="repository butchabay">
   <info>http://xbmc-repository-butchabay.googlecode.com/svn/trunk/addons.xml</info>
   <datadir zip="true">http://xbmc-repository-butchabay.googlecode.com/svn/trunk</datadir> 

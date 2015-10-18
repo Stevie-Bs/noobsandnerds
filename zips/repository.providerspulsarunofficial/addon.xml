@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.providerspulsarunofficial" name="Pulsar [COLOR red]Providers[/COLOR] Unofficial Repo" version="0" provider-name="Eleazar Coding-Mancuniancol">
+<addon id="repository.providerspulsarunofficial" name="Pulsar [COLOR red]Providers[/COLOR] Unofficial Repo" version="0.0.0.1" provider-name="Eleazar Coding-Mancuniancol">
 	<extension point="xbmc.addon.repository" name="Pulsar Providers Unofficial Repo">	   
         <info>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml</info>
         <checksum>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml.md5</checksum>

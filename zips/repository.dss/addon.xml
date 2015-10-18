@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.dss" name="Dutch Sport Streams" version="0" provider-name="Dutch Cloud TV">
+<addon id="repository.dss" name="Dutch Sport Streams" version="0.0.0.1" provider-name="Dutch Cloud TV">
 	<extension point="xbmc.addon.repository" name="Dutch Sport Streams Repository">
 		<info compressed="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml.md5</checksum>

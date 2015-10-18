@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0" provider-name="iWillFolo.com">
+<addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0.0.0.1" provider-name="iWillFolo.com">
 	<extension point="xbmc.addon.repository" name="iWillFolo add-on repository">
 		<info compressed="false">http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml</info>
 		<checksum>http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml.md5</checksum>

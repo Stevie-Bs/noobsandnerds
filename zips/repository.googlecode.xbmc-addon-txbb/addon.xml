@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.xbmc-addon-txbb" name="TVChinese Add-on Repository" version="0" provider-name="rodney">
+<addon id="repository.googlecode.xbmc-addon-txbb" name="TVChinese Add-on Repository" version="0.0.0.1" provider-name="rodney">
     <extension point="xbmc.addon.repository" name="TVChinese Add-on Repository">
         <info compressed="false">http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml.md5</checksum>

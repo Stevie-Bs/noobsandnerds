@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.otherguysstuff" name="The other Viet Addons" version="0" provider-name="dk">
+<addon id="repository.otherguysstuff" name="The other Viet Addons" version="0.0.0.1" provider-name="dk">
 	<extension point="xbmc.addon.repository" name="The other Viet Addons">
 		<info compressed="false">https://bitbucket.org/dknlght/dk-xbmc-repaddon-rep/raw/master/addons.xml</info>
 		<checksum>https://bitbucket.org/dknlght/dk-xbmc-repaddon-rep/raw/master/addons.xml.md5</checksum>

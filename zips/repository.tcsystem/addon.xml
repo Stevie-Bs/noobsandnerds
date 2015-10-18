@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="repository.tcsystem"
-  version="0"
+  version="0.0.0.1"
   name="TCSystem KODI Repo"
   provider-name="TCSystem(Thomas Goessler)">
 

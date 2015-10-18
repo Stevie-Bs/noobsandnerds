@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="0" provider-name="Beam">
+<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="0.0.0.1" provider-name="Beam">
 	<extension point="xbmc.addon.repository" name="Beam XBMC Add-ons Repository">
 		<info compressed="false">http://xbmc-repo.bimovi.cz/addons.xml</info>
 		<checksum>http://xbmc-repo.bimovi.cz/addons.xml.md5</checksum>

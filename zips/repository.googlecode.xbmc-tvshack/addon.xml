@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.xbmc-tvshack" name="googlecode.xbmc-tvshack Add-on" version="0" provider-name="Pedro Guedes">
+<addon id="repository.googlecode.xbmc-tvshack" name="googlecode.xbmc-tvshack Add-on" version="0.0.0.1" provider-name="Pedro Guedes">
   <extension point="xbmc.addon.repository" name="googlecode.xbmc-tvshack Repository">
     <info compressed="false">http://xbmc-tvshack.googlecode.com/svn/branches/DHARMA/repo/addons.xml</info>
     <checksum>http://xbmc-tvshack.googlecode.com/svn/branches/DHARMA/repo/addons.xml.md5</checksum>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lambda" name="lambda Add-on repository" version="0" provider-name="lambda">
+<addon id="repository.lambda" name="lambda Add-on repository" version="0.0.0.1" provider-name="lambda">
 	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
 		<dir>
 			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>

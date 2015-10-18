@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.m4x1m" name="Max (m4x1m) Headroom XBMC AddOns Repository" version="0" provider-name="Max (m4x1m) Headroom">
+<addon id="repository.m4x1m" name="Max (m4x1m) Headroom XBMC AddOns Repository" version="0.0.0.1" provider-name="Max (m4x1m) Headroom">
      <extension point="xbmc.addon.repository" name="Max (m4x1m) Headroom XBMC AddOns Repository">
 	  <info compressed="false">https://calm-river-6855.herokuapp.com/repository/addons.xml</info>
 	  <checksum>https://calm-river-6855.herokuapp.com/repository/addons.xml.md5</checksum>

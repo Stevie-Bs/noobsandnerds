@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.xbmc-phoenix" name="Phoenix Addons" version="0" provider-name="PhoenixCrew">
+<addon id="repository.googlecode.xbmc-phoenix" name="Phoenix Addons" version="0.0.0.1" provider-name="PhoenixCrew">
 	<extension point="xbmc.addon.repository" name="Phoenix Addon Repository">
 		<info compressed="false">https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>

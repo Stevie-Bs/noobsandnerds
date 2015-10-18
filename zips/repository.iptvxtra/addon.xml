@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.iptvxtra" name="IPTVxtra KODI Add-ons" version="0" provider-name="IPTVxtra">
+<addon id="repository.iptvxtra" name="IPTVxtra KODI Add-ons" version="0.0.0.1" provider-name="IPTVxtra">
     <extension point="xbmc.addon.repository" 
         name="IPTVxtra XBMC Add-ons">
         <info compressed="false">http://srv1.iptvxtra.com/addons/addons.xml</info>

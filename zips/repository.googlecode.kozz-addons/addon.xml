@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.googlecode.kozz-addons"
 		name="Kozz Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="Kozz">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>

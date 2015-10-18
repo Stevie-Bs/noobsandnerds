@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  <addon id="repository.mq" name="Repo MQ" version="0" provider-name="MarcosQui">
+  <addon id="repository.mq" name="Repo MQ" version="0.0.0.1" provider-name="MarcosQui">
     <extension point="xbmc.addon.repository" name="Repo MQ">
     <info>http://mod-skin.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://mod-skin.googlecode.com/svn/trunk/addons.xml.md5</checksum>

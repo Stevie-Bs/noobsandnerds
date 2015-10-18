@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.dmd-xbmc.googlecode.com" version="0" name="DMD-Czech XBMC Repository -  deprecated" provider-name="Jiri Vyhnalek">
+<addon id="repository.dmd-xbmc.googlecode.com" version="0.0.0.1" name="DMD-Czech XBMC Repository -  deprecated" provider-name="Jiri Vyhnalek">
   <requires>
     <import addon="repository.kodi-czsk" version="1.0.1" />
   </requires>

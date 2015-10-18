@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="amobox.repository" name="  [COLOR blue][B]AMO[/B][/COLOR][COLOR green]box[/COLOR] repository" version="0" provider-name="AdrXbmc">
+<addon id="amobox.repository" name="  [COLOR blue][B]AMO[/B][/COLOR][COLOR green]box[/COLOR] repository" version="0.0.0.1" provider-name="AdrXbmc">
 	<extension point="xbmc.addon.repository" name="AMObox Repository">
 		<info compressed="false">http://raw.github.com/adrxbmc/amobox.repository/master/addons.xml</info>
 		<checksum>http://raw.github.com/adrxbmc/amobox.repository/master/addons.xml.md5</checksum>
@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="m3g4mInD.repository" name="m3g4mInD.repository repository" version="0" provider-name="m3g4mInD">
+<addon id="m3g4mInD.repository" name="m3g4mInD.repository repository" version="0.0.0.1" provider-name="m3g4mInD">
 	<extension point="xbmc.addon.repository" name="Repo Addon m3g4mInD">
 		<info compressed="false">http://raw.github.com/m3g4mInD/m3g4mInD.repository/master/addons.xml</info>
 		<checksum>http://raw.github.com/m3g4mInD/m3g4mInD.repository/master/addons.xml.md5</checksum>
@@ -30,7 +30,7 @@
 
 <addon id="magicTR.repo"
 		name="magic [COLOR red]T[/COLOR]U[COLOR red]R[/COLOR]K[COLOR red]I[/COLOR]Y[COLOR red]E[/COLOR] Eklenti Deposu"
-		version="0"
+		version="0.0.0.1"
 		provider-name="MagicTR-Team">
 	<extension point="xbmc.addon.repository" name="MagicTR Add-on Repository">
 		<info compressed="false">https://github.com/koditr/magic-tr-team/raw/master/addons.xml</info>
@@ -49,7 +49,7 @@
 
 <addon id="net.rieter.xot.repository"
         name="Retrospect (formerly XBMC Online TV) Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="Bas Rieter">
 
     <extension  point="xbmc.addon.repository"
@@ -69,7 +69,7 @@
     </extension>
 </addon>
 
-<addon id="o.repository.maluco" name="O Repositorio Maluco" version="0" provider-name="OMaluco">
+<addon id="o.repository.maluco" name="O Repositorio Maluco" version="0.0.0.1" provider-name="OMaluco">
 	<extension point="xbmc.addon.repository" name="Filmes Series Tuga Add-on Repository">
 		<info compressed="false">http://o-repositorio-maluco.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://o-repositorio-maluco.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -83,7 +83,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.totalinstaller" name=" [COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal" provider-name="noobsandnerds.com" version="2.1.5">
+<addon id="plugin.program.totalinstaller" name=" [COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal" provider-name="noobsandnerds.com" version="2.1.6">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -95,12 +95,12 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal</summary>
 	<description>Your all in one Installer. The simplest way to have a fully setup system in a matter of minutes. Visit www.noobsandnerds.com and become a part of our great family, you get to choose what The Community Portal holds!</description>
-    <ref>45342fff005c155e431176ea3b127683</ref>
+    <ref>b10e61f27739b00f403242472f35ae02</ref>
     <platform>all</platform>
   </extension>
 </addon>
 
-<addon id="repo.bg.plugins" name="Bg Add-ons" version="0" provider-name="kodi.dev.one@gmail.com">
+<addon id="repo.bg.plugins" name="Bg Add-ons" version="0.0.0.1" provider-name="kodi.dev.one@gmail.com">
 	<extension point="xbmc.addon.repository" name="Bg Add-ons">
 		<info compressed="false">https://github.com/kodi1/kodi1.github.io/raw/master/repo/addons.xml</info>
 		<checksum>https://github.com/kodi1/kodi1.github.io/raw/master/repo/addons.xml.md5</checksum>
@@ -114,7 +114,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.whitecream" name="Whitecream Repository" version="0" provider-name="Whitecream">
+<addon id="repository.whitecream" name="Whitecream Repository" version="0.0.0.1" provider-name="Whitecream">
 	<extension point="xbmc.addon.repository" name="Whiteream Addon Repository">
 		<info compressed="false">http://whitecream.googlecode.com/svn/trunk/addon/addons.xml</info>
 		<checksum>http://whitecream.googlecode.com/svn/trunk/addon/addons.xml.md5</checksum>
@@ -127,7 +127,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.aaarepo" name="  [COLOR lime][B]AAA [/COLOR][COLOR white]Repository[/B][/COLOR]" version="0" provider-name="AAARepo">
+<addon id="repository.aaarepo" name="  [COLOR lime][B]AAA [/COLOR][COLOR white]Repository[/B][/COLOR]" version="0.0.0.1" provider-name="AAARepo">
 	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]AAA [/COLOR][COLOR white]Repository[/B][/COLOR]">
         <info compressed="false">http://aaarepo.xyz/repo/addons.xml</info>
 		<checksum>http://aaarepo.xyz/repo/addons.xml.md5</checksum>
@@ -140,7 +140,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.addonBrasil" name="AddonBrasil Repository" version="0" provider-name="AddonBrasil">
+<addon id="repository.addonBrasil" name="AddonBrasil Repository" version="0.0.0.1" provider-name="AddonBrasil">
 	<extension point="xbmc.addon.repository" name="AddonBrasil Repository">
 		<info compressed="false">http://raw.github.com/addonBrasil/addonBrasil-kodi/master/addons.xml</info>
 		<checksum>http://raw.github.com/addonBrasil/addonBrasil-kodi/master/addons.xml.md5</checksum>
@@ -154,7 +154,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.addons.siriuz" name="Siriuz Add-on Repository" version="0" provider-name="siriuz">
+<addon id="repository.addons.siriuz" name="Siriuz Add-on Repository" version="0.0.0.1" provider-name="siriuz">
 	<extension point="xbmc.addon.repository" name="Siriuz Add-on Repository">
 		<info compressed="false">https://raw.github.com/siriuzwhite/xbmc.repository/master/repository/addons.xml</info>
 		<checksum>https://raw.github.com/siriuzwhite/xbmc.repository/master/repository/addons.xml.md5</checksum>
@@ -167,7 +167,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.addonscriptorde-beta" name="AddonScriptorDE's Testing Repo" version="0" provider-name="AddonScriptorDE">
+<addon id="repository.addonscriptorde-beta" name="AddonScriptorDE's Testing Repo" version="0.0.0.1" provider-name="AddonScriptorDE">
 	<extension point="xbmc.addon.repository" name="AddonScriptorDE's Testing Repo">
 		<info compressed="false">http://addonscriptorde-beta-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://addonscriptorde-beta-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -181,7 +181,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.audiodsp.addons" name="Audio DSP Add-ons" version="0" provider-name="Audio DSP Add-ons">
+<addon id="repository.audiodsp.addons" name="Audio DSP Add-ons" version="0.0.0.1" provider-name="Audio DSP Add-ons">
 	<extension point="xbmc.addon.repository" name="Achim's Audio DSP repository">
 		<info compressed="false">https://raw.githubusercontent.com/AchimTuran/kodi-adsp-addons-repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/AchimTuran/kodi-adsp-addons-repo/master/addons.xml.md5</checksum>
@@ -194,7 +194,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.ah" name="AH Add-on repository" version="0" provider-name="AddonHacker">
+<addon id="repository.ah" name="AH Add-on repository" version="0.0.0.1" provider-name="AddonHacker">
 	<extension point="xbmc.addon.repository" name="AH Add-on repository">
 		<info compressed="false">https://raw.githubusercontent.com/addonhacker/ah-repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/addonhacker/ah-repo/master/addons.xml.md5</checksum>
@@ -207,7 +207,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.aj-addons" name="aj add-ons (new look)" version="0" provider-name="ajdeveloped">
+<addon id="repository.aj-addons" name="aj add-ons (new look)" version="0.0.0.1" provider-name="ajdeveloped">
 	<extension point="xbmc.addon.repository" name="AJ ADD-ONs (NEW LOOK)">
 		<info compressed="false">http://apple-tv2-xbmc.googlecode.com/svn/trunk/AddonsNewLookRepo/addons.xml</info>
 			<checksum>http://apple-tv2-xbmc.googlecode.com/svn/trunk/AddonsNewLookRepo/addons.xml.md5</checksum>
@@ -221,7 +221,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.aktualnetv" name="Aktualně TV Add-on Repository" version="0" provider-name="Petr Kutalek (petr@kutalek.cz)">
+<addon id="repository.aktualnetv" name="Aktualně TV Add-on Repository" version="0.0.0.1" provider-name="Petr Kutalek (petr@kutalek.cz)">
   <extension point="xbmc.addon.repository" name="Aktualně TV Add-on Repository">
     <info compressed="false">https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml</info>
     <checksum>https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml.md5</checksum>
@@ -245,7 +245,7 @@
   </extension>
 </addon>
 
-<addon id="repository.amitkeret.xbmc" name="amitkeret XBMC Add-ons" version="0" provider-name="amitkeret">
+<addon id="repository.amitkeret.xbmc" name="amitkeret XBMC Add-ons" version="0.0.0.1" provider-name="amitkeret">
   <extension point="xbmc.addon.repository" name="amitkeret XBMC Add-ons">
 	  <info compressed="false">https://raw.github.com/amitkeret/repository.amitkeret.xbmc/master/addons.xml</info>
     <checksum>https://raw.github.com/amitkeret/repository.amitkeret.xbmc/master/addons.xml.md5</checksum>
@@ -258,7 +258,7 @@
   </extension>
 </addon>
 
-<addon id="repository.ampedandwired" name="Ampedandwired's XBMC Addons" version="0" provider-name="ampedandwired">
+<addon id="repository.ampedandwired" name="Ampedandwired's XBMC Addons" version="0.0.0.1" provider-name="ampedandwired">
   <extension point="xbmc.addon.repository" name="Ampedandwired's XBMC Addon Repository">
     <info compressed="false">https://github.com/ampedandwired/ampedandwired-xbmc-repo/raw/master/addons.xml</info>
     <checksum>https://github.com/ampedandwired/ampedandwired-xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -271,7 +271,7 @@
   </extension>
 </addon>
 
-<addon id="repository.anonymous" name="anonymous repo" version="0" provider-name="Anonymous">
+<addon id="repository.anonymous" name="anonymous repo" version="0.0.0.1" provider-name="Anonymous">
 	<extension point="xbmc.addon.repository" name="Anonymous">
 		<info compressed="false">https://anonymousrepo.svn.codeplex.com/svn/anonymous-repo/addons.xml</info>
 		<checksum>https://anonymousrepo.svn.codeplex.com/svn/anonymous-repo/addons.xml.md5</checksum>
@@ -284,7 +284,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.anteo" name="Anteo's Add-on Repository" version="0" provider-name="anteo">
+<addon id="repository.anteo" name="Anteo's Add-on Repository" version="0.0.0.1" provider-name="anteo">
     <extension point="xbmc.addon.repository" name="Anteo's Add-on Repository">
         <info compressed="false">https://raw.githubusercontent.com/anteo/xbmc.repository/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/anteo/xbmc.repository/master/addons.xml.md5</checksum>
@@ -299,7 +299,7 @@
     </extension>
 </addon>
 
-<addon id="repository.ao.xbmc-plugins" name="ao Add-on Repository" version="0" provider-name="ao">
+<addon id="repository.ao.xbmc-plugins" name="ao Add-on Repository" version="0.0.0.1" provider-name="ao">
 	<extension point="xbmc.addon.repository" name="ao Add-on Repository">
                 <info compressed="false">http://ao-xbmc-repository.googlecode.com/svn/trunk/addons.xml</info>
                 <checksum>http://ao-xbmc-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -313,7 +313,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.arabic.xbmc-addons" name="Arabic XBMC Add-on Repository" version="0" provider-name="hadynz">
+<addon id="repository.arabic.xbmc-addons" name="Arabic XBMC Add-on Repository" version="0.0.0.1" provider-name="hadynz">
     <extension point="xbmc.addon.repository" name="Arabic XBMC Add-on Repository">
         <info compressed="false">https://raw.github.com/hadynz/repository.arabic.xbmc-addons/master/addons.xml</info>
         <checksum>https://raw.github.com/hadynz/repository.arabic.xbmc-addons/master/addons.xml.md5</checksum>
@@ -326,7 +326,7 @@
     </extension>
 </addon>
 
-<addon id="repository.arb" name="ARB Repo" version="0" provider-name="ARB">
+<addon id="repository.arb" name="ARB Repo" version="0.0.0.1" provider-name="ARB">
 	<extension point="xbmc.addon.repository" name="ARB Repo">
 		<info compressed="false">https://raw.github.com/Andrewrb84/ARBMODRAPIER/master/addons.xml</info>
 		<checksum>https://raw.github.com/Andrewrb84/ARBMODRAPIER/master/addons.xml.md5</checksum>
@@ -339,7 +339,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.AznKodi" name="AznKodi" version="0" provider-name="AznKodi">
+<addon id="repository.AznKodi" name="AznKodi" version="0.0.0.1" provider-name="AznKodi">
 	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
 		<info compressed="false">https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml</info>
 		<checksum>https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml.md5</checksum>
@@ -352,7 +352,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.BancadeJornais.xbmc" name="Banca de Jornais repository" version="0" provider-name="enen92">
+<addon id="repository.BancadeJornais.xbmc" name="Banca de Jornais repository" version="0.0.0.1" provider-name="enen92">
 	<extension point="xbmc.addon.repository" name="Banca de Jornais repositório">
 		<info compressed="false">http://plugin-image-bancadejornais.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://plugin-image-bancadejornais.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -366,7 +366,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.bbtsip.tv" name="[COLOR yellowgreen]B[/COLOR][COLOR dodgerblue]B[/COLOR]T[COLOR orangered]S[/COLOR] - Repo" version="0" provider-name="BBTS">
+<addon id="repository.bbtsip.tv" name="[COLOR yellowgreen]B[/COLOR][COLOR dodgerblue]B[/COLOR]T[COLOR orangered]S[/COLOR] - Repo" version="0.0.0.1" provider-name="BBTS">
 <requires>
     <import addon="xbmc.addon" version="12.0.0" />
 </requires>
@@ -385,7 +385,7 @@
         </extension>
 </addon>
 
-<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="0" provider-name="Beam">
+<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="0.0.0.1" provider-name="Beam">
 	<extension point="xbmc.addon.repository" name="Beam XBMC Add-ons Repository">
 		<info compressed="false">http://xbmc-repo.bimovi.cz/addons.xml</info>
 		<checksum>http://xbmc-repo.bimovi.cz/addons.xml.md5</checksum>
@@ -400,7 +400,7 @@
 	</extension>
 </addon>
 
-<addon version="0" id="repository.betaCoolwave" name="[COLOR blue]Coolwave beta Repo[/COLOR]" provider-name="[COLOR blue]Coolwave[/COLOR]">
+<addon version="0.0.0.1" id="repository.betaCoolwave" name="[COLOR blue]Coolwave beta Repo[/COLOR]" provider-name="[COLOR blue]Coolwave[/COLOR]">
 	<extension point="xbmc.addon.repository" name="Coolwave's Addon Repository">
 		<info compressed="false">http://github.com/Coolwave/repository.betaCoolwave/raw/master/addons.xml</info>
 		<checksum>http://github.com/Coolwave/repository.betaCoolwave/raw/master/addons.xml.md5</checksum>
@@ -413,7 +413,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.bigsale" name="big$ale Add-on Repository" version="0" provider-name="big$ale">
+<addon id="repository.bigsale" name="big$ale Add-on Repository" version="0.0.0.1" provider-name="big$ale">
         <extension point="xbmc.addon.repository" name="big$ale Add-on Repository">
                 <info compressed="false">http://bigsale-repository.googlecode.com/svn/trunk/addons.xml</info>
                 <checksum>http://bigsale-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -429,7 +429,7 @@
 
 <addon id="repository.blacks"
         name="Black's repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="Black">
     <extension point="xbmc.addon.repository"
         name="Black's Add-on Repository">
@@ -445,7 +445,7 @@
     </extension>
 </addon>
 
-<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="0" provider-name="Blazetamer">
+<addon id="repository.BlazeRepo" name="Blazetamer's Repository" version="0.0.0.1" provider-name="Blazetamer">
 <extension point="xbmc.addon.repository" name="Blaztamer's Addon Repository">
 <info compressed="false">http://offshoregit.com/Blazetamer/repo/raw/master/addons.xml</info>
 <checksum>http://offshoregit.com/Blazetamer/repo/raw/master/addons.xml.md5</checksum>
@@ -458,7 +458,7 @@
 </extension>
 </addon>
 
-<addon id="repository.bluecop.xbmc-plugins" name="bluecop Add-on Repository" version="0" provider-name="bluecop">
+<addon id="repository.bluecop.xbmc-plugins" name="bluecop Add-on Repository" version="0.0.0.1" provider-name="bluecop">
 	<extension point="xbmc.addon.repository" name="bluecop Add-on Repository">
 		<info compressed="false">http://bluecop-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://bluecop-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -472,7 +472,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.bond" name="Eugene Bond XBMC Add-ons" version="0" provider-name="Eugene Bond">
+<addon id="repository.bond" name="Eugene Bond XBMC Add-ons" version="0.0.0.1" provider-name="Eugene Bond">
 	<extension point="xbmc.addon.repository" name="Eugene Bond XBMC Add-ons">
 		<info compressed="false">https://github.com/Eugene-Bond/xmbc-plugins/raw/master/addons.xml</info>
 		<checksum>https://github.com/Eugene-Bond/xmbc-plugins/raw/master/addons.xml.md5</checksum>
@@ -486,7 +486,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.boogie" name="Boogie's Kodi Repo" provider-name="boogiepop" version="0">
+<addon id="repository.boogie" name="Boogie's Kodi Repo" provider-name="boogiepop" version="0.0.0.1">
 	<extension point="xbmc.addon.repository" name="Boogie's Kodi Repo">
 		<info compressed="false">http://offshoregit.com/boogiepop/repository.boogie.dist/addons.xml</info>
 		<checksum>http://offshoregit.com/boogiepop/repository.boogie.dist/addons.xml.md5</checksum>
@@ -503,7 +503,7 @@
 <addon
   id="repository.bossanova808"
   name="bossanova808's XBMC Addons"
-  version="0"
+  version="0.0.0.1"
   provider-name="bossanova808">
 	<extension point="xbmc.addon.repository"
              name="bossanova808's XBMC Addon Repository">
@@ -520,7 +520,7 @@
 
 <addon id="repository.brazilian.xbmc-addons"
         name="Brazilian XBMC Add-On Repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="vitorhirota">
     <extension point="xbmc.addon.repository" name="Brazilian XBMC Add-on Repository">
         <info compressed="false">https://github.com/vitorhirota/repository.brazilian.xbmc-addons/raw/master/addons.xml</info>
@@ -534,7 +534,7 @@
     </extension>
 </addon>
 
-<addon id="repository.bromix" name="Bromix Add-ons" version="0" provider-name="bromix">
+<addon id="repository.bromix" name="Bromix Add-ons" version="0.0.0.1" provider-name="bromix">
     <extension point="xbmc.addon.repository" name="Bromix Add-ons">
 		<info compressed="true">https://github.com/bromix/repository.bromix.storage/raw/master/addons.xml</info>
 		<checksum>https://github.com/bromix/repository.bromix.storage/raw/master/addons.xml.md5</checksum>
@@ -549,7 +549,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.bstrdsmkr" name="Bstrdsmkr's Repository" version="0" provider-name="Bstrdsmkr">
+<addon id="repository.bstrdsmkr" name="Bstrdsmkr's Repository" version="0.0.0.1" provider-name="Bstrdsmkr">
 	<extension point="xbmc.addon.repository" name="Bstrdsmkrs XBMC Addons">
 		<info compressed="false">http://repo.gosub.dk/bstrdsmkr/repository/addons.xml</info>
 		<checksum>http://repo.gosub.dk/bstrdsmkr/repository/addons.xml.md5</checksum>
@@ -562,7 +562,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.bunkford" name="Bunkford's Repository" version="0" provider-name="bunkford">
+<addon id="repository.bunkford" name="Bunkford's Repository" version="0.0.0.1" provider-name="bunkford">
 	<extension point="xbmc.addon.repository" name="Bunkford's Repository">
 		<info compressed="false">http://github.com/bunkford/Bunkford/raw/master/addons.xml</info>
 		<checksum>http://github.com/bunkford/Bunkford/raw/master/addons.xml.md5</checksum>
@@ -578,7 +578,7 @@
 
 <addon id="repository.byalongshot"
        name="ByALongShot's XBMC Addons"
-       version="0"
+       version="0.0.0.1"
        provider-name="ByALongShot">
   <extension point="xbmc.addon.repository"
              name="ByALongShot's XBMC Addons Repository">
@@ -593,7 +593,7 @@
   </extension>
 </addon>
 
-<addon id="repository.CanadaOnDemand" name="CanadaOnDemand Repo" version="0" provider-name="andre">
+<addon id="repository.CanadaOnDemand" name="CanadaOnDemand Repo" version="0.0.0.1" provider-name="andre">
 	<extension point="xbmc.addon.repository" name="CanadaOnDemand Repo">
 		<info compressed="false">https://raw.github.com/irfancharania/canada.on.demand.repo/master/addons.xml</info>
 		<checksum>https://raw.github.com/irfancharania/canada.on.demand.repo/master/addons.xml.md5</checksum>
@@ -607,7 +607,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.canalpanda.xbmc" name="Repositorio CanalPanda" version="0" provider-name="enen92">
+<addon id="repository.canalpanda.xbmc" name="Repositorio CanalPanda" version="0.0.0.1" provider-name="enen92">
 	<extension point="xbmc.addon.repository" name="Repositorio do CanalPanda">
 		<info compressed="false">http://plugin-video-canalpanda-xbmc.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://plugin-video-canalpanda-xbmc.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -621,7 +621,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.cantobumedia" name="Cantobu Media Repository" version="0" provider-name="phuoclv">
+<addon id="repository.cantobumedia" name="Cantobu Media Repository" version="0.0.0.1" provider-name="phuoclv">
 	<extension point="xbmc.addon.repository" name="Official XBMC.org Add-on Repository">
 		<info compressed="true">https://raw.githubusercontent.com/phuoclv/repository.cantobumedia/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/phuoclv/repository.cantobumedia/master/addons.xml.md5</checksum>
@@ -636,7 +636,7 @@
 	</extension>
 </addon>
 
-  <addon id="repository.claymic" name="Repo Claymic" version="0" provider-name="Clayton Claymic">
+  <addon id="repository.claymic" name="Repo Claymic" version="0.0.0.1" provider-name="Clayton Claymic">
     <extension point="xbmc.addon.repository" name="Repo Claymic">
     <info>http://script-allinone.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://script-allinone.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -653,7 +653,7 @@
     </extension>
   </addon>
 
-<addon id="repository.clubtv.nl" name="Club TV Repository" version="0" provider-name="vDia Internet Applications">
+<addon id="repository.clubtv.nl" name="Club TV Repository" version="0.0.0.1" provider-name="vDia Internet Applications">
 	<extension point="xbmc.addon.repository" name="Club TV Repository">
 		<info compressed="true">http://clubtv.dooremolen.com/addons/addons.xml</info>
 		<checksum>http://clubtv.dooremolen.com/addons/addons.xml.md5</checksum>
@@ -666,7 +666,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.cocawe" name="Cocawe's REPO" version="0" provider-name="Cocawe">
+<addon id="repository.cocawe" name="Cocawe's REPO" version="0.0.0.1" provider-name="Cocawe">
 	<extension point="xbmc.addon.repository" name="Cocawe's Addon Repository">
 		<info compressed="false">https://raw.github.com/cocawe/My-xbmc-repo/master/addons.xml</info>
 		<checksum>https://raw.github.com/cocawe/My-xbmc-repo/master/addons.xml.md5</checksum>
@@ -681,7 +681,7 @@
 
 <addon id="repository.const"
        name="Const Kodi Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="const">
 <requires>
   <import addon="xbmc.addon" version="12.0.0"/>
@@ -702,7 +702,7 @@
 	</extension>
 </addon>
 
-<addon version="0" id="repository.Coolwave.v2" name="[COLOR blue]Coolwave Repo[/COLOR]" provider-name="[COLOR blue]Coolwave[/COLOR]">
+<addon version="0.0.0.1" id="repository.Coolwave.v2" name="[COLOR blue]Coolwave Repo[/COLOR]" provider-name="[COLOR blue]Coolwave[/COLOR]">
 	<extension point="xbmc.addon.repository" name="Coolwave's Addon Repository">
 		<info compressed="false">http://github.com/Coolwave/repository.Coolwave.v2/raw/master/addons.xml</info>
 		<checksum>http://github.com/Coolwave/repository.Coolwave.v2/raw/master/addons.xml.md5</checksum>
@@ -715,7 +715,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.coremodule.betas" name="Core Module Beta Testing Repo" version="0" provider-name="eldorado">
+<addon id="repository.coremodule.betas" name="Core Module Beta Testing Repo" version="0.0.0.1" provider-name="eldorado">
     <extension point="xbmc.addon.repository" name="Core Module Beta Testing Repo">
         <info compressed="false">https://github.com/Eldorados/Core-Module-Beta-Repo/raw/master/addons.xml</info>
         <checksum>https://github.com/Eldorados/Core-Module-Beta-Repo/raw/master/addons.xml.md5</checksum>
@@ -738,7 +738,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	<addon
         id="repository.crzen"
         name="Crzen's Repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="Crzen">
 		<extension point="xbmc.addon.repository" name="Crzen's Repository">
 			<info compressed="false">http://raw.github.com/crzen/repository.crzen/master/addons.xml</info>
@@ -759,7 +759,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 		</extension>
 	</addon>
 
-<addon id="repository.github.cyrus007-xbmc-addons" name="Cyrus007 addons" version="0" provider-name="cyrus007">
+<addon id="repository.github.cyrus007-xbmc-addons" name="Cyrus007 addons" version="0.0.0.1" provider-name="cyrus007">
 	<extension point="xbmc.addon.repository" name="cyrus007 add-on repository">
 		<info compressed="false">https://github.com/cyrus007/xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/cyrus007/xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -772,7 +772,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.d0f21" name="d0f21's XBMC Addons" version="0" provider-name="d0f21">
+<addon id="repository.d0f21" name="d0f21's XBMC Addons" version="0.0.0.1" provider-name="d0f21">
 	<extension point="xbmc.addon.repository" name="Chris' XBMC Addon Repository">
 		<info >https://raw.githubusercontent.com/louca1221/d0f21-Repository/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/louca1221/d0f21-Repository/master/addons.xml.md5</checksum>
@@ -785,7 +785,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.datho.xbmc-plugins" name="Datho Add-on Repository" version="0" provider-name="Datho-Digital">
+<addon id="repository.datho.xbmc-plugins" name="Datho Add-on Repository" version="0.0.0.1" provider-name="Datho-Digital">
     <extension point="xbmc.addon.repository" name="Datho Add-on Repository">
         <info compressed="false">http://raw.github.com/datho/datho-xbmc-repo/master/addons.xml</info>
         <checksum>http://raw.github.com/datho/datho-xbmc-repo/master/addons.xml.md5</checksum>
@@ -799,7 +799,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dbsr.xbmc_addons" name="dbsrs xbmc addon repo" version="0" provider-name="dbsr">
+<addon id="repository.dbsr.xbmc_addons" name="dbsrs xbmc addon repo" version="0.0.0.1" provider-name="dbsr">
     <extension point="xbmc.addon.repository" name="dbsr's xbmc addon repo">
         <info compressed="false">https://github.com/dbsr/repository.dbsr.xbmc_addons/raw/master/addons.xml</info>
         <checksum>https://github.com/dbsr/repository.dbsr.xbmc_addons/raw/master/addons.xml.md5</checksum>
@@ -812,7 +812,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
     </extension>
 </addon>
 
-<addon id="repository.ddurdle" name="ddurdle's XBMC Addons" version="0" provider-name="ddurdle">
+<addon id="repository.ddurdle" name="ddurdle's XBMC Addons" version="0.0.0.1" provider-name="ddurdle">
 	<extension point="xbmc.addon.repository" name="ddurdle's XBMC Addon Repository">
 		<info compressed="false">https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml</info>
 		<checksum>https://raw.github.com/ddurdle/repository.ddurdle/master/addons.xml.md5</checksum>
@@ -825,7 +825,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dextertv" name="dextertv repo" version="0" provider-name="dexter">
+<addon id="repository.dextertv" name="dextertv repo" version="0.0.0.1" provider-name="dexter">
 	<extension point="xbmc.addon.repository" name="dexter Addon Repository">
 		<info compressed="false">https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml.md5</checksum>
@@ -838,7 +838,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.divingmule.addons" name="divingmule's Unofficial Repository" version="0">
+<addon id="repository.divingmule.addons" name="divingmule's Unofficial Repository" version="0.0.0.1">
 	<extension point="xbmc.addon.repository" name="divingmule's Unofficial Repository">
 		<info compressed="false">http://divingmules-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://divingmules-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -854,7 +854,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 <addon id="repository.Dixie-Deans-XBMC-Repo"
 	name="Dixie-Deans-XBMC-Repo"
-	version="0"
+	version="0.0.0.1"
 	provider-name="DixieDean">
 	<extension point="xbmc.addon.repository"
 		name="Dixie-Deans-XBMC-Repo-1.1.0">
@@ -869,7 +869,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dk-xbmc-repaddon" name="dk-xbmc-repaddon Add-on Repository" version="0" provider-name="dk-xbmc-repaddon">
+<addon id="repository.dk-xbmc-repaddon" name="dk-xbmc-repaddon Add-on Repository" version="0.0.0.1" provider-name="dk-xbmc-repaddon">
 	<extension point="xbmc.addon.repository" name="dk-xbmc-repaddon Add-on Repository">
 		<info compressed="false">http://raw.githubusercontent.com/dknlght/dkodi/master/addons.xml</info>
 		<checksum>http://raw.githubusercontent.com/dknlght/dkodi/master/addons.xml.md5</checksum>
@@ -883,7 +883,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dmd-xbmc.googlecode.com" version="0" name="DMD-Czech XBMC Repository -  deprecated" provider-name="Jiri Vyhnalek">
+<addon id="repository.dmd-xbmc.googlecode.com" version="0.0.0.1" name="DMD-Czech XBMC Repository -  deprecated" provider-name="Jiri Vyhnalek">
   <requires>
     <import addon="repository.kodi-czsk" version="1.0.1" />
   </requires>
@@ -916,7 +916,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
   </extension>
 </addon>
 
-<addon id="repository.docshadrach" name="Doc Shadrach's Add-ons" version="0" provider-name="Doc Shadrach">
+<addon id="repository.docshadrach" name="Doc Shadrach's Add-ons" version="0.0.0.1" provider-name="Doc Shadrach">
 	<extension point="xbmc.addon.repository" name="Doc Shadrach's Add-ons Repo 1.0">
 		<info compressed="false">http://github.com/XBMCSpot/docshadrach.repository/raw/master/addons.xml</info>
 		<checksum>http://github.com/XBMCSpot/docshadrach.repository/raw/master/addons.xml.md5</checksum>
@@ -929,7 +929,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dss" name="Dutch Sport Streams" version="0" provider-name="Dutch Cloud TV">
+<addon id="repository.dss" name="Dutch Sport Streams" version="0.0.0.1" provider-name="Dutch Cloud TV">
 	<extension point="xbmc.addon.repository" name="Dutch Sport Streams Repository">
 		<info compressed="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml.md5</checksum>
@@ -942,7 +942,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.dudehere.plugins" name="DudeHere Addons" provider-name="DudeHere" version="0">
+<addon id="repository.dudehere.plugins" name="DudeHere Addons" provider-name="DudeHere" version="0.0.0.1">
     <extension name="DudeHere Add-On Repository" point="xbmc.addon.repository">
         <info compressed="false">https://offshoregit.com/dudehere-repository/addons/addons.xml</info>
         <checksum>https://offshoregit.com/dudehere-repository/addons/addons.xml.md5</checksum>
@@ -957,7 +957,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 <addon id="repository.dvor85"
        name="dvor85 XBMC Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="dvor85">
 	<extension point="xbmc.addon.repository" name="dvor85 XBMC Add-ons">
 		<info compressed="false">https://github.com/dvor85/kodi.repo/raw/master/addons.xml</info>
@@ -975,7 +975,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.eldorado" name="Eldorado's XBMC Addons" version="0" provider-name="eldorado">
+<addon id="repository.eldorado" name="Eldorado's XBMC Addons" version="0.0.0.1" provider-name="eldorado">
 	<extension point="xbmc.addon.repository" name="Eldorado's XBMC Addon Repository">
 		<info compressed="false">http://raw.github.com/Eldorados/eldorado-xbmc-addons/master/addons.xml</info>
 		<checksum>http://raw.github.com/Eldorados/eldorado-xbmc-addons/master/addons.xml.md5</checksum>
@@ -994,7 +994,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.eleazar" name="Eleazar's XBMC Add-on Repository" version="0" provider-name="eleazarcoding">
+<addon id="repository.eleazar" name="Eleazar's XBMC Add-on Repository" version="0.0.0.1" provider-name="eleazarcoding">
 	<extension point="xbmc.addon.repository" name="Eleazar's XBMC Addon Repository">
 		<info compressed="false">https://offshoregit.com/eleazarcoding/eleazar-xbmc/raw/master/addons.xml</info>
 		<checksum>https://offshoregit.com/eleazarcoding/eleazar-xbmc/raw/master/addons.xml.md5</checksum>
@@ -1009,7 +1009,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.entertainmentrepo" name="The Entertainment Repository" version="0" provider-name="Mr Entertainment">
+<addon id="repository.entertainmentrepo" name="The Entertainment Repository" version="0.0.0.1" provider-name="Mr Entertainment">
 	<extension point="xbmc.addon.repository" name="Entertainment Addons Repository">
         <dir>
 	      <info compressed="false">https://raw.github.com/MrEntertainment/EntertainmentREPO/master/addons.xml</info>
@@ -1028,7 +1028,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.eraser" name="XBMC Eraser's Addons" version="0" provider-name="eraser">
+<addon id="repository.eraser" name="XBMC Eraser's Addons" version="0.0.0.1" provider-name="eraser">
 	<extension point="xbmc.addon.repository" name="XBMC Eraser's Addons">
 		<info compressed="false">http://twitxbmc.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://twitxbmc.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -1042,7 +1042,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.evgen_dev" name="Evgen_dev XBMC Add-ons" version="0" provider-name="evgen_dev">
+<addon id="repository.evgen_dev" name="Evgen_dev XBMC Add-ons" version="0.0.0.1" provider-name="evgen_dev">
 	<extension point="xbmc.addon.repository" name="Evgen_dev XBMC Add-ons">
 		<info compressed="false">https://raw.githubusercontent.com/evgen-dev/repository.evgen_dev.xbmc-addons/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/evgen-dev/repository.evgen_dev.xbmc-addons/master/addons.xml.md5</checksum>
@@ -1058,7 +1058,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 <addon id="repository.evolution"
 	   name="Studio-Evolution Addons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="Studio-Evolution">
 	<extension point="xbmc.addon.repository" name="Studio-Evolution Addons">
 		<info compressed="false">http://raw.github.com/GeekEdem/zip/master/addons.xml</info>
@@ -1076,7 +1076,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 <addon id="repository.eyal"
         name="Eyal TV Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="Eyal">
     <extension point="xbmc.addon.repository"
         name="Eyal TV Add-ons">
@@ -1093,7 +1093,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 <addon id="repository.fastcolors"
        name="Fastcolors Repo"
-       version="0"
+       version="0.0.0.1"
        provider-name="fastcolors">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
@@ -1125,7 +1125,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
     </extension>
 </addon>
 
-<addon id="repository.github.fehmer" name="Addons for deaf people" version="0" provider-name="fehmer">
+<addon id="repository.github.fehmer" name="Addons for deaf people" version="0.0.0.1" provider-name="fehmer">
 	<extension point="xbmc.addon.repository" name="fehmer add-on repository">
 		<info compressed="false">https://raw.github.com/fehmer/xbmc-repository/master/addons.xml</info>
 		<checksum>https://raw.github.com/fehmer/xbmc-repository/master/addons.xml.md5</checksum>
@@ -1139,7 +1139,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.fightnight" name="fightnight repository" version="0" provider-name="fightnight">
+<addon id="repository.fightnight" name="fightnight repository" version="0.0.0.1" provider-name="fightnight">
 	<extension point="xbmc.addon.repository" name="fightnight">
 		<info compressed="false">https://fightnightkodi.svn.codeplex.com/svn/addons/addons.xml</info>
 		<checksum>https://fightnightkodi.svn.codeplex.com/svn/addons/addons.xml.md5</checksum>
@@ -1152,7 +1152,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.filmkodi.com" name="Kodi filmkodi.com repository" version="0" provider-name="Mrknow">
+<addon id="repository.filmkodi.com" name="Kodi filmkodi.com repository" version="0.0.0.1" provider-name="Mrknow">
 	<extension point="xbmc.addon.repository" name="Filmkodi.com Kodi Add-on Repository">
 		<info compressed="false">http://filmkodi.com/repository/addons.xml</info>
 		<checksum>http://filmkodi.com/repository/addons.xml.md5</checksum>
@@ -1169,7 +1169,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.flopes.xbmc" name="flopes repositorio" version="0" provider-name="flopes">
+<addon id="repository.flopes.xbmc" name="flopes repositorio" version="0.0.0.1" provider-name="flopes">
 	<extension point="xbmc.addon.repository" name="flopes Add-on Repository">
 		<info compressed="false">http://repo-flopes-xbmc.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://repo-flopes-xbmc.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -1182,7 +1182,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.FTV-Guide-Repo" name="FTV Guide Repo" version="0" provider-name="rayw1986, bluezed">
+<addon id="repository.FTV-Guide-Repo" name="FTV Guide Repo" version="0.0.0.1" provider-name="rayw1986, bluezed">
 	<extension point="xbmc.addon.repository" name="FTV Guide Repository">
 		<info compressed="false">http://raw.github.com/bluezed/FTV-Guide-Repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/bluezed/FTV-Guide-Repo/master/addons.xml.md5</checksum>
@@ -1195,7 +1195,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.gbzygil" name="gbzygil's XBMC Addons" version="0" provider-name="gbzygil">
+<addon id="repository.gbzygil" name="gbzygil's XBMC Addons" version="0.0.0.1" provider-name="gbzygil">
 	<extension point="xbmc.addon.repository" name="gbzygil's XBMC Addon Repository">
 		<info compressed="false">https://github.com/gbzygil/gbzygil-xbmc-repo/raw/master/addons.xml</info>
 		<checksum>https://github.com/gbzygil/gbzygil-xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -1209,7 +1209,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.github.anilkuj-xbmc-addons" name="anilkuj addons" version="0" provider-name="anilkuj">
+<addon id="repository.github.anilkuj-xbmc-addons" name="anilkuj addons" version="0.0.0.1" provider-name="anilkuj">
 	<extension point="xbmc.addon.repository" name="anilkuj add-on repository">
 		<info compressed="false">https://github.com/anilkuj/xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/anilkuj/xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -1222,7 +1222,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.achilles-projects" name="achilles addons" version="0" provider-name="achilles">
+<addon id="repository.googlecode.achilles-projects" name="achilles addons" version="0.0.0.1" provider-name="achilles">
 	<extension point="xbmc.addon.repository" name="achilles add-on repository">
 		<info compressed="false">http://achilles-projects.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://achilles-projects.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -1235,7 +1235,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.anarchintosh-projects" name="anarchintosh addons" version="0" provider-name="anarchintosh">
+<addon id="repository.googlecode.anarchintosh-projects" name="anarchintosh addons" version="0.0.0.1" provider-name="anarchintosh">
 	<extension point="xbmc.addon.repository" name="anarchintosh add-on repository">
 		<info compressed="false">http://anarchintosh-projects.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://anarchintosh-projects.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -1248,7 +1248,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.apple-tv2-xbmc" name="aj addons" version="0" provider-name="ajay">
+<addon id="repository.googlecode.apple-tv2-xbmc" name="aj addons" version="0.0.0.1" provider-name="ajay">
 	<extension point="xbmc.addon.repository" name="aj add-on repository">
 		<info compressed="false">http://apple-tv2-xbmc.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>http://apple-tv2-xbmc.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
@@ -1263,7 +1263,7 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 </addon>
 
 <addon id="repository.googlecode.bogs-xbmc-addons"
-name="Bog's Addons" version="0"
+name="Bog's Addons" version="0.0.0.1"
 provider-name="bog.gob">
   <extension point="xbmc.addon.repository" name="Bog's Addons">
     <info compressed="false">	http://bogs-xbmc-addons.googlecode.com/svn/trunk/addons.xml</info>
@@ -1280,7 +1280,7 @@ provider-name="bog.gob">
 
 <addon id="repository.googlecode.kozz-addons"
 		name="Kozz Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="Kozz">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -1433,7 +1433,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.krysty-xbmc" name="krysty-xbmc addons" version="0" provider-name="krysty">
+<addon id="repository.googlecode.krysty-xbmc" name="krysty-xbmc addons" version="0.0.0.1" provider-name="krysty">
 	<extension point="xbmc.addon.repository" name="krysty-xbmc add-on repository">
 		<info compressed="false">https://raw.githubusercontent.com/yokrysty/krysty-xbmc/master/addons/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/yokrysty/krysty-xbmc/master/addons/addons.xml.md5</checksum>
@@ -1446,7 +1446,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.lordindy" name="lordindy addons" version="0" provider-name="lordindy">
+<addon id="repository.googlecode.lordindy" name="lordindy addons" version="0.0.0.1" provider-name="lordindy">
         <extension point="xbmc.addon.repository" name="lordindy add-on repository">
                 <info compressed="false">http://lordindy-xbmc.googlecode.com/svn/addons/addons.xml</info>
                 <checksum>http://lordindy-xbmc.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -1459,7 +1459,7 @@ provider-name="bog.gob">
         </extension>
 </addon>
 
-<addon id="repository.googlecode.massive-pt" name="massivept addons" version="0" provider-name="massivept">
+<addon id="repository.googlecode.massive-pt" name="massivept addons" version="0.0.0.1" provider-name="massivept">
 	<extension point="xbmc.addon.repository" name="massivept add-on repository">
 		<info compressed="false">http://massive-pt.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://massive-pt.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -1472,7 +1472,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.repothn" name="repothn" version="0" provider-name="THN - Twitter @KaptajnGuldkorn - http://www.vandtasi.net">
+<addon id="repository.googlecode.repothn" name="repothn" version="0.0.0.1" provider-name="THN - Twitter @KaptajnGuldkorn - http://www.vandtasi.net">
 	<extension point="xbmc.addon.repository" name="THNs Add-on Repository">
 		<info compressed="true">http://repothn.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>http://repothn.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
@@ -1485,7 +1485,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.sparetime" name="nixa addons" version="0" provider-name="nixa">
+<addon id="repository.googlecode.sparetime" name="nixa addons" version="0.0.0.1" provider-name="nixa">
 	<extension point="xbmc.addon.repository" name="nixa add-on repository">
 		<info compressed="false">http://sparetime.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>http://sparetime.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
@@ -1498,7 +1498,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.xbmc-addon-txbb" name="TVChinese Add-on Repository" version="0" provider-name="rodney">
+<addon id="repository.googlecode.xbmc-addon-txbb" name="TVChinese Add-on Repository" version="0.0.0.1" provider-name="rodney">
     <extension point="xbmc.addon.repository" name="TVChinese Add-on Repository">
         <info compressed="false">http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://xbmc-addon-tv-tianxianbaby.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -1515,7 +1515,7 @@ provider-name="bog.gob">
     </extension>
 </addon>
 
-<addon id="repository.googlecode.xbmc-addons-chinese" name="Chinese Add-on Repository" version="0" provider-name="Taxigps">
+<addon id="repository.googlecode.xbmc-addons-chinese" name="Chinese Add-on Repository" version="0.0.0.1" provider-name="Taxigps">
 	<extension point="xbmc.addon.repository" name="Chinese Add-on Repository">
 		<info compressed="false">http://xbmc-addons-chinese.googlecode.com/svn/addons/eden_src/addons.xml</info>
 		<checksum>http://xbmc-addons-chinese.googlecode.com/svn/addons/eden_src/addons.xml.md5</checksum>
@@ -1532,7 +1532,7 @@ provider-name="bog.gob">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.xbmc-catchuptv-au" name="XBMC CatchupTV AU Add-ons" version="0" provider-name="XBMC CatchupTV AU">
+<addon id="repository.googlecode.xbmc-catchuptv-au" name="XBMC CatchupTV AU Add-ons" version="0.0.0.1" provider-name="XBMC CatchupTV AU">
   <extension point="xbmc.addon.repository" name="XBMC CatchupTV AU Add-on Repository">
     <info compressed="false">https://raw.github.com/xbmc-catchuptv-au/repo/master/addons.xml</info>
     <checksum>https://raw.github.com/xbmc-catchuptv-au/repo/master/addons.xml.md5</checksum>
@@ -1546,7 +1546,7 @@ provider-name="bog.gob">
 </addon>
 
 <addon id="repository.googlecode.xbmc-cycnow"
-name="xbmc-cycnow Add-ons" version="0"
+name="xbmc-cycnow Add-ons" version="0.0.0.1"
 provider-name="MGendyS">
   <extension point="xbmc.addon.repository"
   name="xbmc-catchuptv-au Add-on Repository">
@@ -1571,7 +1571,7 @@ provider-name="MGendyS">
   </extension>
 </addon>
 
-<addon id="repository.googlecode.xbmc-phoenix" name="Phoenix Addons" version="0" provider-name="PhoenixCrew">
+<addon id="repository.googlecode.xbmc-phoenix" name="Phoenix Addons" version="0.0.0.1" provider-name="PhoenixCrew">
 	<extension point="xbmc.addon.repository" name="Phoenix Addon Repository">
 		<info compressed="false">https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>https://xbmc-phoenix.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
@@ -1585,7 +1585,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.googlecode.xbmc-tvshack" name="googlecode.xbmc-tvshack Add-on" version="0" provider-name="Pedro Guedes">
+<addon id="repository.googlecode.xbmc-tvshack" name="googlecode.xbmc-tvshack Add-on" version="0.0.0.1" provider-name="Pedro Guedes">
   <extension point="xbmc.addon.repository" name="googlecode.xbmc-tvshack Repository">
     <info compressed="false">http://xbmc-tvshack.googlecode.com/svn/branches/DHARMA/repo/addons.xml</info>
     <checksum>http://xbmc-tvshack.googlecode.com/svn/branches/DHARMA/repo/addons.xml.md5</checksum>
@@ -1600,7 +1600,7 @@ provider-name="MGendyS">
 
   <!-- Repository Plugin -->
   <addon id="repository.googlecode.xbmc-vodie"
-  name="xbmc-vodie Add-ons" version="0"
+  name="xbmc-vodie Add-ons" version="0.0.0.1"
   provider-name="kitesurfingie">
     <extension point="xbmc.addon.repository"
     name="XBMC-VODie Add-on Repository">
@@ -1622,7 +1622,7 @@ provider-name="MGendyS">
     </extension>
   </addon>
 
-<addon id="repository.googlecode.XtreamMedia" name="Xtream addons" version="0" provider-name="coadyj">
+<addon id="repository.googlecode.XtreamMedia" name="Xtream addons" version="0.0.0.1" provider-name="coadyj">
 	<extension point="xbmc.addon.repository" name="Xtream Media add-on repository">
 		<info compressed="false">http://xtream-media.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://xtream-media.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -1635,7 +1635,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.hal9000" name="HAL9000 Add-on Repository" version="0" provider-name="HAL9000">
+<addon id="repository.hal9000" name="HAL9000 Add-on Repository" version="0.0.0.1" provider-name="HAL9000">
     <extension point="xbmc.addon.repository" name="HAL9000 Add-on Repository">
         <info compressed="false">https://raw.githubusercontent.com/xbmc-addon/repository.hal9000/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/xbmc-addon/repository.hal9000/master/addons.xml.md5</checksum>
@@ -1650,7 +1650,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.Halowrepo" name="  [COLOR lime][B]HALOW [/COLOR][COLOR white]Repository[/B][/COLOR]" version="0" provider-name="HalowRepo">
+<addon id="repository.Halowrepo" name="  [COLOR lime][B]HALOW [/COLOR][COLOR white]Repository[/B][/COLOR]" version="0.0.0.1" provider-name="HalowRepo">
 	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]Halow[/COLOR][COLOR white]Repository[/B][/COLOR]">
         <info compressed="false">https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml.md5</checksum>
@@ -1663,7 +1663,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.hashiname" name="Hashiname Add-on Repository" version="0" provider-name="Hashiname">
+<addon id="repository.hashiname" name="Hashiname Add-on Repository" version="0.0.0.1" provider-name="Hashiname">
     <extension point="xbmc.addon.repository" name="Hashiname Add-on Repository">
         <info>https://raw.githubusercontent.com/hasherdene/kodi-repo-hashiname/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/hasherdene/kodi-repo-hashiname/master/addons.xml.md5</checksum>
@@ -1677,7 +1677,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.hdpfans.xbmc-addons-chinese" name="HDPfans中文插件库" version="0" provider-name="HDPfans">
+<addon id="repository.hdpfans.xbmc-addons-chinese" name="HDPfans中文插件库" version="0.0.0.1" provider-name="HDPfans">
 	<extension point="xbmc.addon.repository" name="HDPfans Add-on Repository">
 		<info compressed="false">http://repo.tofuos.com/addons.xml</info>
 		<checksum>http://repo.tofuos.com/addons.xml.md5</checksum>
@@ -1694,7 +1694,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.hmb.xbmc.addons" name="HMB Repository" version="0" provider-name="HMB">
+<addon id="repository.hmb.xbmc.addons" name="HMB Repository" version="0.0.0.1" provider-name="HMB">
 	<extension point="xbmc.addon.repository" name="HMB Repository">
 		<info compressed="false">https://raw.github.com/HMSB/repository.hmb.xbmc.addons/gh-pages/addons.xml</info>
 		<checksum>http://hmsb.github.io/repository.hmb.xbmc.addons/addons.xml</checksum>
@@ -1709,7 +1709,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.homeless.addons" name="Homeless Add-ons Repository" version="0" provider-name="totalxbmc">
+<addon id="repository.homeless.addons" name="Homeless Add-ons Repository" version="0.0.0.1" provider-name="totalxbmc">
 	<extension point="xbmc.addon.repository" name="bluecop Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/totalxbmc/homeless/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/totalxbmc/homeless/master/addons.xml.md5</checksum>
@@ -1723,7 +1723,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.htpc-solutions" version="0" name="HTPC Solutions Repository" provider-name="HTPC Solutions">
+<addon id="repository.htpc-solutions" version="0.0.0.1" name="HTPC Solutions Repository" provider-name="HTPC Solutions">
 	<extension point="xbmc.addon.repository" name="HTPC Solutions Repository">
 		<info compressed="true">https://raw.githubusercontent.com/htpcsolutions/downloads/master/kodi/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/htpcsolutions/downloads/master/kodi/addons.xml.md5</checksum>
@@ -1736,7 +1736,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.huball" name="huball-repo" version="0" provider-name="huball">
+<addon id="repository.huball" name="huball-repo" version="0.0.0.1" provider-name="huball">
 	<extension point="xbmc.addon.repository" name="huball-repo">
 		<info compressed="false">http://xbmc-huball-repository.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://xbmc-huball-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -1752,7 +1752,7 @@ provider-name="MGendyS">
 </addon>
 
 <addon id="repository.humla" name="humla Add-on Repository"
-    version="0"
+    version="0.0.0.1"
     provider-name="humla">
 	<extension point="xbmc.addon.repository" name="humla Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/humla/canadanepal-xbmc/master/humla_repo/addons.xml</info>
@@ -1767,7 +1767,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.husham.com" name="Husham.com Repo" version="0" provider-name="husham.com">
+<addon id="repository.husham.com" name="Husham.com Repo" version="0.0.0.1" provider-name="husham.com">
 	<extension point="xbmc.addon.repository" name="Husham.com Repository">
 		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml.md5</checksum>
@@ -1780,7 +1780,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.iamfreetofly-xbmc-repaddon" name="iamfreetofly-xbmc-repaddon Add-on Repository" version="0" provider-name="iamfreetofly-xbmc-repaddon">
+<addon id="repository.iamfreetofly-xbmc-repaddon" name="iamfreetofly-xbmc-repaddon Add-on Repository" version="0.0.0.1" provider-name="iamfreetofly-xbmc-repaddon">
 	<extension point="xbmc.addon.repository" name="iamfreetofly-xbmc-repaddon Add-on Repository">
 		<info compressed="false">http://iamfreetofly-xbmc-repaddon.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://iamfreetofly-xbmc-repaddon.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -1794,7 +1794,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.icanuck" name="[COLOR FF005de5]iCanuck's [/COLOR]Kodi Repository" version="0" provider-name="iCanuck">
+<addon id="repository.icanuck" name="[COLOR FF005de5]iCanuck's [/COLOR]Kodi Repository" version="0.0.0.1" provider-name="iCanuck">
 	<extension point="xbmc.addon.repository" name="iCanuck's Kodi Repository">
        <info>http://offshoregit.com/iCanuck/iCanuck-Repo/raw/master/addons.xml</info>
        <checksum>http://offshoregit.com/iCanuck/iCanuck-Repo/raw/master/addons.xml.md5</checksum>
@@ -1808,7 +1808,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.icharania" name="icharania repo" version="0" provider-name="Irfan Charania">
+<addon id="repository.icharania" name="icharania repo" version="0.0.0.1" provider-name="Irfan Charania">
 	<extension point="xbmc.addon.repository" name="icharania repo">
 		<info compressed="false">https://raw.github.com/irfancharania/icharania.repo/master/addons.xml</info>
 		<checksum>https://raw.github.com/irfancharania/icharania.repo/master/addons.xml.md5</checksum>
@@ -1822,7 +1822,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.infologiqueTV" name="Source OFFICIELLE de plugins Infologique.net" version="0" provider-name="Dany">
+<addon id="repository.infologiqueTV" name="Source OFFICIELLE de plugins Infologique.net" version="0.0.0.1" provider-name="Dany">
 	<extension point="xbmc.addon.repository" name="Private Addons XBMC">
 		<info compressed="false">http://tv.infologique.net/XBMC/addons.xml</info>
 		<checksum>http://tv.infologique.net/XBMC/addons.xml.md5</checksum>
@@ -1835,7 +1835,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.iptv.plugins" name="IPTV XBMC Add-ons" version="0" provider-name="erop1991@gmail.com">
+<addon id="repository.iptv.plugins" name="IPTV XBMC Add-ons" version="0.0.0.1" provider-name="erop1991@gmail.com">
 	<extension point="xbmc.addon.repository" name="IPTV XBMC Add-ons">
 		<info compressed="false">http://github.com/IICUX/xbmc-iptv-plugin/raw/master/xbmc_repo/addons.xml</info>
 		<checksum>http://github.com/IICUX/xbmc-iptv-plugin/raw/master/xbmc_repo/addons.xml.md5</checksum>
@@ -1849,7 +1849,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.iptvxtra" name="IPTVxtra KODI Add-ons" version="0" provider-name="IPTVxtra">
+<addon id="repository.iptvxtra" name="IPTVxtra KODI Add-ons" version="0.0.0.1" provider-name="IPTVxtra">
     <extension point="xbmc.addon.repository"
         name="IPTVxtra XBMC Add-ons">
         <info compressed="false">http://srv1.iptvxtra.com/addons/addons.xml</info>
@@ -1864,7 +1864,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.iptvxtra_movie" name="IPTVxtra KODI Movie Add-ons" version="0" provider-name="IPTVxtra">
+<addon id="repository.iptvxtra_movie" name="IPTVxtra KODI Movie Add-ons" version="0.0.0.1" provider-name="IPTVxtra">
     <extension point="xbmc.addon.repository"
         name="IPTVxtra XBMC Add-ons">
         <info compressed="false">http://srv1.iptvxtra.com/addons_movie/addons.xml</info>
@@ -1879,7 +1879,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="0" provider-name="iSTREAM">
+<addon id="repository.istream" name="iSTREAM XBMC Addons Repository" version="0.0.0.1" provider-name="iSTREAM">
 	<extension point="xbmc.addon.repository" name="iSTREAM">
 		<info compressed="false">http://istreamrepo.me/istream/repo/addons.xml</info>
 		<checksum>http://istreamrepo.me/istream/repo/addons.xml.md5</checksum>
@@ -1892,7 +1892,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0" provider-name="iWillFolo.com">
+<addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0.0.0.1" provider-name="iWillFolo.com">
 	<extension point="xbmc.addon.repository" name="iWillFolo add-on repository">
 		<info compressed="false">http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml</info>
 		<checksum>http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml.md5</checksum>
@@ -1908,7 +1908,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.japanese" name="Japanese XBMC Addons" version="0" provider-name="xbmc_now">
+<addon id="repository.japanese" name="Japanese XBMC Addons" version="0.0.0.1" provider-name="xbmc_now">
 	<extension point="xbmc.addon.repository" name="Japanese XBMC Addon Repository">
 		<info compressed="false">https://raw.github.com/xbmc-now/japanese-xbmc-addons/master/repo/addons.xml</info>
 		<checksum>https://raw.github.com/xbmc-now/japanese-xbmc-addons/master/repo/addons.xml.md5</checksum>
@@ -1921,7 +1921,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.jas0npc" name="__Jas0npc__ Repository" version="0" provider-name="Jas0npc">
+<addon id="repository.jas0npc" name="__Jas0npc__ Repository" version="0.0.0.1" provider-name="Jas0npc">
 	<extension point="xbmc.addon.repository" name="__Jas0npc__ Addon Repository">
 		<info compressed="false">http://raw.github.com/jas0npc/kodi/master/addons/addons.xml</info>
 		<checksum>http://raw.github.com/jas0npc/kodi/master/addons/addons.xml.md5</checksum>
@@ -1934,7 +1934,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.k3oni.xbmc" name="K3oni's Addon Repository" version="0">
+<addon id="repository.k3oni.xbmc" name="K3oni's Addon Repository" version="0.0.0.1">
         <extension point="xbmc.addon.repository" name="K3oni's Addon Repository">
                 <info compressed="false">https://raw.github.com/k3oni/repository.k3oni.xbmc-addons/master/addons.xml</info>
                 <checksum>https://raw.github.com/k3oni/repository.k3oni.xbmc-addons/master/addons.xml.md5</checksum>
@@ -1948,7 +1948,7 @@ provider-name="MGendyS">
         </extension>
 </addon>
 
-<addon id="repository.kaosbox" name="KAOSbox Repo" version="0" provider-name="KAOSbox">
+<addon id="repository.kaosbox" name="KAOSbox Repo" version="0.0.0.1" provider-name="KAOSbox">
 	<extension point="xbmc.addon.repository" name="Kaosbox Repository">
 		<info compressed="true">http://repo.kaosbox.tv/addons.xml</info>
 		<checksum>http://repo.kaosbox.tv/addons.xml.md5</checksum>
@@ -1963,7 +1963,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kaosbox2" name="KAOSbox Repo" version="0" provider-name="KAOSbox">
+<addon id="repository.kaosbox2" name="KAOSbox Repo" version="0.0.0.1" provider-name="KAOSbox">
 	<extension point="xbmc.addon.repository" name="Kaosbox Repository">
 		<info compressed="true">http://repobox.kaosbox.tv/addons.xml</info>
 		<checksum>http://repobox.kaosbox.tv/addons.xml.md5</checksum>
@@ -1978,7 +1978,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.karrade" name="Karrade's XBMC Addons" version="0" provider-name="karrade [empasm@gmail.com]">
+<addon id="repository.karrade" name="Karrade's XBMC Addons" version="0.0.0.1" provider-name="karrade [empasm@gmail.com]">
 	<extension point="xbmc.addon.repository" name="Karrade's XBMC Addon Repository">
 		<info compressed="false">http://github.com/Karrade/xbmc-repo/raw/master/addons.xml</info>
 		<checksum>http://github.com/Karrade/xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -1991,7 +1991,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kasik" name="Kasik's Repository" version="0" provider-name="Kasik">
+<addon id="repository.kasik" name="Kasik's Repository" version="0.0.0.1" provider-name="Kasik">
 	<extension point="xbmc.addon.repository" name="Kasik's Addon Repository">
 		<info compressed="false">https://github.com/Kasik/Kasiks-Repo/raw/master/addons.xml</info>
 		<checksum>https://github.com/Kasik/Kasiks-Repo/raw/master/addons.xml.md5</checksum>
@@ -2006,7 +2006,7 @@ provider-name="MGendyS">
 
 <addon	id="repository.keesv"
 		name="KeesV's repo"
-		version="0"
+		version="0.0.0.1"
 		provider-name="KeesV">
 	<extension	point="xbmc.addon.repository"
 				name="KeesV's repo">
@@ -2022,7 +2022,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kgontv" name="KGOnTV XBMC Add-ons" version="0" provider-name="delletenebre">
+<addon id="repository.kgontv" name="KGOnTV XBMC Add-ons" version="0.0.0.1" provider-name="delletenebre">
   <extension point="xbmc.addon.repository" name="KGOnTV XBMC Add-ons">
     <info compressed="true">http://xbmc-kg-ontv.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://xbmc-kg-ontv.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -2038,7 +2038,7 @@ provider-name="MGendyS">
   </extension>
 </addon>
 
-<addon id="repository.Kinkin" name="Kinkins REPO" version="0" provider-name="Kinkin">
+<addon id="repository.Kinkin" name="Kinkins REPO" version="0.0.0.1" provider-name="Kinkin">
 	<extension point="xbmc.addon.repository" name="Kinkin Addon Repository">
 		<info compressed="false">https://offshoregit.com/kinkin-xbmc-repository/addons.xml</info>
 		<checksum>https://offshoregit.com/kinkin-xbmc-repository/addons.xml.md5</checksum>
@@ -2052,7 +2052,7 @@ provider-name="MGendyS">
 </addon>
 
 <addon id="repository.kodi-czsk"
-  version="0"
+  version="0.0.0.1"
   name="Kodi CZ &amp; SK Doplňky"
   provider-name="Kodi CZSK">
   <extension point="xbmc.addon.repository"
@@ -2074,7 +2074,7 @@ provider-name="MGendyS">
   </extension>
 </addon>
 
-<addon id="repository.kodibrasilforum" name="Kodi Brasil Forum Repository" version="0" provider-name="Wanilton">
+<addon id="repository.kodibrasilforum" name="Kodi Brasil Forum Repository" version="0.0.0.1" provider-name="Wanilton">
 	<extension point="xbmc.addon.repository" name="Kodi Brasil Forum Repository">
 		<info>http://raw.github.com/kodibrasil/kodibrasilforum/master/addons.xml</info>
 		<checksum>http://raw.github.com/kodibrasil/kodibrasilforum/master/addons.xml.md5</checksum>
@@ -2088,7 +2088,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kodil" name=".[COLOR blue].Kodisrael [/COLOR][COLOR white] Repository [/COLOR]" version="0" provider-name="kodil">
+<addon id="repository.kodil" name=".[COLOR blue].Kodisrael [/COLOR][COLOR white] Repository [/COLOR]" version="0.0.0.1" provider-name="kodil">
     <extension point="xbmc.addon.repository" name=".Kodisrael  Repository ">
         <info compressed="false">https://raw.githubusercontent.com/kodil/kodil/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/kodil/kodil/master/addons.xml.md5</checksum>
@@ -2104,7 +2104,7 @@ provider-name="MGendyS">
 
 <addon id="repository.kodinerds"
 		name="kodinerds.net Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="Jugger">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -2159,7 +2159,7 @@ provider-name="MGendyS">
 
 <addon id="repository.kodinerds.helix"
 		name="kodinerds.net Add-ons (Helix)"
-		version="0"
+		version="0.0.0.1"
 		provider-name="Jugger">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -2180,7 +2180,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kodipopcorntime" name="KODI Popcorn Time Repository" version="0" provider-name="Diblo">
+<addon id="repository.kodipopcorntime" name="KODI Popcorn Time Repository" version="0.0.0.1" provider-name="Diblo">
      <extension point="xbmc.addon.repository" name="KODI Popcorn Time Repository">
         <info compressed="false">http://raw.githubusercontent.com/Diblo/KODI-Popcorn-Time/Repository/addons.xml</info>
         <checksum>http://raw.githubusercontent.com/Diblo/KODI-Popcorn-Time/Repository/addons.xml.md5</checksum>
@@ -2203,7 +2203,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.kodiunderground" name="[COLOR FF2da7d3]Kodi Underground[/COLOR]" version="0" provider-name="Prilly">
+<addon id="repository.kodiunderground" name="[COLOR FF2da7d3]Kodi Underground[/COLOR]" version="0.0.0.1" provider-name="Prilly">
 	<extension point="xbmc.addon.repository" name="Kodi Underground">
 	  <info compressed="true">http://kodi.speedbox.me/svn_kodi/trunk/addons.xml</info>
 	  <checksum>http://kodi.speedbox.me/svn_kodi/trunk/addons.xml.md5</checksum>
@@ -2223,7 +2223,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.kuroshi" name="Kuroshi's XBMC Addons" version="0" provider-name="Kuroshi">
+<addon id="repository.kuroshi" name="Kuroshi's XBMC Addons" version="0.0.0.1" provider-name="Kuroshi">
 	<extension point="xbmc.addon.repository" name="Kuroshi's XBMC Addon Repository">
 		<info compressed="false">http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml</info>
 		<checksum>http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml.md5</checksum>
@@ -2237,7 +2237,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.lambda" name="lambda Add-on repository" version="0" provider-name="lambda">
+<addon id="repository.lambda" name="lambda Add-on repository" version="0.0.0.1" provider-name="lambda">
 	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
 		<dir>
 			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>
@@ -2255,7 +2255,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.laryloose.xbmc-addons" name="Lary_Loose Repository" version="0" provider-name="Lary_loose">
+<addon id="repository.laryloose.xbmc-addons" name="Lary_Loose Repository" version="0.0.0.1" provider-name="Lary_loose">
 	<extension point="xbmc.addon.repository" name="Lary_Loose Repository">
 		<info compressed="false">https://github.com/LaryLoose/laryloose.xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/LaryLoose/laryloose.xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -2269,7 +2269,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.leandros.xbmc-plugins" name="Leandros Repository" version="0" provider-name="Leandros">
+<addon id="repository.leandros.xbmc-plugins" name="Leandros Repository" version="0.0.0.1" provider-name="Leandros">
   <extension point="xbmc.addon.repository" name="Leandros Repository">
         <info compressed="false">http://xbmcrepo.arvid-g.de/addons.xml</info>
         <checksum>http://xbmcrepo.arvid-g.de/addons.xml.md5</checksum>
@@ -2283,7 +2283,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.leopold" name="Leopold's Add-ons" version="0" provider-name="Leopold">
+<addon id="repository.leopold" name="Leopold's Add-ons" version="0.0.0.1" provider-name="Leopold">
   <extension point="xbmc.addon.repository" name="Leopold's Repository">
     <info compressed="false">https://raw.github.com/LS80/repository.leopold/master/addons.xml</info>
     <checksum>https://raw.github.com/LS80/repository.leopold/master/addons.xml.md5</checksum>
@@ -2297,7 +2297,7 @@ provider-name="MGendyS">
   </extension>
 </addon>
 
-<addon id="repository.lin" name="LIN XBMC Add-ons" version="0" provider-name="lin">
+<addon id="repository.lin" name="LIN XBMC Add-ons" version="0.0.0.1" provider-name="lin">
 	<extension point="xbmc.addon.repository" name="LIN XBMC Add-ons">
 		<info compressed="false">http://linspb.us/xbmc/addons.xml</info>
 		<checksum>http://linspb.us/xbmc/addons.xml.md5</checksum>
@@ -2311,7 +2311,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.liquid8d" name="liquid8d's XBMC Addons" version="0" provider-name="liquid8d">
+<addon id="repository.liquid8d" name="liquid8d's XBMC Addons" version="0.0.0.1" provider-name="liquid8d">
 	<extension point="xbmc.addon.repository" name="liquid8d's XBMC Addon Repository">
 		<info compressed="false">https://raw.github.com/liquid8d/xbmc/master/addons.xml</info>
 		<checksum>https://raw.github.com/liquid8d/xbmc/master/addons.xml.md5</checksum>
@@ -2324,7 +2324,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.livetv" name="LiveTV" version="0" provider-name="Joel">
+<addon id="repository.livetv" name="LiveTV" version="0.0.0.1" provider-name="Joel">
 <requires>
     <import addon="xbmc.addon" version="12.0.0" />
 </requires>
@@ -2343,7 +2343,7 @@ provider-name="MGendyS">
         </extension>
 </addon>
 
-<addon id="repository.lost-and-found" name="Repo Lost and Found" version="0" provider-name="L0RE">
+<addon id="repository.lost-and-found" name="Repo Lost and Found" version="0.0.0.1" provider-name="L0RE">
 	<extension point="xbmc.addon.repository" name="L0RE">
 		<info compressed="true">https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/kodinerds/repo/master/addons.xml.md5</checksum>
@@ -2359,7 +2359,7 @@ provider-name="MGendyS">
 
 <addon id="repository.lsellens"
        name="lsellens openelec addon repository"
-       version="0"
+       version="0.0.0.1"
        provider-name="lsellens">
   <extension point="xbmc.addon.repository"
              name="lsellens openelec addon repository">
@@ -2374,7 +2374,7 @@ provider-name="MGendyS">
   </extension>
 </addon>
 
-<addon id="repository.lunatixz" name="Lunatixz Repo" version="0" provider-name="Lunatixz">
+<addon id="repository.lunatixz" name="Lunatixz Repo" version="0.0.0.1" provider-name="Lunatixz">
     <extension point="xbmc.addon.repository" name="Official PseudoTV Live Repository">
         <info compressed="false">http://raw.github.com/Lunatixz/XBMC_Addons/master/addons.xml</info>
         <checksum>http://raw.github.com/Lunatixz/XBMC_Addons/master/addons.xml.md5</checksum>
@@ -2389,7 +2389,7 @@ provider-name="MGendyS">
 
 <addon id="repository.luxeria"
 		name="luxeria Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="linuxluemmel.ch@gmail.ch">
 	<extension point="xbmc.addon.repository"
 		name="Unofficial luxeria addon repository">
@@ -2405,7 +2405,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.m0ngr31" name="m0ngr31's Repository" version="0" provider-name="m0ngr31">
+<addon id="repository.m0ngr31" name="m0ngr31's Repository" version="0.0.0.1" provider-name="m0ngr31">
 	<extension point="xbmc.addon.repository" name="m0ngr31's Add-on Repository">
 		<info compressed="false">http://m0ngr31.us/repo/addons.xml</info>
 		<checksum>http://m0ngr31.us/repo/addons.xml.md5</checksum>
@@ -2419,7 +2419,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.m4x1m" name="Max (m4x1m) Headroom XBMC AddOns Repository" version="0" provider-name="Max (m4x1m) Headroom">
+<addon id="repository.m4x1m" name="Max (m4x1m) Headroom XBMC AddOns Repository" version="0.0.0.1" provider-name="Max (m4x1m) Headroom">
      <extension point="xbmc.addon.repository" name="Max (m4x1m) Headroom XBMC AddOns Repository">
 	  <info compressed="false">https://calm-river-6855.herokuapp.com/repository/addons.xml</info>
 	  <checksum>https://calm-river-6855.herokuapp.com/repository/addons.xml.md5</checksum>
@@ -2436,7 +2436,7 @@ provider-name="MGendyS">
      </extension>
 </addon>
 
-<addon id="repository.macedoniaondemand.xbmc-plugins" name="Macedonia On Demand Add-on Repository" version="0" provider-name="Viktor Mladenovski">
+<addon id="repository.macedoniaondemand.xbmc-plugins" name="Macedonia On Demand Add-on Repository" version="0.0.0.1" provider-name="Viktor Mladenovski">
 	<extension point="xbmc.addon.repository" name="Macedonia On Demand Add-on Repository">
 		<info compressed="false">http://macedoniaondemand.googlecode.com/git/addons.xml</info>
 		<checksum>http://macedoniaondemand.googlecode.com/git/addons.xml.md5</checksum>
@@ -2450,7 +2450,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.mafarricos.xbmc" name="Mafarricos repositorio" version="0" provider-name="Mafarricos">
+<addon id="repository.mafarricos.xbmc" name="Mafarricos repositorio" version="0.0.0.1" provider-name="Mafarricos">
 	<extension point="xbmc.addon.repository" name="Mafarricos Add-on Repository">
 		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-xbmc-addons/master/addons.xml</info>
 		<checksum>http://raw.github.com/Mafarricos/Mafarricos-xbmc-addons/master/addons.xml.md5</checksum>
@@ -2464,7 +2464,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.mafarricosDev.xbmc" name="Mafarricos Dev repositorio" version="0" provider-name="Mafarricos">
+<addon id="repository.mafarricosDev.xbmc" name="Mafarricos Dev repositorio" version="0.0.0.1" provider-name="Mafarricos">
 	<extension point="xbmc.addon.repository" name="Mafarricos Dev Add-on Repository">
 		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-xbmc-dev-addons/master/addons.xml</info>
 		<checksum>http://raw.github.com/Mafarricos/Mafarricos-xbmc-dev-addons/master/addons.xml.md5</checksum>
@@ -2478,7 +2478,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.mafarricosModded.xbmc" name="Mafarricos Modded repositorio" version="0" provider-name="Mafarricos">
+<addon id="repository.mafarricosModded.xbmc" name="Mafarricos Modded repositorio" version="0.0.0.1" provider-name="Mafarricos">
 	<extension point="xbmc.addon.repository" name="Mafarricos Modded Add-on Repository">
 		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-modded-xbmc-addons/master/addons.xml</info>
 		<checksum>http://raw.github.com/Mafarricos/Mafarricos-modded-xbmc-addons/master/addons.xml.md5</checksum>
@@ -2492,7 +2492,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.malayxbmc.addons" name="Malaysia XBMC Addon Repository" version="0">
+<addon id="repository.malayxbmc.addons" name="Malaysia XBMC Addon Repository" version="0.0.0.1">
 	<extension point="xbmc.addon.repository" name="Malaysia XBMC Addon Repository">
 		<info compressed="false">http://malaysia-kodiaddon-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://malaysia-kodiaddon-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -2506,7 +2506,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.maniac" name="Maniac's Add-on Repository" version="0" provider-name="Maniac">
+<addon id="repository.maniac" name="Maniac's Add-on Repository" version="0.0.0.1" provider-name="Maniac">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
@@ -2538,7 +2538,7 @@ provider-name="MGendyS">
     </extension>
 </addon>
 
-<addon id="repository.mash2k3" name="All Addons by Mash2k3" version="0" provider-name="Mash2k3">
+<addon id="repository.mash2k3" name="All Addons by Mash2k3" version="0.0.0.1" provider-name="Mash2k3">
 	<extension point="xbmc.addon.repository" name="Addons from Mash2k3">
 		<info compressed="false">http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml</info>
 		<checksum>http://bitbucket.org/mash2k3/mash2k3-repository/raw/master/addons.xml.md5</checksum>
@@ -2551,7 +2551,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.MaxMustermann.xbmc" name="MaxMustermann's add-ons" version="0" provider-name="MaxMustermann">
+<addon id="repository.MaxMustermann.xbmc" name="MaxMustermann's add-ons" version="0.0.0.1" provider-name="MaxMustermann">
 	<extension point="xbmc.addon.repository" name="MaxMustermann's add-on repository">
 		<info compressed="false">http://xbmc-development-with-passion.googlecode.com/svn/branches/repo/addons.xml</info>
 		<checksum>http://xbmc-development-with-passion.googlecode.com/svn/branches/repo/addons.xml.md5</checksum>
@@ -2567,7 +2567,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.mdrepo" name="Mucky Ducks Repo" version="0" provider-name="Mucky Duck">
+<addon id="repository.mdrepo" name="Mucky Ducks Repo" version="0.0.0.1" provider-name="Mucky Duck">
 	<extension point="xbmc.addon.repository" name="Mucky Ducks Repo">
 		<info compressed="false">https://raw.githubusercontent.com/mucky-duck/mdrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/mucky-duck/mdrepo/master/addons.xml.md5</checksum>
@@ -2581,7 +2581,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.membrane.xbmc-plugins" name="membrane Add-on Repository" version="0" provider-name="membrane">
+<addon id="repository.membrane.xbmc-plugins" name="membrane Add-on Repository" version="0.0.0.1" provider-name="membrane">
 	<extension point="xbmc.addon.repository" name="membrane Add-on Repository">
 		<info compressed="false">http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://membrane-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -2595,7 +2595,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="0" provider-name="MetalKettle">
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="0.0.0.1" provider-name="MetalKettle">
 	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
 		<info compressed="false">http://offshoregit.com/metalkettle/addons.xml</info>
 		<checksum>http://offshoregit.com/metalkettle/addons.xml.md5</checksum>
@@ -2608,7 +2608,7 @@ provider-name="MGendyS">
 	</extension>
 </addon>
 
-<addon id="repository.mFlow" name="mFlow XBMC Addon" version="0" provider-name="proteusplum">
+<addon id="repository.mFlow" name="mFlow XBMC Addon" version="0.0.0.1" provider-name="proteusplum">
 	<extension point="xbmc.addon.repository" name="mFlow XBMC Addon Repository">
 		<info compressed="false">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/addons.xml</info>
 		<checksum>https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/addons.xml.md5</checksum>
@@ -2622,7 +2622,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.mikaelec" name="mikaelec's XBMC Addons" version="0" provider-name="mikaelec">
+<addon id="repository.mikaelec" name="mikaelec's XBMC Addons" version="0.0.0.1" provider-name="mikaelec">
     <extension point="xbmc.addon.repository" name="mikaelec's XBMC Addon Repository">
         <info compressed="false">https://raw.github.com/mikaelec/mikaelec-xbmc-repo/master/addons.xml</info>
         <checksum>https://raw.github.com/mikaelec/mikaelec-xbmc-repo/master/addons.xml.md5</checksum>
@@ -2637,7 +2637,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.mindmade"
        name="mindmade XBMC Addons"
-       version="0"
+       version="0.0.0.1"
        provider-name="Andreas Wetzel [xbmc@mindmade.org]">
   <extension point="xbmc.addon.repository"
              name="mindmade XBMC Addons Repository">
@@ -2652,7 +2652,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
   </extension>
 </addon>
 
-	<addon id="repository.MisterX" name="MisterX Repository" version="0" provider-name="MisterX">
+	<addon id="repository.MisterX" name="MisterX Repository" version="0.0.0.1" provider-name="MisterX">
 		<extension point="xbmc.addon.repository" name="MisterX addon repository">
         	<info compressed="false">https://raw.github.com/MisterXx/MisterX/master/addons.xml</info>
 
@@ -2669,7 +2669,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.mko"
         name="mKo's repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="mKo">
     <extension point="xbmc.addon.repository"
         name="mKo's Add-on Repository">
@@ -2685,7 +2685,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
     </extension>
 </addon>
 
-<addon id="repository.mnn" name="MNN Xbmc Add-ons" version="0" provider-name="MazurokNN">
+<addon id="repository.mnn" name="MNN Xbmc Add-ons" version="0.0.0.1" provider-name="MazurokNN">
 	<extension point="xbmc.addon.repository" name="MNN Xbmc Add-ons">
 		<info compressed="false">https://github.com/snakefishh/mnn-xbmc-repo/raw/master/addons.xml</info>
 		<checksum>https://github.com/snakefishh/mnn-xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -2701,7 +2701,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon	id="repository.mortstar.addons"
 		name="mortstar's repo"
-		version="0"
+		version="0.0.0.1"
 		provider-name="mortstar">
 	<extension	point="xbmc.addon.repository"
 				name="mortstar's repo">
@@ -2719,7 +2719,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.mossy"
         name="Mossy's Frodo Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="mossy">
     <extension point="xbmc.addon.repository"
         name="Mossy's Add-ons">
@@ -2735,7 +2735,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
     </extension>
 </addon>
 
-<addon id="repository.movieshd" name="MoviesHD Addon Repository" version="0" provider-name="MoviesHD MetalKettle">
+<addon id="repository.movieshd" name="MoviesHD Addon Repository" version="0.0.0.1" provider-name="MoviesHD MetalKettle">
 	<extension point="xbmc.addon.repository" name="MoviesHD Addon Repository">
 		<info compressed="false">http://raw.github.com/metalkettle/MoviesHD/master/addons.xml</info>
 		<checksum>http://raw.github.com/metalkettle/MoviesHD/master/addons.xml.md5</checksum>
@@ -2748,7 +2748,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-  <addon id="repository.mq" name="Repo MQ" version="0" provider-name="MarcosQui">
+  <addon id="repository.mq" name="Repo MQ" version="0.0.0.1" provider-name="MarcosQui">
     <extension point="xbmc.addon.repository" name="Repo MQ">
     <info>http://mod-skin.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://mod-skin.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -2765,7 +2765,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
     </extension>
   </addon>
 
-<addon id="repository.mrknow.pl" name="mrknow.pl XBMC Add-ons" version="0" provider-name="Mrknow">
+<addon id="repository.mrknow.pl" name="mrknow.pl XBMC Add-ons" version="0.0.0.1" provider-name="Mrknow">
 	<extension point="xbmc.addon.repository" name="Mrknow.pl XBMC Add-on Repository">
 		<info compressed="false">http://xbmc-films-pl.googlecode.com/svn/trunk/src/addons.xml</info>
 		<checksum>http://xbmc-films-pl.googlecode.com/svn/trunk/src/addons.xml.md5</checksum>
@@ -2782,7 +2782,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.mrstealth" name="Mrstealth XBMC Add-ons" version="0" provider-name="MrStealth">
+<addon id="repository.mrstealth" name="Mrstealth XBMC Add-ons" version="0.0.0.1" provider-name="MrStealth">
 	<extension point="xbmc.addon.repository" name="MrStealth XBMC Add-ons Repository">
 		<info compressed="false">https://raw.github.com/mrstealth/xbmc-plugins/master/addons.xml</info>
 		<checksum>https://raw.github.com/mrstealth/xbmc-plugins/master/addons.xml.md5</checksum>
@@ -2796,7 +2796,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.mrstealth.gotham" name="Mrstealth XBMC Gotham" version="0" provider-name="MrStealth">
+<addon id="repository.mrstealth.gotham" name="Mrstealth XBMC Gotham" version="0.0.0.1" provider-name="MrStealth">
 	<extension point="xbmc.addon.repository" name="MrStealth XBMC Add-ons Repository">
 		<info compressed="false">https://raw.github.com/mrstealth/xbmc-gotham/master/addons.xml</info>
 		<checksum>https://raw.github.com/mrstealth/xbmc-gotham/master/addons.xml.md5</checksum>
@@ -2813,7 +2813,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 <addon
 	id="repository.mx"
 	name="MX repository"
-	version="0"
+	version="0.0.0.1"
 	provider-name="Kiwi Systems">
 	<extension point="xbmc.addon.repository"
         name="MX Add-on Repository">
@@ -2829,7 +2829,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.myshows.me" name="MyShows.me Kodi Repo" version="0" provider-name="DiMartino">
+<addon id="repository.myshows.me" name="MyShows.me Kodi Repo" version="0.0.0.1" provider-name="DiMartino">
 	<extension point="xbmc.addon.repository" name="MyShows.me Kodi Repo">
 		<info compressed="false">http://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml</info>
 		<checksum>http://api.bitbucket.org/1.0/repositories/DiMartino/myshows.me-kodi-repo/raw/default/addons.xml.md5</checksum>
@@ -2843,7 +2843,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repo.natko1412" name="natko1412 repo" version="0" provider-name="natko1412">
+<addon id="repo.natko1412" name="natko1412 repo" version="0.0.0.1" provider-name="natko1412">
 <extension point="xbmc.addon.repository" name="Natko's Addon Repository">
 <info compressed="false">https://offshoregit.com/natko1412/addons.xml</info>
 <checksum>https://offshoregit.com/natko1412/addons.xml.md5</checksum>
@@ -2858,7 +2858,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.nibor"
         name="Nibor's Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="nibor">
     <extension point="xbmc.addon.repository"
         name="Nibor's Add-ons">
@@ -2876,7 +2876,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.ninbora"
        name="Ninbora Addons"
-       version="0"
+       version="0.0.0.1"
        provider-name="Ninbora Development Team">
   <extension point="xbmc.addon.repository" name="Ninbora">
     <info compressed="false">http://www.ninbora.com/addons/addons.xml</info>
@@ -2894,7 +2894,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
   </extension>
 </addon>
 
-<addon id="repository.nitrocsia" name="NitroCSIA's XBMC Addons" version="0" provider-name="NitroCSIA">
+<addon id="repository.nitrocsia" name="NitroCSIA's XBMC Addons" version="0.0.0.1" provider-name="NitroCSIA">
 	<extension point="xbmc.addon.repository" name="NitroCSIA's XBMC Addon Repository">
 		<info compressed="false">https://raw.github.com/NitroCSIA/nitrocsia-xbmc-addons/master/addons.xml</info>
 		<checksum>https://raw.github.com/NitroCSIA/nitrocsia-xbmc-addons/master/addons.xml.md5</checksum>
@@ -2907,7 +2907,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-    <addon id="repository.NJMSoccer" name="NJM Soccer Repo" version="0" provider-name="BaDg3R">
+    <addon id="repository.NJMSoccer" name="NJM Soccer Repo" version="0.0.0.1" provider-name="BaDg3R">
         <extension point="xbmc.addon.repository" name="NJM Soccer Repo">
             <info compressed="false">http://repo.badgersftv.com/repo/addons.xml</info>
             <checksum>http://repo.badgersftv.com/repo/addons.xml.md5</checksum>
@@ -2921,7 +2921,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
     </extension>
 </addon>
 
-<addon id="repository.nlsports" name="NL Sports Repository" version="0" provider-name="NLSPORTS">
+<addon id="repository.nlsports" name="NL Sports Repository" version="0.0.0.1" provider-name="NLSPORTS">
 	<extension point="xbmc.addon.repository" name="NL Sports Repository">
 		<info compressed="true">http://git.tvaddons.nl:8888/root/NL-Addons/raw/master/addons.xml</info>
 		<checksum>http://git.tvaddons.nl:8888/root/NL-Addons/raw/master/addons.xml.md5</checksum>
@@ -2936,7 +2936,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 
 <addon id="repository.nofusscomputing"
         name="No Fuss Computings Addons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="NoFussComputing">
 	<requires>
         <import addon="xbmc.addon" version="12.0.0"/>
@@ -2954,7 +2954,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.noobsandnerds" name="noobsandnerds Repository" version="0" provider-name="noobsandnerds">
+<addon id="repository.noobsandnerds" name="noobsandnerds Repository" version="1.0" provider-name="noobsandnerds">
 	<extension point="xbmc.addon.repository" name="noobsandnerds Repository">
 		<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/addons.xml.md5</checksum>
@@ -2967,7 +2967,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.nuismons" name="NuisMons XBMC Add-ons" version="0" provider-name="NuisMons">
+<addon id="repository.nuismons" name="NuisMons XBMC Add-ons" version="0.0.0.1" provider-name="NuisMons">
 	<extension point="xbmc.addon.repository" name="NuisMons Add-ons">
 		<info compressed="false">https://raw.githubusercontent.com/NuisMons/nuXBMCRepo/master/addons/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/NuisMons/nuXBMCRepo/master/addons/addons.xml.md5</checksum>
@@ -2981,7 +2981,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.nvtteam" name="NVTTeam Repository" version="0" provider-name="NVTTeam">
+<addon id="repository.nvtteam" name="NVTTeam Repository" version="0.0.0.1" provider-name="NVTTeam">
 	<extension point="xbmc.addon.repository" name="NVTTeam XBMC KODI Addon Repository">
 		<info compressed="false">http://raw.github.com/NVTTeam/NVTTeam-Repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/NVTTeam/NVTTeam-Repo/master/addons.xml.md5</checksum>
@@ -2994,7 +2994,7 @@ zip="true">https://github.com/proteusplum/mflow-xbmc-plugin-repo/raw/master/down
 	</extension>
 </addon>
 
-<addon id="repository.o9r1sh" name="o9r1sh's Repo" version="0" provider-name="o9r1sh">
+<addon id="repository.o9r1sh" name="o9r1sh's Repo" version="0.0.0.1" provider-name="o9r1sh">
 	<extension point="xbmc.addon.repository" name="o9r1sh's Addon Repository">
 		<info compressed="false">http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml</info>
 		<checksum>http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml.md5</checksum>
@@ -3009,7 +3009,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.openelec-addons" name="francescosoft's XBMC REPO" version="0" provider-name="francescosoft">
+<addon id="repository.openelec-addons" name="francescosoft's XBMC REPO" version="0.0.0.1" provider-name="francescosoft">
 	<extension point="xbmc.addon.repository" name="francescosoft's Addon Repository">
 		<info compressed="false">http://github.com/francescosoft/openelec-addons/raw/master/addons.xml</info>
 		<checksum>http://github.com/francescosoft/openelec-addons/raw/master/addons.xml.md5</checksum>
@@ -3024,7 +3024,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.openeleq"
 		name=" [COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR] Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="[COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR]">
 	<extension point="xbmc.addon.repository"
 		name="[COLOR FF8ABEE2]Open[/COLOR][COLOR FF757677]ELEQ[/COLOR] Add-on Repository">
@@ -3065,11 +3065,11 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.OperationRobocop" name="Operation Robocop Ultimate Repository" version="0" provider-name="OperationRobocop Dev Team">
+<addon id="repository.OperationRobocop" name="Operation Robocop Ultimate Repository" version="0.0.0.1" provider-name="OperationRobocop Dev Team">
 	<extension point="xbmc.addon.repository" name="Operation Robocop Ultimate Repository">
-		<info compressed="false">http://shadowsrepo.info/repo/addons.xml</info>
-		<checksum>http://shadowsrepo.info/repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://shadowsrepo.info/repo/zips</datadir>
+		<info compressed="false">http://195.154.225.163/operationrobocop/repo1/zips/addons.xml</info>
+		<checksum>http://195.154.225.163/operationrobocop/repo1/zips/addons.xml.md5</checksum>
+		<datadir zip="true">http://195.154.225.163/operationrobocop/repo1/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Operation Robocop Ultimate</summary>
@@ -3078,7 +3078,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.otherguysstuff" name="The other Viet Addons" version="0" provider-name="dk">
+<addon id="repository.otherguysstuff" name="The other Viet Addons" version="0.0.0.1" provider-name="dk">
 	<extension point="xbmc.addon.repository" name="The other Viet Addons">
 		<info compressed="false">https://bitbucket.org/dknlght/dk-xbmc-repaddon-rep/raw/master/addons.xml</info>
 		<checksum>https://bitbucket.org/dknlght/dk-xbmc-repaddon-rep/raw/master/addons.xml.md5</checksum>
@@ -3092,7 +3092,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="0" provider-name="enen92 - fightnight">
+<addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="0.0.0.1" provider-name="enen92 - fightnight">
 	<extension point="xbmc.addon.repository" name="p2p-streams Repository">
 		<info compressed="false">http://p2p-strm.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://p2p-strm.googlecode.com/svn/addons/addons.xml.md5</checksum>
@@ -3107,7 +3107,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="0" provider-name="pampereo">
+<addon id="repository.pampereo.xbmc-addons" name="Pampereo XBMC Add-on Repository" version="0.0.0.1" provider-name="pampereo">
     <extension point="xbmc.addon.repository" name="Pampereo XBMC Add-on Repository">
         <info compressed="false">http://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://pampereo-xbmc-plugins.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -3121,7 +3121,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 </addon>
 
 <addon id="repository.passion.xbmc.org.frodo" name="Passion-XBMC.org Add-ons (frodo-pre)"
-        version="0" provider-name="Team Passion-XBMC">
+        version="0.0.0.1" provider-name="Team Passion-XBMC">
     <requires>
         <import addon="xbmc.addon" version="12.0"/>
     </requires>
@@ -3142,7 +3142,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 </addon>
 
 <addon id="repository.passion.xbmc.org.gotham" name="Passion-XBMC.org Add-ons (Gotham)"
-        version="0" provider-name="Team Passion-XBMC">
+        version="0.0.0.1" provider-name="Team Passion-XBMC">
     <requires>
         <import addon="xbmc.addon" version="13.0"/>
     </requires>
@@ -3162,7 +3162,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.pcd" name="PCD's Repository" version="0" provider-name="pcd">
+<addon id="repository.pcd" name="PCD's Repository" version="0.0.0.1" provider-name="pcd">
 	<extension point="xbmc.addon.repository" name="PCD's Repository">
 		<info compressed="false">https://offshoregit.com/pcd/pcd-repo/addons.xml</info>
 		<checksum>https://offshoregit.com/pcd/pcd-repo/addons.xml.md5</checksum>
@@ -3177,7 +3177,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.penguine"
        name="PENguine Addon Repository"
-       version="0"
+       version="0.0.0.1"
        provider-name="[COLOR blue]PEN[/COLOR]guine">
 	<extension point="xbmc.addon.repository" name="PENguine's Addon Repository">
                 <info compressed="false">https://raw.github.com/PEN-guine/Kodi-Stuff/master/deployments/addons.xml</info>
@@ -3193,7 +3193,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon	id="repository.pietervanh.addons"
 		name="pietervanh's repo"
-		version="0"
+		version="0.0.0.1"
 		provider-name="pietervanh">
 	<extension	point="xbmc.addon.repository"
 				name="pietervanh's repo">
@@ -3209,7 +3209,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.pipcan" name="My Kodi Repo" version="0" provider-name="Pipccan">
+<addon id="repository.pipcan" name="My Kodi Repo" version="0.0.0.1" provider-name="Pipccan">
 	<extension point="xbmc.addon.repository" name="My Kodi Repo">
 		<info compressed="false">http://raw.github.com/pipcan3/Pipcan-Repo/master/_repo/addons.xml</info>
 		<checksum>http://raw.github.com/pipcan3/Pipcan-Repo/master/_repo/addons.xml.md5</checksum>
@@ -3225,7 +3225,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 <addon
   id="repository.plexbmc.addons"
   name="PleXBMC Add-ons for XBMC"
-  version="0"
+  version="0.0.0.1"
   provider-name="hippojay, pecinko, magnesium, wickning1">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -3246,7 +3246,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
   </extension>
 </addon>
 
-<addon id="repository.podgod" name="podgod repo" version="0" provider-name="podgod">
+<addon id="repository.podgod" name="podgod repo" version="0.0.0.1" provider-name="podgod">
 	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
 		<info compressed="false">http://offshoregit.com/podgod/repo/addons.xml</info>
 		<checksum>http://offshoregit.com/podgod/repo/addons.xml.md5</checksum>
@@ -3259,7 +3259,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.popcornmix" name="Popcornmix Add-ons" version="0" provider-name="popcornmix">
+<addon id="repository.popcornmix" name="Popcornmix Add-ons" version="0.0.0.1" provider-name="popcornmix">
     <extension point="xbmc.addon.repository" name="Popcornmix Add-ons">
 		<info compressed="true">https://github.com/popcornmix/repository.popcornmix.storage/raw/master/addons.xml</info>
 		<checksum>https://github.com/popcornmix/repository.popcornmix.storage/raw/master/addons.xml.md5</checksum>
@@ -3273,7 +3273,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.popey" name="Popeye's Repo" version="0" provider-name="Popeye">
+<addon id="repository.popey" name="Popeye's Repo" version="0.0.0.1" provider-name="Popeye">
     <extension point="xbmc.addon.repository" name="Popeye's Repo">
         <info compressed="false">https://raw.github.com/TsUPeR/xbmc-repo/master/addons.xml</info>
         <checksum>https://raw.github.com/TsUPeR/xbmc-repo/master/addons.xml.md5</checksum>
@@ -3286,7 +3286,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.prafit" name="Prafit Repository" version="0" provider-name="Prafit">
+<addon id="repository.prafit" name="Prafit Repository" version="0.0.0.1" provider-name="Prafit">
 	<extension point="xbmc.addon.repository" name="Prafit Repository">
 		<info compressed="false">http://github.com/prafit/prafit/raw/master/addons.xml</info>
 		<checksum>http://github.com/prafit/prafit/raw/master/addons.xml.md5</checksum>
@@ -3299,7 +3299,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.providerspulsarunofficial" name="Pulsar [COLOR red]Providers[/COLOR] Unofficial Repo" version="0" provider-name="Eleazar Coding-Mancuniancol">
+<addon id="repository.providerspulsarunofficial" name="Pulsar [COLOR red]Providers[/COLOR] Unofficial Repo" version="0.0.0.1" provider-name="Eleazar Coding-Mancuniancol">
 	<extension point="xbmc.addon.repository" name="Pulsar Providers Unofficial Repo">
         <info>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml</info>
         <checksum>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml.md5</checksum>
@@ -3313,7 +3313,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.ptom" name="PTOM Repo" version="0" provider-name="ptom">
+<addon id="repository.ptom" name="PTOM Repo" version="0.0.0.1" provider-name="ptom">
 	<extension point="xbmc.addon.repository" name="PTOM Repo">
 		<info compressed="false">http://ptom.co.uk/repo/addons.xml</info>
 		<checksum>http://ptom.co.uk/repo/addons.xml.md5</checksum>
@@ -3327,9 +3327,9 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.pulsar" name="Pulsar Repository" version="0" provider-name="steeve"><requires></requires><extension point="xbmc.addon.repository" name="Pulsar Repository"><info compressed="false">http://localhost:65251/repository/steeve/plugin.video.pulsar/addons.xml</info><checksum>http://localhost:65251/repository/steeve/plugin.video.pulsar/addons.xml.md5</checksum><datadir zip="true">http://localhost:65251/repository/steeve/</datadir></extension><extension point="xbmc.addon.metadata"><platform>all</platform><summary lang="en">Virtual repository for Pulsar Updates</summary></extension></addon>
+<addon id="repository.pulsar" name="Pulsar Repository" version="0.0.0.1" provider-name="steeve"><requires></requires><extension point="xbmc.addon.repository" name="Pulsar Repository"><info compressed="false">http://localhost:65251/repository/steeve/plugin.video.pulsar/addons.xml</info><checksum>http://localhost:65251/repository/steeve/plugin.video.pulsar/addons.xml.md5</checksum><datadir zip="true">http://localhost:65251/repository/steeve/</datadir></extension><extension point="xbmc.addon.metadata"><platform>all</platform><summary lang="en">Virtual repository for Pulsar Updates</summary></extension></addon>
 
-<addon id="repository.pulsarunofficial" name="Pulsar [COLOR red]Unofficial [/COLOR]Repo" version="0" provider-name="mancuniancol,iCanuck">
+<addon id="repository.pulsarunofficial" name="Pulsar [COLOR red]Unofficial [/COLOR]Repo" version="0.0.0.1" provider-name="mancuniancol,iCanuck">
 	<extension point="xbmc.addon.repository" name="Pulsar Unofficial Repository">
        <info>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml</info>
        <checksum>http://offshoregit.com/pulsarunofficial/raw/master/addons.xml.md5</checksum>
@@ -3344,7 +3344,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.pulsarunofficialmirror" name="Pulsar [COLOR red]Unofficial[/COLOR] Repo [COLOR red]Mirror[/COLOR]" version="0" provider-name="mancuniancol,iCanuck">
+<addon id="repository.pulsarunofficialmirror" name="Pulsar [COLOR red]Unofficial[/COLOR] Repo [COLOR red]Mirror[/COLOR]" version="0.0.0.1" provider-name="mancuniancol,iCanuck">
 	<extension point="xbmc.addon.repository" name="Pulsar Unofficial Repo Mirror">
         <info compressed="false">http://offshoregit.com/iCanuck/Unofficial-Pulsar-Repo/raw/master/addons.xml</info>
         <checksum>http://offshoregit.com/iCanuck/Unofficial-Pulsar-Repo/raw/master/addons.xml.md5</checksum>
@@ -3359,7 +3359,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.qf.addons" name="QF XBMC Addons" version="0" provider-name="vikjon0">
+<addon id="repository.qf.addons" name="QF XBMC Addons" version="0.0.0.1" provider-name="vikjon0">
 	<extension point="xbmc.addon.repository" name="Eldorado's XBMC Addon Repository">
 		<info compressed="false">https://github.com/vikjon0/qf-xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/vikjon0/qf-xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -3375,7 +3375,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 <addon
   id="repository.queeup"
   name="queeup Add-ons"
-  version="0"
+  version="0.0.0.1"
   provider-name="queeup">
   <requires>
     <import addon="xbmc.addon"
@@ -3402,7 +3402,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.ramfm"
         name="RAM FM Eighties Hit Radio"
-        version="0"
+        version="0.0.0.1"
         provider-name="RAM FM Eighties Hit Radio">
     <extension point="xbmc.addon.repository"
         name="RAM FM XBMC Add-ons">
@@ -3418,7 +3418,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.rasjanisrepo.xbmc" name="Rasjani's Add-ons" version="0" provider-name="rasjani">
+<addon id="repository.rasjanisrepo.xbmc" name="Rasjani's Add-ons" version="0.0.0.1" provider-name="rasjani">
         <extension point="xbmc.addon.repository" name="Rasjani's Add-ons">
                 <info compressed="false">http://pcuf.fi/~rasjani/xbmc-rasjanisrepo/addons.xml</info>
                 <checksum>http://pcuf.fi/~rasjani/xbmc-rasjanisrepo/addons.xml.md5</checksum>
@@ -3435,7 +3435,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 </addon>
 
 <addon id="repository.rato.tv"
-  version="0"
+  version="0.0.0.1"
   name="Rato-TV repository"
   provider-name="Rato">
   <extension point="xbmc.addon.repository"
@@ -3452,7 +3452,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
   </extension>
 </addon>
 
-<addon id="repository.rayw1986" name="RayW1986 Repo" version="0" provider-name="rayw1986">
+<addon id="repository.rayw1986" name="RayW1986 Repo" version="0.0.0.1" provider-name="rayw1986">
 	<extension point="xbmc.addon.repository" name="RayW1986 Repository">
 		<info compressed="false">http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml</info>
 		<checksum>http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml.md5</checksum>
@@ -3465,7 +3465,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.redcouch.xbmc" name="RedCouchTV repositorio" version="0" provider-name="Shev83">
+<addon id="repository.redcouch.xbmc" name="RedCouchTV repositorio" version="0.0.0.1" provider-name="Shev83">
     <extension point="xbmc.addon.repository" name="RedCouchTV Add-on Repository">
         <info compressed="false">http://raw.github.com/Shev83/repository.redcouch.xbmc/master/addons.xml</info>
         <checksum>http://raw.github.com/Shev83/repository.redcouch.xbmc/master/addons.xml.md5</checksum>
@@ -3479,7 +3479,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.regss" name="Regss Add-ons" version="0" provider-name="Regss">
+<addon id="repository.regss" name="Regss Add-ons" version="0.0.0.1" provider-name="Regss">
     <extension point="xbmc.addon.repository" name="Regss Add-ons">
 		<info compressed="true">https://raw.github.com/Regss/xbmc-regss-repository/master/addons.xml</info>
 		<checksum>https://raw.github.com/Regss/xbmc-regss-repository/master/addons.xml.md5</checksum>
@@ -3496,7 +3496,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.rivy.xbmc" name="RIVY XBMC Repository" version="0" provider-name="rivy">
+<addon id="repository.rivy.xbmc" name="RIVY XBMC Repository" version="0.0.0.1" provider-name="rivy">
 	<extension point="xbmc.addon.repository" name="RIVY XBMC Repository">
 		<info compressed="false">https://raw.github.com/rivy/xbmc-repository/master/addons.xml</info>
 		<checksum>https://raw.github.com/rivy/xbmc-repository/master/addons.xml.md5</checksum>
@@ -3514,7 +3514,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 <addon
     id="repository.Rodrigo"
     name="Rodrigo's Repository"
-    version="0"
+    version="0.0.0.1"
     provider-name="Rodrigo">
     <extension point="xbmc.addon.repository" name="Rodrigo's addon repository">
         <dir>
@@ -3540,7 +3540,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.RTPplay.xbmc" name="RTPplay repository" version="0" provider-name="enen92">
+<addon id="repository.RTPplay.xbmc" name="RTPplay repository" version="0.0.0.1" provider-name="enen92">
 	<extension point="xbmc.addon.repository" name="RTPplay Add-on Repository">
 		<info compressed="false">http://plugin-video-rtpplay-xbmc.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://plugin-video-rtpplay-xbmc.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -3556,7 +3556,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.ru"
        name="XBMC.ru forum Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="bigbax">
 <requires>
   <import addon="xbmc.addon" version="12.0.0"/>
@@ -3577,7 +3577,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.ruxton" name="Ruxton's XBMC Addons" version="0" provider-name="Ruxton">
+<addon id="repository.ruxton" name="Ruxton's XBMC Addons" version="0.0.0.1" provider-name="Ruxton">
   <extension point="xbmc.addon.repository" name="Ruxton's XBMC Addon Repository">
     <info compressed="false">https://raw.github.com/Ruxton/xbmc-addon-repo/master/addons.xml</info>
     <checksum>https://raw.github.com/Ruxton/xbmc-addon-repo/master/addons.xml.md5</checksum>
@@ -3590,7 +3590,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
   </extension>
 </addon>
 
-<addon id="repository.salem" name="Salem's repository" version="0" provider-name="Salem">
+<addon id="repository.salem" name="Salem's repository" version="0.0.0.1" provider-name="Salem">
     <extension point="xbmc.addon.repository" name="Paul Salem's Add-on Repository">
         <info compressed="false">http://skin-refocusbig.googlecode.com/svn/trunk/addons.xml</info>
         <checksum>http://skin-refocusbig.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -3604,7 +3604,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.sandalov" name="Dmitry Sandalov's XBMC Repo" version="0" provider-name="sandalov">
+<addon id="repository.sandalov" name="Dmitry Sandalov's XBMC Repo" version="0.0.0.1" provider-name="sandalov">
     <extension point="xbmc.addon.repository" name="Dmitry Sandalov's XBMC Repo">
         <info compressed="false">https://raw.githubusercontent.com/DmitrySandalov/xbmc-repo/master/addons/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/DmitrySandalov/xbmc-repo/master/addons/addons.xml.md5</checksum>
@@ -3618,7 +3618,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-  <addon id="repository.sapo" name="XBMC on SAPO" version="0" provider-name="SAPO">
+  <addon id="repository.sapo" name="XBMC on SAPO" version="0.0.0.1" provider-name="SAPO">
     <extension point="xbmc.addon.repository" name="XBMC on SAPO">
     <info>https://raw.github.com/sapo/xbmc-repo/master/addons.xml</info>
     <checksum>https://raw.github.com/sapo/xbmc-repo/master/addons.xml.md5</checksum>
@@ -3637,7 +3637,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.scudlee"
        name="ScudLee's XBMC Addon Repository"
-       version="0"
+       version="0.0.0.1"
        provider-name="scudlee">
   <extension point="xbmc.addon.repository"
              name="ScudLee's XBMC Addon Repository">
@@ -3652,7 +3652,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
   </extension>
 </addon>
 
-<addon id="repository.sd-xbmc.org" name="sd-xbmc.org add-ons" version="0" provider-name="SD-XBMC Team">
+<addon id="repository.sd-xbmc.org" name="sd-xbmc.org add-ons" version="0.0.0.1" provider-name="SD-XBMC Team">
 	<extension point="xbmc.addon.repository" name="Official SD-XBMC Add-on Repository">
 		<info compressed="false">http://sd-xbmc.org/repository/addons.xml</info>
 		<checksum>http://sd-xbmc.org/repository/addons.xml.md5</checksum>
@@ -3669,7 +3669,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.search.db"
 		name="XBMC.ru search db"
-		version="0"
+		version="0.0.0.1"
 		provider-name="bigbax">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -3803,7 +3803,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.seppius"
        name="Seppius XBMC Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="seppius">
 <requires>
   <import addon="xbmc.addon" version="12.0.0"/>
@@ -3824,7 +3824,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.shadowcrew" name="ShadowCrew" version="0" provider-name="ShadowCrew">
+<addon id="repository.shadowcrew" name="ShadowCrew" version="0.0.0.1" provider-name="ShadowCrew">
 	<extension point="xbmc.addon.repository" name="ShadowCrew Repository">
 		<info compressed="false">http://shadowsrepo.info/repo/addons.xml</info>
 		<checksum>http://shadowsrepo.info/repo/addons.xml.md5</checksum>
@@ -3837,7 +3837,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.shamzee" name="Shamzee's Repo" version="0" provider-name="TerrorKeed">
+<addon id="repository.shamzee" name="Shamzee's Repo" version="0.0.0.1" provider-name="TerrorKeed">
 	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
 		<info compressed="false">http://github.com/TerrorKeed/shamzee-repo/raw/master/addons.xml</info>
 		<checksum>http://github.com/TerrorKeed/shamzee-repo/raw/master/addons.xml.md5</checksum>
@@ -3850,7 +3850,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.shani" name="Shanis Addon Repository" version="0" provider-name="Shani">
+<addon id="repository.shani" name="Shanis Addon Repository" version="0.0.0.1" provider-name="Shani">
 	<extension point="xbmc.addon.repository" name="Shanis Addon Repository">
 		<info compressed="false">https://raw.github.com/Shani-08/ShaniXBMCWork/master/addons.xml</info>
 		<checksum>https://raw.github.com/Shani-08/ShaniXBMCWork/master/addons.xml.md5</checksum>
@@ -3863,7 +3863,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.sickbeard.xbmc-plugins" name="Sickbeard XBMC Add-on Repository" version="0" provider-name="Zach Moore">
+<addon id="repository.sickbeard.xbmc-plugins" name="Sickbeard XBMC Add-on Repository" version="0.0.0.1" provider-name="Zach Moore">
 	<extension point="xbmc.addon.repository" name="Sickbeard XBMC Add-on Repository">
 		<info compressed="false">http://sickbeard-xbmc.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://sickbeard-xbmc.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -3877,7 +3877,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.silhouette" name="Silhouette XBMC Add-ons" version="0" provider-name="Silhouette">
+<addon id="repository.silhouette" name="Silhouette XBMC Add-ons" version="0.0.0.1" provider-name="Silhouette">
 	<extension point="xbmc.addon.repository" name="Silhouette XBMC Add-ons">
 		<info compressed="false">https://raw.githubusercontent.com/silhouette2022/kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/silhouette2022/kodi/master/addons.xml.md5</checksum>
@@ -3891,7 +3891,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-	<addon id="repository.slashing" name="Brazzers-addon-repository" version="0" provider-name="slashing">
+	<addon id="repository.slashing" name="Brazzers-addon-repository" version="0.0.0.1" provider-name="slashing">
 		<extension point="xbmc.addon.repository" name="XBMC Adult Addons">
 			<info compressed="false">http://github.com/slashing/kodi-brazzers/raw/master/addons.xml</info>
 			<checksum>http://github.com/slashing/kodi-brazzers/raw/master/addons.xml.md5</checksum>
@@ -3904,7 +3904,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.smithgeek.xbmc-addons" name="smithgeek's Add-ons" version="0" provider-name="smithgeek">
+<addon id="repository.smithgeek.xbmc-addons" name="smithgeek's Add-ons" version="0.0.0.1" provider-name="smithgeek">
 	<extension point="xbmc.addon.repository" name="Smithgeek Repository">
 		<info compressed="false">https://github.com/brentosmith/xbmc-addons/raw/master/Releases/addons.xml</info>
 		<checksum>https://github.com/brentosmith/xbmc-addons/raw/master/Releases/addons.xml.md5</checksum>
@@ -3917,7 +3917,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.smokdpi" name="smokdpi's Add-ons" version="0" provider-name="smokdpi">
+<addon id="repository.smokdpi" name="smokdpi's Add-ons" version="0.0.0.1" provider-name="smokdpi">
 	<extension point="xbmc.addon.repository" name="smokdpi's Add-ons">
 		<info compressed="false">https://raw.githubusercontent.com/smokdpi/kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/smokdpi/kodi/master/addons.xml.md5</checksum>
@@ -3930,7 +3930,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.smoothstreams" name="SmoothStreams.tv" version="0" provider-name="smoothstreams">
+<addon id="repository.smoothstreams" name="SmoothStreams.tv" version="0.0.0.1" provider-name="smoothstreams">
 	<extension point="xbmc.addon.repository" name="SmoothStreams Addons">
 		<info compressed="false">http://smoothstreams.tv/players/xbmc/repo/addons.xml</info>
 		<checksum>http://smoothstreams.tv/players/xbmc/repo/addons.xml.md5</checksum>
@@ -3944,7 +3944,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.smuto" name="smuto Addons" version="0" provider-name="smuto">
+<addon id="repository.smuto" name="smuto Addons" version="0.0.0.1" provider-name="smuto">
 	<extension point="xbmc.addon.repository" name="smuto Addons">
 		<info compressed="false">http://smuto.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://smuto.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -3961,7 +3961,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 <addon
 	id="repository.spacemonkey"
 	name="SpaceMonkey's Addons"
-	version="0"
+	version="0.0.0.1"
 	provider-name="SpaceMonkey">
 	<extension point="xbmc.addon.repository"
         name="SpaceMonkey's Add-on Repository">
@@ -3979,7 +3979,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.spoyser"
         name="spoysers XBMC Add-ons"
-        version="0"
+        version="0.0.0.1"
         provider-name="spoyser">
     <extension point="xbmc.addon.repository"
         name="spoysers XBMC Add-ons">
@@ -3995,7 +3995,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.stacked.xbmc.addons" name="stacked Add-ons" version="0" provider-name="stacked">
+<addon id="repository.stacked.xbmc.addons" name="stacked Add-ons" version="0.0.0.1" provider-name="stacked">
 	<extension point="xbmc.addon.repository" name="stacled Add-ons">
 		<info compressed="false">http://plugin.googlecode.com/git/addons.xml</info>
 		<checksum>http://plugin.googlecode.com/git/addons.xml.md5</checksum>
@@ -4010,7 +4010,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.streamstormtv" name="streamstorm repo" version="0" provider-name="StreamStormTV">
+<addon id="repository.streamstormtv" name="streamstorm repo" version="0.0.0.1" provider-name="StreamStormTV">
 	<extension point="xbmc.addon.repository" name="streamstormtv Addon Repository">
 		<info compressed="false">https://raw.githubusercontent.com/streamstormtv/streamstormtvrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/streamstormtv/streamstormtvreop/master/addons.xml.md5</checksum>
@@ -4023,7 +4023,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.surmac" name="surmac's repo" version="0" provider-name="surmac">
+<addon id="repository.surmac" name="surmac's repo" version="0.0.0.1" provider-name="surmac">
 	<extension point="xbmc.addon.repository" name="surmac's repository">
 		<info compressed="false">http://bitbucket.org/surmac/surmac-xbmc-repo/raw/master/addons.xml</info>
 		<checksum>http://bitbucket.org/surmac/surmac-xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -4038,7 +4038,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon  id="repository.syborg"
 	    name="Syborg Addon Mods for Skygo"
-	    version="0"
+	    version="0.0.0.1"
 	    provider-name="Syborg">
 	<extension  point="xbmc.addon.repository"
 	            name="repository.syborg">
@@ -4054,7 +4054,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.t0mm0" name="t0mm0's XBMC Addons" version="0" provider-name="t0mm0 [dev@onairsoftware.co.uk]">
+<addon id="repository.t0mm0" name="t0mm0's XBMC Addons" version="0.0.0.1" provider-name="t0mm0 [dev@onairsoftware.co.uk]">
 	<extension point="xbmc.addon.repository" name="t0mm0's XBMC Addon Repository">
 		<info compressed="false">http://github.com/t0mm0/t0mm0-xbmc-plugins/raw/master/addons.xml</info>
 		<checksum>http://github.com/t0mm0/t0mm0-xbmc-plugins/raw/master/addons.xml.md5</checksum>
@@ -4067,7 +4067,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.t0mus" name="Polish online videos repository" version="0" provider-name="t0mus">
+<addon id="repository.t0mus" name="Polish online videos repository" version="0.0.0.1" provider-name="t0mus">
 	<extension point="xbmc.addon.repository" name="t0mus-xbmc-addons repository">
 		<info compressed="false">http://t0mus-xbmc-addons.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://t0mus-xbmc-addons.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4086,7 +4086,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon
   id="repository.tcsystem"
-  version="0"
+  version="0.0.0.1"
   name="TCSystem KODI Repo"
   provider-name="TCSystem(Thomas Goessler)">
 
@@ -4107,7 +4107,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 
 <addon id="repository.tdw1980"
        name="TDW1980 Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="TDW1980">
 <requires>
   <import addon="xbmc.addon" version="12.0.0"/>
@@ -4125,7 +4125,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.team.expat" name="Team eXpat Repository" version="0" provider-name="Team-eXpat">
+<addon id="repository.team.expat" name="Team eXpat Repository" version="0.0.0.1" provider-name="Team-eXpat">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
 		<info compressed="false">http://raw.github.com/teamexpat/team.expat/master/addons.xml</info>
 		<checksum>http://raw.github.com/teamexpat/team.expat/master/addons.xml.md5</checksum>
@@ -4139,7 +4139,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.techdealer" name="Techdealer Repo" version="0" provider-name="Techdealer">
+<addon id="repository.techdealer" name="Techdealer Repo" version="0.0.0.1" provider-name="Techdealer">
 	<extension point="xbmc.addon.repository" name="Techdealer Repo">
 		<info compressed="false">https://techdealerrepo.svn.codeplex.com/svn/addons.xml</info>
 		<checksum>https://techdealerrepo.svn.codeplex.com/svn/addons.xml.md5</checksum>
@@ -4153,7 +4153,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.teeedubb" name="teeedubb's repo" version="0" provider-name="teeedubb">
+<addon id="repository.teeedubb" name="teeedubb's repo" version="0.0.0.1" provider-name="teeedubb">
         <extension point="xbmc.addon.repository" name="teeedubb's addons">
                 <info compressed="false">http://raw.github.com/teeedubb/teeedubb-xbmc-repo/master/addons.xml</info>
                 <checksum>http://raw.github.com/teeedubb/teeedubb-xbmc-repo/master/addons.xml.md5</checksum>
@@ -4167,7 +4167,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
         </extension>
 </addon>
 
-<addon id="repository.teefer.xbmc-plugins" name="teefer Add-on Repository" version="0" provider-name="teefer">
+<addon id="repository.teefer.xbmc-plugins" name="teefer Add-on Repository" version="0.0.0.1" provider-name="teefer">
 	<extension point="xbmc.addon.repository" name="teefer Add-on Repository">
 		<info compressed="false">http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4181,7 +4181,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.the-one" name="The ONE's XBMC Addons Repository" version="0" provider-name="the-one">
+<addon id="repository.the-one" name="The ONE's XBMC Addons Repository" version="0.0.0.1" provider-name="the-one">
 	<extension point="xbmc.addon.repository" name="the-one">
 		<info compressed="false">http://the-ones-xbmc-repo.googlecode.com/svn/addons.xml</info>
 		<checksum>http://the-ones-xbmc-repo.googlecode.com/svn/addons.xml.md5</checksum>
@@ -4194,7 +4194,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon version="0" id="repository.thehighway" name="TheHighway's Addons" provider-name="The[COLOR tan]Highway[/COLOR]">
+<addon version="0.0.0.1" id="repository.thehighway" name="TheHighway's Addons" provider-name="The[COLOR tan]Highway[/COLOR]">
 	<extension point="xbmc.addon.repository" name="TheHighway's Addons">
 		<info compressed="true">http://raw.github.com/HIGHWAY99/repository.thehighway/master/addons.xml</info>
 		<checksum>http://raw.github.com/HIGHWAY99/repository.thehighway/master/addons.xml.md5</checksum>
@@ -4208,7 +4208,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon version="0" id="repository.thehighway.bb" name="TheHighway's Backup Repo on BitBucket" provider-name="The[COLOR tan]Highway[/COLOR]">
+<addon version="0.0.0.1" id="repository.thehighway.bb" name="TheHighway's Backup Repo on BitBucket" provider-name="The[COLOR tan]Highway[/COLOR]">
 	<extension point="xbmc.addon.repository" name="TheHighway's Backup Repo on BitBucket">
 		<info compressed="false">http://bitbucket.org/HIGHWAY99/repository.thehighway.bb/raw/master/addons.bb.xml</info>
 		<checksum>http://bitbucket.org/HIGHWAY99/repository.thehighway.bb/raw/master/addons.bb.xml.md5</checksum>
@@ -4221,7 +4221,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon version="0" id="repository.thehighway.br" name="TheHighway's Broken and Outdated Addons" provider-name="The[COLOR tan]Highway[/COLOR]">
+<addon version="0.0.0.1" id="repository.thehighway.br" name="TheHighway's Broken and Outdated Addons" provider-name="The[COLOR tan]Highway[/COLOR]">
 	<extension point="xbmc.addon.repository" name="TheHighway's Broken and Outdated Addons">
 		<info compressed="true">http://raw.github.com/HIGHWAY99/repository.thehighway.br/master/addons.xml</info>
 		<checksum>http://raw.github.com/HIGHWAY99/repository.thehighway/master.br/addons.xml.md5</checksum>
@@ -4235,7 +4235,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon version="0" id="repository.TheHighwaysEasyInstallRepo" name="TheHighways Easy Fresh Install Addon Collection" provider-name="The[COLOR tan]Highway[/COLOR]">
+<addon version="0.0.0.1" id="repository.TheHighwaysEasyInstallRepo" name="TheHighways Easy Fresh Install Addon Collection" provider-name="The[COLOR tan]Highway[/COLOR]">
 	<extension point="xbmc.addon.repository" name="TheHighway's Easy Fresh Install Addon Collection">
 		<info compressed="false">http://github.com/HIGHWAY99/repository.thehighway/raw/master/repoEasyInstall.xml</info>
 		<checksum>http://github.com/HIGHWAY99/repository.thehighway/raw/master/repoEasyInstall.xml.md5</checksum>
@@ -4248,7 +4248,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.TheWiz" name="TheWiz Hebrew Repository" version="0" provider-name="TheWiz">
+<addon id="repository.TheWiz" name="TheWiz Hebrew Repository" version="0.0.0.1" provider-name="TheWiz">
     <extension point="xbmc.addon.repository" name="TheWiz Hebrew Repository">
         <info compressed="true">http://repo.thewiz.info/addons.xml</info>
         <checksum>http://repo.thewiz.info/addons.xml.md5</checksum>
@@ -4263,7 +4263,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
     </extension>
 </addon>
 
-<addon id="repository.TheYid" name="TheYid's REPO" version="0" provider-name="tcz009 AKA TheYid">
+<addon id="repository.TheYid" name="TheYid's REPO" version="0.0.0.1" provider-name="tcz009 AKA TheYid">
 	<extension point="xbmc.addon.repository" name="TheYid Addon Repository">
 		<info compressed="false">https://raw.github.com/TheYid/My-Repo/master/addons.xml</info>
 		<checksum>https://raw.github.com/TheYid/My-Repo/master/addons.xml.md5</checksum>
@@ -4276,7 +4276,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.The_Silencer" name="The_Silencer's REPO" version="0" provider-name="The_Silencer">
+<addon id="repository.The_Silencer" name="The_Silencer's REPO" version="0.0.0.1" provider-name="The_Silencer">
 	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
 		<info compressed="false">http://raw.github.com/TheSilencer001/The_Silencer/master/addons.xml</info>
 		<checksum>http://raw.github.com/TheSilencer001/The_Silencer/master/addons.xml.md5</checksum>
@@ -4289,7 +4289,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.thongld" name="ThongLD`s REPO" version="0" provider-name="ThongLD">
+<addon id="repository.thongld" name="ThongLD`s REPO" version="0.0.0.1" provider-name="ThongLD">
 	<extension point="xbmc.addon.repository" name="ThongLD`s Addon Repository">
 		<info compressed="false">http://echipstore.net/thongld/addons.xml</info>
 		<checksum>http://echipstore.net/thongld/addons.xml.md5</checksum>
@@ -4302,7 +4302,7 @@ Addons Inside - Videpphile, Filmikz, Freeroms Downloader</description>
 	</extension>
 </addon>
 
-<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="0" provider-name="tknorris">
+<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="0.0.0.1" provider-name="tknorris">
     <extension point="xbmc.addon.repository" name="tknorris beta testing repository">
 	    <dir>
 	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
@@ -4335,7 +4335,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.tknorris.release" name="tknorris Release Repository" version="0" provider-name="tknorris">
+<addon id="repository.tknorris.release" name="tknorris Release Repository" version="0.0.0.1" provider-name="tknorris">
     <extension point="xbmc.addon.repository" name="tknorris release repository">
         <dir>
             <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
@@ -4359,7 +4359,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.tlbb" name="TLBB Repository" version="0" provider-name="TLBB">
+<addon id="repository.tlbb" name="TLBB Repository" version="0.0.0.1" provider-name="TLBB">
   <requires>
     <import addon="repository.Sense8tion" version="1.0"/>
   </requires>
@@ -4375,7 +4375,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.todits.xbmc.addons" name="todits.xbmc Add-ons" version="0" provider-name="todits.xbmc">
+<addon id="repository.todits.xbmc.addons" name="todits.xbmc Add-ons" version="0.0.0.1" provider-name="todits.xbmc">
     <extension point="xbmc.addon.repository" name="todits.xbmc Add-ons">
         <info compressed="false">https://github.com/todits-xbmc/todits-xbmc-tv/raw/master/addons.xml</info>
         <checksum>https://github.com/todits-xbmc/todits-xbmc-tv/raw/master/addons.xml.md5</checksum>
@@ -4390,7 +4390,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.tolin" name="TOLIN XBMC Add-on's" version="0" provider-name="tolin">
+<addon id="repository.tolin" name="TOLIN XBMC Add-on's" version="0.0.0.1" provider-name="tolin">
 	<extension point="xbmc.addon.repository" name="TOLIN XBMC Add-on's">
 		<info compressed="false">http://tolin-xbmc-repo.googlecode.com/svn/trunk/addons/addons.xml</info>
 		<checksum>http://tolin-xbmc-repo.googlecode.com/svn/trunk/addons/addons.xml.md5</checksum>
@@ -4405,7 +4405,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.topklassetv" name="Topklasse TV Repository" version="0" provider-name="vDia Internet Applications">
+<addon id="repository.topklassetv" name="Topklasse TV Repository" version="0.0.0.1" provider-name="vDia Internet Applications">
 	<extension point="xbmc.addon.repository" name="Topklasse TV Repository">
 		<info compressed="true">http://clubtv.dooremolen.com/topklasse/addons/addons.xml</info>
 		<checksum>http://clubtv.dooremolen.com/topklasse/addons/addons.xml.md5</checksum>
@@ -4418,7 +4418,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.traitravinh" name="TraiTraVinh's Testing Repo" version="0" provider-name="traitravinh">
+<addon id="repository.traitravinh" name="TraiTraVinh's Testing Repo" version="0.0.0.1" provider-name="traitravinh">
 	<extension point="xbmc.addon.repository" name="TraiTraVinh's Testing Repo">
 		<info compressed="false">https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/addons.xml</info>
 		<checksum>https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/addons.xml.md5</checksum>
@@ -4432,7 +4432,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.tva.common" name="TVADDONS.ag Libraries Repository" version="0" provider-name="tvaddons.ag">
+<addon id="repository.tva.common" name="TVADDONS.ag Libraries Repository" version="0.0.0.1" provider-name="tvaddons.ag">
     <extension point="xbmc.addon.repository" name="TVADDONS.ag Libraries Repository">
         <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
         <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
@@ -4445,7 +4445,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.tvaddons.nl" name=".TV Addons Nederland" version="0" provider-name="TVAddons.nl">
+<addon id="repository.tvaddons.nl" name=".TV Addons Nederland" version="0.0.0.1" provider-name="TVAddons.nl">
     <extension point="xbmc.addon.repository" name="Club TV Repository">
         <info compressed="true">http://repo.tvaddons.nl/addons.xml</info>
         <checksum>http://repo.tvaddons.nl/addons.xml.md5</checksum>
@@ -4458,7 +4458,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.tvi24.xbmc" name="DeusMaior repositorio" version="0" provider-name="DeusMaior">
+<addon id="repository.tvi24.xbmc" name="DeusMaior repositorio" version="0.0.0.1" provider-name="DeusMaior">
 	<extension point="xbmc.addon.repository" name="DeusMaior Add-on Repository">
 		<info compressed="false">http://pluginxbmctvi24.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://pluginxbmctvi24.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4472,7 +4472,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.twinther" name="twinther's beta repository" version="0" provider-name="twinther [tommy@winther.nu]">
+<addon id="repository.twinther" name="twinther's beta repository" version="0.0.0.1" provider-name="twinther [tommy@winther.nu]">
 	<extension point="xbmc.addon.repository" name="twinther's beta repository">
 		<info compressed="false">http://tommy.winther.nu/xbmc/addons.xml</info>
 		<checksum>http://tommy.winther.nu/xbmc/addons.xml.md5</checksum>
@@ -4486,7 +4486,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.unofficial.addons" name="Unofficial Add-on Repository" version="0">
+<addon id="repository.unofficial.addons" name="Unofficial Add-on Repository" version="0.0.0.1">
 	<extension point="xbmc.addon.repository" name="Unofficial Add-on Repository">
 		<info compressed="false">http://xbmc-addon-repository.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://xbmc-addon-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4500,7 +4500,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.unofficial.polish" name="Polskie wtyczki" version="0" provider-name="smuto">
+<addon id="repository.unofficial.polish" name="Polskie wtyczki" version="0.0.0.1" provider-name="smuto">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
@@ -4518,7 +4518,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.uplayhd" name="uPlayHD XBMC Add-ons" version="0" provider-name="iClosedz (iClosedz.blogspot.com)">
+<addon id="repository.uplayhd" name="uPlayHD XBMC Add-ons" version="0.0.0.1" provider-name="iClosedz (iClosedz.blogspot.com)">
 	<extension point="xbmc.addon.repository" name="uPlayHD XBMC Add-ons">
 		<info compressed="false">http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml</info>
 		<checksum>http://bitbucket.org/iClosedz/uplayhd-xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -4534,7 +4534,7 @@ Addons Included
 
 <addon id="repository.VEOLO"
 		name="VEOLO Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="A.C. Ryan">
 	<extension point="xbmc.addon.repository"
 		name="VEOLO Add-on Repository">
@@ -4555,7 +4555,7 @@ Addons Included
 
 <addon id="repository.vietmedia"
 		name="VietMedia Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="VietMedia">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -4575,7 +4575,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.VinManJSV" name="VinmanJSV REPO" version="0" provider-name="Vinman_sv">
+<addon id="repository.VinManJSV" name="VinmanJSV REPO" version="0.0.0.1" provider-name="Vinman_sv">
 	<extension point="xbmc.addon.repository" name="VinmanJSV REPO">
         <info compressed="false">http://raw.github.com/VinmanJSV/OPENJAVA/master/addons.xml</info>
         <checksum>http://raw.github.com/VinmanJSV/OPENJAVA/master/addons.xml.md5</checksum>
@@ -4588,7 +4588,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.Vinnydude" name="Addons by Vinnydude" version="0" provider-name="Vinnydude">
+<addon id="repository.Vinnydude" name="Addons by Vinnydude" version="0.0.0.1" provider-name="Vinnydude">
 	<extension point="xbmc.addon.repository" name="Addons From Vinnydude">
 		<info compressed="false">http://raw.github.com/vinnydude/vinnydude.repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/vinnydude/vinnydude.repo/master/addons.xml.md5</checksum>
@@ -4603,7 +4603,7 @@ Addons Included
 
 <addon id="repository.vstream"
         name="vStream Repository"
-        version="0"
+        version="0.0.0.1"
         provider-name="Venom">
     <extension point="xbmc.addon.repository" name="vStream XBMC Addon Repository">
         <checksum>https://raw.githubusercontent.com/LordVenom/venom-xbmc-addons/master/addons.xml.md5</checksum>
@@ -4620,7 +4620,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.wareztuga" name="wareztuga.tv repositorio" version="0" provider-name="wareztuga">
+<addon id="repository.wareztuga" name="wareztuga.tv repositorio" version="0.0.0.1" provider-name="wareztuga">
 	<extension point="xbmc.addon.repository" name="wareztuga.tv repositorio">
 		<info compressed="false">http://fightnight-xbmc.googlecode.com/svn/addons/wareztuga/addons.xml</info>
 		<checksum>http://fightnight-xbmc.googlecode.com/svn/addons/wareztuga/addons.xml.md5</checksum>
@@ -4633,7 +4633,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.wiiego" name="Wiiego's XBMC Addons" version="0" provider-name="wiiego">
+<addon id="repository.wiiego" name="Wiiego's XBMC Addons" version="0.0.0.1" provider-name="wiiego">
 	<extension point="xbmc.addon.repository" name="Wiiego's XBMC Addons Repository">
 		<info compressed="false">https://github.com/diegofn/wiiego-xbmc-addons/raw/master/addons.xml</info>
 		<checksum>https://github.com/diegofn/wiiego-xbmc-addons/raw/master/addons.xml.md5</checksum>
@@ -4646,7 +4646,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.wliptv" name="WLIPTV Repository" version="0" provider-name="WLIPTV Repository">
+<addon id="repository.wliptv" name="WLIPTV Repository" version="0.0.0.1" provider-name="WLIPTV Repository">
 	<extension point="xbmc.addon.repository" name="WLIPTV Repository">
 		<info compressed="false">http://xbmc.wliptv.com/addons.xml</info>
 		<checksum>http://xbmc.wliptv.com/addons.xml.md5</checksum>
@@ -4659,7 +4659,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="0" provider-name="WolfTeam">
+<addon id="repository.wolf-team" name="Wolf-Team official Repo" version="0.0.0.1" provider-name="WolfTeam">
 	<extension point="xbmc.addon.repository" name="Wolf-Team official Repo">
 		<info compressed="false">https://svn.code.sf.net/u/teamwolf/code/addons/addons.xml</info>
 		<checksum>https://svn.code.sf.net/u/teamwolf/code/addons/addons.xml.md5</checksum>
@@ -4672,7 +4672,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.wookie" name="Team Wookie Addon Repository" version="0" provider-name="Team Wookie">
+<addon id="repository.wookie" name="Team Wookie Addon Repository" version="0.0.0.1" provider-name="Team Wookie">
 	<extension point="xbmc.addon.repository" name="Team Wookie Addon Repository">
 		<info compressed="false">http://raw.github.com/metalkettle/Team-Wookie/master/addons.xml</info>
 		<checksum>http://raw.github.com/metalkettle/Team-Wookie/master/addons.xml.md5</checksum>
@@ -4685,7 +4685,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xb-israel.shmulik" name="xb-israel, israeli VOD" version="0" provider-name="shmulik">
+<addon id="repository.xb-israel.shmulik" name="xb-israel, israeli VOD" version="0.0.0.1" provider-name="shmulik">
   <extension point="xbmc.addon.repository" name="xb-israel, israeli VOD">
     <info compressed="false">http://xb-israel.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://xb-israel.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4698,7 +4698,7 @@ Addons Included
   </extension>
 </addon>
 
-<addon id="repository.xbmc-addons-chinese" name="Chinese Add-ons" version="0" provider-name="Taxigps">
+<addon id="repository.xbmc-addons-chinese" name="Chinese Add-ons" version="0.0.0.1" provider-name="Taxigps">
     <extension point="xbmc.addon.repository" name="Chinese Add-ons">
         <info compressed="true">https://github.com/taxigps/xbmc-addons-chinese/raw/master/addons.xml</info>
         <checksum>https://github.com/taxigps/xbmc-addons-chinese/raw/master/addons.xml.md5</checksum>
@@ -4715,7 +4715,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.xbmc-chinese-tube" name="Addons for Chinese TV on Youtube" version="0" provider-name="yuhangw">
+<addon id="repository.xbmc-chinese-tube" name="Addons for Chinese TV on Youtube" version="0.0.0.1" provider-name="yuhangw">
         <extension point="xbmc.addon.repository" name="Addons for Chinese TV on Youtube">
                 <info compressed="false">http://xbmc-chinese-tube.googlecode.com/svn/trunk/addons.xml</info>
                 <checksum>http://xbmc-chinese-tube.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4733,7 +4733,7 @@ Addons Included
 </addon>
 
 <addon id="repository.xbmc-czech.sf.net"
-       version="0"
+       version="0.0.0.1"
        name="XBMC-Czech Repository (xbmc-czech.sf.net)"
        provider-name="Tomas Pokorny">
   <requires>
@@ -4769,7 +4769,7 @@ Addons Included
   </extension>
 </addon>
 
-<addon id="repository.he.xbmc" name="HE Xbmc Brasil" version="0" provider-name="hgarcia/eseffair">
+<addon id="repository.he.xbmc" name="HE Xbmc Brasil" version="0.0.0.1" provider-name="hgarcia/eseffair">
  <extension point="xbmc.addon.repository" name="HE Xbmc Brasil Add-on Repository">
   <info compressed="false">http://he-repository-brasil.googlecode.com/svn/trunk/addons.xml</info>
   <checksum>http://he-repository-brasil.googlecode.com/svn/trunk/addons.xml.md5</checksum>
@@ -4783,7 +4783,7 @@ Addons Included
  </extension>
 </addon>
 
-<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="0" provider-name="cubicle-vdo">
+<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="0.0.0.1" provider-name="cubicle-vdo">
     <extension point="xbmc.addon.repository" name="XBMC Israeli streaming repo for streaming sites">
         <info compressed="false">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml.md5</checksum>
@@ -4798,7 +4798,7 @@ Addons Included
 
 <addon id="repository.xbmc-korea.com"
 		name="XBMC-Korea.com Add-ons"
-		version="0"
+		version="0.0.0.1"
 		provider-name="XBMC-Korea">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -4821,7 +4821,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbmc-pal" name="[COLOR blue]XBMC palestine [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="0" provider-name="Yosri Hadi">
+<addon id="repository.xbmc-pal" name="[COLOR blue]XBMC palestine [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="0.0.0.1" provider-name="Yosri Hadi">
     <extension point="xbmc.addon.repository" name="XBMC palestine streaming repo for streaming sites">
         <info compressed="false">https://github.com/yosir/xbmc-pal/raw/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/yosir/xbmc-pal/master/addons.xml.md5</checksum>
@@ -4835,7 +4835,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.xbmc-repo-agx" name="agx's XBMC Repo" version="0" provider-name="xbmc-repo-agx">
+<addon id="repository.xbmc-repo-agx" name="agx's XBMC Repo" version="0.0.0.1" provider-name="xbmc-repo-agx">
         <extension point="xbmc.addon.repository" name="agx's XBMC Repo">
                 <info compressed="false">https://raw.githubusercontent.com/antigenx/xbmc-repo-agx/master/addons.xml</info>
                 <checksum>https://raw.githubusercontent.com/antigenx/xbmc-repo-agx/master/addons.xml.md5</checksum>
@@ -4849,7 +4849,7 @@ Addons Included
         </extension>
 </addon>
 
-<addon id="repository.xbmc.chakra" name="Chakravyu's XBMC Addons" version="0" provider-name="Cherian Mathew (chakravyu)">
+<addon id="repository.xbmc.chakra" name="Chakravyu's XBMC Addons" version="0.0.0.1" provider-name="Cherian Mathew (chakravyu)">
   <extension point="xbmc.addon.repository" name="Chakravyu' XBMC Addon Repository">
     <info compressed="false">https://github.com/chakravyu/repository.xbmc.chakra/raw/master/addons.xml</info>
     <checksum>https://github.com/chakravyu/repository.xbmc.chakra/raw/master/addons.xml.md5</checksum>
@@ -4863,7 +4863,7 @@ Addons Included
 </addon>
 
 <addon id="repository.xbmc.doplnky"
-  version="0"
+  version="0.0.0.1"
   name="XBMC Doplňky (CZ &amp; SK) deprecated"
   provider-name="Libor Zoubek">
   <requires>
@@ -4887,7 +4887,7 @@ Addons Included
   </extension>
 </addon>
 
-<addon id="repository.xbmc.tvm" name="TvM Add-ons" version="0" provider-name="TvM">
+<addon id="repository.xbmc.tvm" name="TvM Add-ons" version="0.0.0.1" provider-name="TvM">
 	<extension point="xbmc.addon.repository" name="TvM">
 		<info compressed="false">http://repository-xbmc-tvm.googlecode.com/git/addons.xml</info>
 		<checksum>http://repository-xbmc-tvm.googlecode.com/git/addons.xml.md5</checksum>
@@ -4900,7 +4900,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbmcadult" name="XBMC-Adult Addons" version="0" provider-name="xbmc-adult">
+<addon id="repository.xbmcadult" name="XBMC-Adult Addons" version="0.0.0.1" provider-name="xbmc-adult">
 	<extension point="xbmc.addon.repository" name="XBMC Adult Addons">
 		<info compressed="false">http://raw.github.com/xbmc-adult/xbmc-adult/ghmaster/addons.xml</info>
 		<checksum>http://raw.github.com/xbmc-adult/xbmc-adult/ghmaster/addons.xml.md5</checksum>
@@ -4914,7 +4914,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbmchub" name="TVADDONS.ag Addon Repository" version="0" provider-name="tvaddons.ag">
+<addon id="repository.xbmchub" name="TVADDONS.ag Addon Repository" version="0.0.0.1" provider-name="tvaddons.ag">
 	<extension point="xbmc.addon.repository" name="TVADDONS.ag Addon Repository">
 	<dir>
 		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
@@ -4934,7 +4934,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbmcnerds.frodo" name="xbmcnerds.com Add-ons (Frodo)" version="0" provider-name="mad-max">
+<addon id="repository.xbmcnerds.frodo" name="xbmcnerds.com Add-ons (Frodo)" version="0.0.0.1" provider-name="mad-max">
 	<extension point="xbmc.addon.repository" name="xbmcnerds.com Add-on Repository (Frodo)">
 		<info compressed="true">http://repodl.xbmcnerds.com/repository/frodo/addons.xml</info>
 		<checksum>http://repodl.xbmcnerds.com/repository/frodo/addons.xml.md5</checksum>
@@ -4950,7 +4950,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbmcplus.xbmc-plugins" name="xbmcplus Add-on Repository" version="0" provider-name="moneymaker">
+<addon id="repository.xbmcplus.xbmc-plugins" name="xbmcplus Add-on Repository" version="0.0.0.1" provider-name="moneymaker">
 	<extension point="xbmc.addon.repository" name="xbmcplus Add-on Repository">
         <info>https://raw.githubusercontent.com/moneymaker365/xbmc-xbmcplus-plugins/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/moneymaker365/xbmc-xbmcplus-plugins/master/addons.xml.md5</checksum>
@@ -4964,7 +4964,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xboxskins" version="0" name="XBMC4Xbox Skins Repository" provider-name="whufclee">
+<addon id="repository.xboxskins" version="0.0.0.1" name="XBMC4Xbox Skins Repository" provider-name="whufclee">
 	<extension point="xbmc.addon.repository" name="XBMC4Xbox Skins Repository">
 		<info compressed="false">https://github.com/totalxbmc/xboxskins/raw/master/zips/addons.xml</info>
 		<checksum>https://github.com/totalxbmc/xboxskins/raw/master/zips/addons.xml.md5</checksum>
@@ -4977,7 +4977,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xbxl" name="Xbxl Add-on Repository" version="0" provider-name="Xbxl">
+<addon id="repository.xbxl" name="Xbxl Add-on Repository" version="0.0.0.1" provider-name="Xbxl">
 	<extension point="xbmc.addon.repository" name="The Xbxl Add-on Repository">
 		<info compressed="false">https://xbmc-dpstream.googlecode.com/git/repository/addons.xml</info>
 		<checksum>https://xbmc-dpstream.googlecode.com/git/repository/addons.xml.md5</checksum>
@@ -4991,7 +4991,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xhaggi" name="xhaggi's repository" version="0" provider-name="xhaggi">
+<addon id="repository.xhaggi" name="xhaggi's repository" version="0.0.0.1" provider-name="xhaggi">
     <extension point="xbmc.addon.repository" name="xhaggi's repository">
         <info compressed="false">https://raw.githubusercontent.com/xhaggi/kodi-addons/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/xhaggi/kodi-addons/master/addons.xml.md5</checksum>
@@ -5005,7 +5005,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="repository.xlordkx" name="XLordKX Repo" version="0" provider-name="XLordKX">
+<addon id="repository.xlordkx" name="XLordKX Repo" version="0.0.0.1" provider-name="XLordKX">
 	<extension point="xbmc.addon.repository" name="XLordKX Repo">
 		<info compressed="false">https://raw.githubusercontent.com/XLordKX/kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/XLordKX/kodi/master/addons.xml.md5</checksum>
@@ -5019,7 +5019,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xsteal" name="xsteal repository" version="0" provider-name="xsteal">
+<addon id="repository.xsteal" name="xsteal repository" version="0.0.0.1" provider-name="xsteal">
 	<extension point="xbmc.addon.repository" name="xsteal Repository">
 		<info compressed="false">http://raw.github.com/xsteal/repository.xsteal/master/addons.xml</info>
 		<checksum>http://raw.github.com/xsteal/repository.xsteal/master/addons.xml.md5</checksum>
@@ -5033,7 +5033,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xstream" name="xStream Repository" version="0" provider-name="Lynx187">
+<addon id="repository.xstream" name="xStream Repository" version="0.0.0.1" provider-name="Lynx187">
     <extension point="xbmc.addon.repository" name="xStream Repository">
         <info compressed="false">http://raw.github.com/Lynx187/xStreamRepo/master/addons.xml</info>
 		<checksum>http://raw.github.com/Lynx187/xStreamRepo/master/addons.xml.md5</checksum>
@@ -5052,7 +5052,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="0" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="0.0.0.1" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
 	<extension point="xbmc.addon.repository" name="Mikey1234 Addon Repository">
 		<info compressed="false">http://xty.me/xunitytalk/addons/addons.xml</info>
 		<checksum>http://xty.me/xunitytalk/addons/addons.xml.md5</checksum>
@@ -5065,7 +5065,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xxxadultxbmc" name="AdultXBMC.com Add-on Repository" version="0" provider-name="adultxbmc.com">
+<addon id="repository.xxxadultxbmc" name="AdultXBMC.com Add-on Repository" version="0.0.0.1" provider-name="adultxbmc.com">
 	<extension point="xbmc.addon.repository" name="AdultXBMC.com Add-on Repository">
 		<info compressed="false">https://offshoregit.com/adultxbmc/raw/master/addons.xml</info>
 		<checksum>https://offshoregit.com/adultxbmc/raw/master/addons.xml.md5</checksum>
@@ -5080,7 +5080,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.xycl.addons" name="Xycl Add-on Repository" version="0" provider-name="xycl">
+<addon id="repository.xycl.addons" name="Xycl Add-on Repository" version="0.0.0.1" provider-name="xycl">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
@@ -5098,7 +5098,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.yllar" name="Yllar's XBMC Addons" version="0" provider-name="yllar">
+<addon id="repository.yllar" name="Yllar's XBMC Addons" version="0.0.0.1" provider-name="yllar">
   <extension point="xbmc.addon.repository" name="Yllar's XBMC Addon Repository">
     <info compressed="false">https://github.com/yllar/yllar-xbmc-repo/raw/master/addons.xml</info>
     <checksum>https://github.com/yllar/yllar-xbmc-repo/raw/master/addons.xml.md5</checksum>
@@ -5113,7 +5113,7 @@ Addons Included
   </extension>
 </addon>
 
-<addon id="repository.zeus" name="[COLOR black].[/COLOR][COLOR yellow]ZEUS [/COLOR][COLOR white]Repository[/COLOR]" version="0" provider-name="ZEUS">
+<addon id="repository.zeus" name="[COLOR black].[/COLOR][COLOR yellow]ZEUS [/COLOR][COLOR white]Repository[/COLOR]" version="0.0.0.1" provider-name="ZEUS">
 	<extension point="xbmc.addon.repository" name="[COLOR black].[/COLOR][COLOR yellow]ZEUS [/COLOR][COLOR white]Repository[/COLOR]">
         <info compressed="false">http://repo.zeusrepo.com/addons.xml</info>
 		<checksum>http://repo.zeusrepo.com/addons.xml.md5</checksum>
@@ -5126,7 +5126,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="repository.rawmaintenance" name="Raw Media's Kodi Add-ons" version="0" provider-name="Raw Media">
+<addon id="repository.rawmaintenance" name="Raw Media's Kodi Add-ons" version="0.0.0.1" provider-name="Raw Media">
 	<extension point="xbmc.addon.repository" name="Raw Media's Kodi Add-on Repository">
 		<dir>
 			<info compressed="false">http://raw.github.com/rawmedia/raw_maintenance/master/rawmaintenance_repo/addons.xml</info>
@@ -5143,7 +5143,7 @@ Addons Included
 
 <addon id="ruuk.addon.repository"
 	name="ruuk's Addon Repo"
-	version="0"
+	version="0.0.0.1"
 	provider-name="Rick Phillips (ruuk)">
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
@@ -5158,7 +5158,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="superrepo.kodi.helix.external.repositories" name="SuperRepo  Third Party Repositories [Helix][v7]" version="0" provider-name="Bart Otten">
+<addon id="superrepo.kodi.helix.external.repositories" name="SuperRepo  Third Party Repositories [Helix][v7]" version="0.0.0.1" provider-name="Bart Otten">
                 <requires>
                 <import addon="xbmc.addon" version="12.0.0"/>
                 </requires>
@@ -5226,7 +5226,7 @@ Addons Included
                 </extension>
                 </addon>
 
-<addon id="superrepo.kodi.helix.repositories" name="SuperRepo  Repositories [Helix][v7]" version="0" provider-name="Bart Otten">
+<addon id="superrepo.kodi.helix.repositories" name="SuperRepo  Repositories [Helix][v7]" version="0.0.0.1" provider-name="Bart Otten">
                 <requires>
                 <import addon="xbmc.addon" version="12.0.0"/>
                 </requires>
@@ -5294,7 +5294,7 @@ Addons Included
                 </extension>
                 </addon>
 
-<addon id="Tugafree.repositorio" name="Tugafree Repositorio" version="0" provider-name="Tugafree">
+<addon id="Tugafree.repositorio" name="Tugafree Repositorio" version="0.0.0.1" provider-name="Tugafree">
 	<extension point="xbmc.addon.repository" name="Tugafree Add-on Repository">
 		<info compressed="false">http://raw.github.com/Tugafree/Tugafree.repositorio/master/addons.xml</info>
 		<checksum>http://raw.github.com/Tugafree/Tugafree.repositorio/master/addons.xml.md5</checksum>
@@ -5308,7 +5308,7 @@ Addons Included
 	</extension>
 </addon>
 
-  <addon id="repo.butchabay" name="repository butchabay" version="0" provider-name="butchabay">
+  <addon id="repo.butchabay" name="repository butchabay" version="0.0.0.1" provider-name="butchabay">
   <extension point="xbmc.addon.repository" name="repository butchabay">
   <info>http://xbmc-repository-butchabay.googlecode.com/svn/trunk/addons.xml</info>
   <datadir zip="true">http://xbmc-repository-butchabay.googlecode.com/svn/trunk</datadir>
@@ -5321,7 +5321,7 @@ Addons Included
   </extension>
   </addon>
 
-<addon id="xbmc.repo.elmerohueso" name="elmerohueso's Add-on Repository" version="0" provider-name="elmerohueso">
+<addon id="xbmc.repo.elmerohueso" name="elmerohueso's Add-on Repository" version="0.0.0.1" provider-name="elmerohueso">
     <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
         <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
         <checksum>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml.md5</checksum>
@@ -5334,7 +5334,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="xbmc.repo.freeman" name="freem@n's Add-ons" version="0" provider-name="freem@n">
+<addon id="xbmc.repo.freeman" name="freem@n's Add-ons" version="0.0.0.1" provider-name="freem@n">
   <extension point="xbmc.addon.repository" name="freem@n's Repository">
     <info compressed="false">https://raw.github.com/freeman212/xbmc.repo.freeman/master/addons.xml</info>
     <checksum>https://raw.github.com/freeman212/xbmc.repo.freeman/master/addons.xml.md5</checksum>
@@ -5350,7 +5350,7 @@ Addons Included
 
 <addon id="repo.hybrid"
         name="Hybrid Development Repo"
-        version="0"
+        version="0.0.0.1"
         provider-name="Mudislander">
     <extension point="xbmc.addon.repository"
         name="Hybrid Development Repo">
@@ -5369,7 +5369,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0" provider-name="DreamHD TECbox">
+<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0.0.0.1" provider-name="DreamHD TECbox">
 	<extension point="xbmc.addon.repository" name="iVue TV Guide Add-ons Repository">
 		<info compressed="false">https://raw.githubusercontent.com/totaltec2014/ivuerepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/totaltec2014/ivuerepo/master/addons.xml.md5</checksum>
@@ -5383,7 +5383,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="xbmc.repo.jeroen" name="Jeroen's Add-on Repository" version="0" provider-name="Jeroen">
+<addon id="xbmc.repo.jeroen" name="Jeroen's Add-on Repository" version="0.0.0.1" provider-name="Jeroen">
     <extension point="xbmc.addon.repository" name="Jeroen's Add-on Repository">
         <info>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml</info>
         <checksum>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml.md5</checksum>
@@ -5397,7 +5397,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="xbmc.repo.leopold" name="Leopold's Add-ons" version="0" provider-name="Leopold">
+<addon id="xbmc.repo.leopold" name="Leopold's Add-ons" version="0.0.0.1" provider-name="Leopold">
   <extension point="xbmc.addon.repository" name="Leopold's Repository">
     <info compressed="false">https://raw.github.com/LS80/repository.leopold/master/addons.xml</info>
     <checksum>https://raw.github.com/LS80/repository.leopold/master/addons.xml.md5</checksum>
@@ -5413,7 +5413,7 @@ Addons Included
 
 <addon id="repo.mudisle"
         name="Mudisle Repo"
-        version="0"
+        version="0.0.0.1"
         provider-name="Mudislander">
     <extension point="xbmc.addon.repository"
         name="Mudisle Repo">
@@ -5432,7 +5432,7 @@ Addons Included
     </extension>
 </addon>
 
-<addon id="xbmc.repo.nordish-by-nature" name="NordishByNature Addons" version="0" provider-name="mablae">
+<addon id="xbmc.repo.nordish-by-nature" name="NordishByNature Addons" version="0.0.0.1" provider-name="mablae">
 	<extension point="xbmc.addon.repository" name="NordishByNature Addons">
 		<info compressed="false">http://raw.github.com/mablae/xbmc-repo-nordish-by-nature/master/addons.xml</info>
 		<checksum>http://raw.github.com/mablae/xbmc-repo-nordish-by-nature/master/addons.xml.md5</checksum>
@@ -5449,7 +5449,7 @@ Addons Included
 <addon
   id="xbmc.repo.plexbmc"
   name="PleXBMC Add-ons for XBMC"
-  version="0"
+  version="0.0.0.1"
   provider-name="hippojay">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
@@ -5470,7 +5470,7 @@ Addons Included
   </extension>
 </addon>
 
-<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0" provider-name="DreamHD TECbox">
+<addon id="xbmc.repo.tecboxtvguide" name="iVue TV Guide Add-on" version="0.0.0.1" provider-name="DreamHD TECbox">
 	<extension point="xbmc.addon.repository" name="iVue TV Guide Add-ons Repository">
 		<info compressed="false">http://tecbox.tv/repo/teciptvguide/addons.xml</info>
 		<checksum>http://tecbox.tv/repo/teciptvguide/addons.xml.md5</checksum>
@@ -5486,7 +5486,7 @@ Addons Included
 
 <addon id="xbmcrepo.ru"
        name="XBMC.ru forum Add-ons"
-	   version="0"
+	   version="0.0.0.1"
 	   provider-name="bigbax">
 <requires>
   <import addon="xbmc.addon" version="12.0.0"/>
@@ -5509,7 +5509,7 @@ Addons Included
 
 <addon id="xbmcTR.repo"
 		name="xbmc [COLOR red]T[/COLOR]U[COLOR red]R[/COLOR]K[COLOR red]I[/COLOR]Y[COLOR red]E[/COLOR] Eklenti Deposu"
-		version="0"
+		version="0.0.0.1"
 		provider-name="drascom">
 	<extension point="xbmc.addon.repository" name="drascom Add-on Repository">
 		<info compressed="false">https://github.com/koditr/xbmc-tr-team-turkish-addons/raw/master/addons.xml</info>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fightnight" name="fightnight repository" version="0" provider-name="fightnight">
+<addon id="repository.fightnight" name="fightnight repository" version="0.0.0.1" provider-name="fightnight">
 	<extension point="xbmc.addon.repository" name="fightnight">
 		<info compressed="false">https://fightnightkodi.svn.codeplex.com/svn/addons/addons.xml</info>
 		<checksum>https://fightnightkodi.svn.codeplex.com/svn/addons/addons.xml.md5</checksum>

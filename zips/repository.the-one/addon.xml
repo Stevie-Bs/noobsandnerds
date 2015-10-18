@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.the-one" name="The ONE's XBMC Addons Repository" version="0" provider-name="the-one">
+<addon id="repository.the-one" name="The ONE's XBMC Addons Repository" version="0.0.0.1" provider-name="the-one">
 	<extension point="xbmc.addon.repository" name="the-one">
 		<info compressed="false">http://the-ones-xbmc-repo.googlecode.com/svn/addons.xml</info>
 		<checksum>http://the-ones-xbmc-repo.googlecode.com/svn/addons.xml.md5</checksum>

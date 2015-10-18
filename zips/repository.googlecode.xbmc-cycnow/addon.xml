@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <addon id="repository.googlecode.xbmc-cycnow"
-name="xbmc-cycnow Add-ons" version="0"
+name="xbmc-cycnow Add-ons" version="0.0.0.1"
 provider-name="MGendyS">
   <extension point="xbmc.addon.repository"
   name="xbmc-catchuptv-au Add-on Repository">

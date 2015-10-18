@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.addons.siriuz" name="Siriuz Add-on Repository" version="0" provider-name="siriuz">
+<addon id="repository.addons.siriuz" name="Siriuz Add-on Repository" version="0.0.0.1" provider-name="siriuz">
 	<extension point="xbmc.addon.repository" name="Siriuz Add-on Repository">
 		<info compressed="false">https://raw.github.com/siriuzwhite/xbmc.repository/master/repository/addons.xml</info>
 		<checksum>https://raw.github.com/siriuzwhite/xbmc.repository/master/repository/addons.xml.md5</checksum>

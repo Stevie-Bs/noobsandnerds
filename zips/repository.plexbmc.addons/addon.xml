@@ -2,7 +2,7 @@
 <addon
   id="repository.plexbmc.addons"
   name="PleXBMC Add-ons for XBMC"
-  version="0"
+  version="0.0.0.1"
   provider-name="hippojay, pecinko, magnesium, wickning1">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>

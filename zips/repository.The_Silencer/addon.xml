@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.The_Silencer" name="The_Silencer's REPO" version="0" provider-name="The_Silencer">
+<addon id="repository.The_Silencer" name="The_Silencer's REPO" version="0.0.0.1" provider-name="The_Silencer">
 	<extension point="xbmc.addon.repository" name="HELLO Addon Repository">
 		<info compressed="false">http://raw.github.com/TheSilencer001/The_Silencer/master/addons.xml</info>
 		<checksum>http://raw.github.com/TheSilencer001/The_Silencer/master/addons.xml.md5</checksum>

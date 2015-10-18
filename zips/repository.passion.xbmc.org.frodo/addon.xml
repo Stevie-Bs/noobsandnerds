@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.passion.xbmc.org.frodo" name="Passion-XBMC.org Add-ons (frodo-pre)"
-        version="0" provider-name="Team Passion-XBMC">
+        version="0.0.0.1" provider-name="Team Passion-XBMC">
     <requires>
         <import addon="xbmc.addon" version="12.0"/>
     </requires>

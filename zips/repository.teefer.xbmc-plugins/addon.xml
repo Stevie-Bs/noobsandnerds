@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.teefer.xbmc-plugins" name="teefer Add-on Repository" version="0" provider-name="teefer">
+<addon id="repository.teefer.xbmc-plugins" name="teefer Add-on Repository" version="0.0.0.1" provider-name="teefer">
 	<extension point="xbmc.addon.repository" name="teefer Add-on Repository">
 		<info compressed="false">http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://teefer-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>

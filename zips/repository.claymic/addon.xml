@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  <addon id="repository.claymic" name="Repo Claymic" version="0" provider-name="Clayton Claymic">
+  <addon id="repository.claymic" name="Repo Claymic" version="0.0.0.1" provider-name="Clayton Claymic">
     <extension point="xbmc.addon.repository" name="Repo Claymic">
     <info>http://script-allinone.googlecode.com/svn/trunk/addons.xml</info>
     <checksum>http://script-allinone.googlecode.com/svn/trunk/addons.xml.md5</checksum>

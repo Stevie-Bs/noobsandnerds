@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.topklassetv" name="Topklasse TV Repository" version="0" provider-name="vDia Internet Applications">
+<addon id="repository.topklassetv" name="Topklasse TV Repository" version="0.0.0.1" provider-name="vDia Internet Applications">
 	<extension point="xbmc.addon.repository" name="Topklasse TV Repository">
 		<info compressed="true">http://clubtv.dooremolen.com/topklasse/addons/addons.xml</info>
 		<checksum>http://clubtv.dooremolen.com/topklasse/addons/addons.xml.md5</checksum>

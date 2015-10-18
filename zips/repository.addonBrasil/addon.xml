@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.addonBrasil" name="AddonBrasil Repository" version="0" provider-name="AddonBrasil">
+<addon id="repository.addonBrasil" name="AddonBrasil Repository" version="0.0.0.1" provider-name="AddonBrasil">
 	<extension point="xbmc.addon.repository" name="AddonBrasil Repository">
 		<info compressed="false">http://raw.github.com/addonBrasil/addonBrasil-kodi/master/addons.xml</info>
 		<checksum>http://raw.github.com/addonBrasil/addonBrasil-kodi/master/addons.xml.md5</checksum>

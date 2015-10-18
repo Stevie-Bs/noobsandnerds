@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.lsellens"
        name="lsellens openelec addon repository"
-       version="0"
+       version="0.0.0.1"
        provider-name="lsellens">
   <extension point="xbmc.addon.repository"
              name="lsellens openelec addon repository">

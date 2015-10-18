@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon  id="repository.syborg"
 	    name="Syborg Addon Mods for Skygo"
-	    version="0"
+	    version="0.0.0.1"
 	    provider-name="Syborg">
 	<extension  point="xbmc.addon.repository"
 	            name="repository.syborg">

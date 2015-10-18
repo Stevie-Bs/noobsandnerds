@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kodiunderground" name="[COLOR FF2da7d3]Kodi Underground[/COLOR]" version="0" provider-name="Prilly">
+<addon id="repository.kodiunderground" name="[COLOR FF2da7d3]Kodi Underground[/COLOR]" version="0.0.0.1" provider-name="Prilly">
 	<extension point="xbmc.addon.repository" name="Kodi Underground">
 	  <info compressed="true">http://kodi.speedbox.me/svn_kodi/trunk/addons.xml</info>
 	  <checksum>http://kodi.speedbox.me/svn_kodi/trunk/addons.xml.md5</checksum>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="magicTR.repo" 
 		name="magic [COLOR red]T[/COLOR]U[COLOR red]R[/COLOR]K[COLOR red]I[/COLOR]Y[COLOR red]E[/COLOR] Eklenti Deposu" 
-		version="0" 
+		version="0.0.0.1" 
 		provider-name="MagicTR-Team">
 	<extension point="xbmc.addon.repository" name="MagicTR Add-on Repository">
 		<info compressed="false">https://github.com/koditr/magic-tr-team/raw/master/addons.xml</info>

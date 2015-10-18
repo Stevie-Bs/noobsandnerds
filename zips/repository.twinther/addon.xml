@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.twinther" name="twinther's beta repository" version="0" provider-name="twinther [tommy@winther.nu]">
+<addon id="repository.twinther" name="twinther's beta repository" version="0.0.0.1" provider-name="twinther [tommy@winther.nu]">
 	<extension point="xbmc.addon.repository" name="twinther's beta repository">
 		<info compressed="false">http://tommy.winther.nu/xbmc/addons.xml</info>
 		<checksum>http://tommy.winther.nu/xbmc/addons.xml.md5</checksum>

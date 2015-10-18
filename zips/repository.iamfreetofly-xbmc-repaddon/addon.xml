@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.iamfreetofly-xbmc-repaddon" name="iamfreetofly-xbmc-repaddon Add-on Repository" version="0" provider-name="iamfreetofly-xbmc-repaddon">
+<addon id="repository.iamfreetofly-xbmc-repaddon" name="iamfreetofly-xbmc-repaddon Add-on Repository" version="0.0.0.1" provider-name="iamfreetofly-xbmc-repaddon">
 	<extension point="xbmc.addon.repository" name="iamfreetofly-xbmc-repaddon Add-on Repository">
 		<info compressed="false">http://iamfreetofly-xbmc-repaddon.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://iamfreetofly-xbmc-repaddon.googlecode.com/svn/trunk/addons.xml.md5</checksum>

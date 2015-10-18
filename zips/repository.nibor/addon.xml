@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.nibor" 
         name="Nibor's Add-ons" 
-        version="0" 
+        version="0.0.0.1" 
         provider-name="nibor"> 
     <extension point="xbmc.addon.repository" 
         name="Nibor's Add-ons"> 

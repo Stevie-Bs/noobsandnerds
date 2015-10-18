@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.o9r1sh" name="o9r1sh's Repo" version="0" provider-name="o9r1sh">
+<addon id="repository.o9r1sh" name="o9r1sh's Repo" version="0.0.0.1" provider-name="o9r1sh">
 	<extension point="xbmc.addon.repository" name="o9r1sh's Addon Repository">
 		<info compressed="false">http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml</info>
 		<checksum>http://github.com/o9r1sh/o9r1sh/raw/master/addons.xml.md5</checksum>

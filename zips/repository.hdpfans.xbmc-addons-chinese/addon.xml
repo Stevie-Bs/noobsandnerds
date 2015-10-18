@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hdpfans.xbmc-addons-chinese" name="HDPfans中文插件库" version="0" provider-name="HDPfans">
+<addon id="repository.hdpfans.xbmc-addons-chinese" name="HDPfans中文插件库" version="0.0.0.1" provider-name="HDPfans">
 	<extension point="xbmc.addon.repository" name="HDPfans Add-on Repository">
 		<info compressed="false">http://repo.tofuos.com/addons.xml</info>
 		<checksum>http://repo.tofuos.com/addons.xml.md5</checksum>

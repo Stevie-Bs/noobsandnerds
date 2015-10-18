@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.googlecode.XtreamMedia" name="Xtream addons" version="0" provider-name="coadyj">
+<addon id="repository.googlecode.XtreamMedia" name="Xtream addons" version="0.0.0.1" provider-name="coadyj">
 	<extension point="xbmc.addon.repository" name="Xtream Media add-on repository">
 		<info compressed="false">http://xtream-media.googlecode.com/svn/addons/addons.xml</info>
 		<checksum>http://xtream-media.googlecode.com/svn/addons/addons.xml.md5</checksum>

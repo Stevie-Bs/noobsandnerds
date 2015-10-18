@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.surmac" name="surmac's repo" version="0" provider-name="surmac">
+<addon id="repository.surmac" name="surmac's repo" version="0.0.0.1" provider-name="surmac">
 	<extension point="xbmc.addon.repository" name="surmac's repository">
 		<info compressed="false">http://bitbucket.org/surmac/surmac-xbmc-repo/raw/master/addons.xml</info>
 		<checksum>http://bitbucket.org/surmac/surmac-xbmc-repo/raw/master/addons.xml.md5</checksum>

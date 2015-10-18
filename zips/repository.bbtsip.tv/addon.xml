@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="repository.bbtsip.tv" name="[COLOR yellowgreen]B[/COLOR][COLOR dodgerblue]B[/COLOR]T[COLOR orangered]S[/COLOR] - Repo" version="0" provider-name="BBTS">
+<addon id="repository.bbtsip.tv" name="[COLOR yellowgreen]B[/COLOR][COLOR dodgerblue]B[/COLOR]T[COLOR orangered]S[/COLOR] - Repo" version="0.0.0.1" provider-name="BBTS">
 <requires>
     <import addon="xbmc.addon" version="12.0.0" />
 </requires>

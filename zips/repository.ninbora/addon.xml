@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.ninbora"
        name="Ninbora Addons"
-       version="0"
+       version="0.0.0.1"
        provider-name="Ninbora Development Team">
   <extension point="xbmc.addon.repository" name="Ninbora">
     <info compressed="false">http://www.ninbora.com/addons/addons.xml</info>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.stacked.xbmc.addons" name="stacked Add-ons" version="0" provider-name="stacked">
+<addon id="repository.stacked.xbmc.addons" name="stacked Add-ons" version="0.0.0.1" provider-name="stacked">
 	<extension point="xbmc.addon.repository" name="stacled Add-ons">
 		<info compressed="false">http://plugin.googlecode.com/git/addons.xml</info>
 		<checksum>http://plugin.googlecode.com/git/addons.xml.md5</checksum>

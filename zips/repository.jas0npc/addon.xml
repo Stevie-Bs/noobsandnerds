@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.jas0npc" name="__Jas0npc__ Repository" version="0" provider-name="Jas0npc">
+<addon id="repository.jas0npc" name="__Jas0npc__ Repository" version="0.0.0.1" provider-name="Jas0npc">
 	<extension point="xbmc.addon.repository" name="__Jas0npc__ Addon Repository">
 		<info compressed="false">http://raw.github.com/jas0npc/kodi/master/addons/addons.xml</info>
 		<checksum>http://raw.github.com/jas0npc/kodi/master/addons/addons.xml.md5</checksum>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.bigsale" name="big$ale Add-on Repository" version="0" provider-name="big$ale">
+<addon id="repository.bigsale" name="big$ale Add-on Repository" version="0.0.0.1" provider-name="big$ale">
         <extension point="xbmc.addon.repository" name="big$ale Add-on Repository">
                 <info compressed="false">http://bigsale-repository.googlecode.com/svn/trunk/addons.xml</info>
                 <checksum>http://bigsale-repository.googlecode.com/svn/trunk/addons.xml.md5</checksum>

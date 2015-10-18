@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.yllar" name="Yllar's XBMC Addons" version="0" provider-name="yllar">
+<addon id="repository.yllar" name="Yllar's XBMC Addons" version="0.0.0.1" provider-name="yllar">
   <extension point="xbmc.addon.repository" name="Yllar's XBMC Addon Repository">
     <info compressed="false">https://github.com/yllar/yllar-xbmc-repo/raw/master/addons.xml</info>
     <checksum>https://github.com/yllar/yllar-xbmc-repo/raw/master/addons.xml.md5</checksum>

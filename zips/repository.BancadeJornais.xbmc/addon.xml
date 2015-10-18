@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.BancadeJornais.xbmc" name="Banca de Jornais repository" version="0" provider-name="enen92">
+<addon id="repository.BancadeJornais.xbmc" name="Banca de Jornais repository" version="0.0.0.1" provider-name="enen92">
 	<extension point="xbmc.addon.repository" name="Banca de Jornais repositório">
 		<info compressed="false">http://plugin-image-bancadejornais.googlecode.com/svn/trunk/addons.xml</info>
 		<checksum>http://plugin-image-bancadejornais.googlecode.com/svn/trunk/addons.xml.md5</checksum>

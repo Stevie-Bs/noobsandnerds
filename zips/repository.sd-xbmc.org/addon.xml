@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.sd-xbmc.org" name="sd-xbmc.org add-ons" version="0" provider-name="SD-XBMC Team">
+<addon id="repository.sd-xbmc.org" name="sd-xbmc.org add-ons" version="0.0.0.1" provider-name="SD-XBMC Team">
 	<extension point="xbmc.addon.repository" name="Official SD-XBMC Add-on Repository">
 		<info compressed="false">http://sd-xbmc.org/repository/addons.xml</info>
 		<checksum>http://sd-xbmc.org/repository/addons.xml.md5</checksum>

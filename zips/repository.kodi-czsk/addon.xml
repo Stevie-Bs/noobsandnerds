@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.kodi-czsk"
-  version="0"
+  version="0.0.0.1"
   name="Kodi CZ &amp; SK Doplňky"
   provider-name="Kodi CZSK">
   <extension point="xbmc.addon.repository"

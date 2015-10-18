@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<addon id="repository.xb-israel.shmulik" name="xb-israel, israeli VOD" version="0" provider-name="shmulik">
+<addon id="repository.xb-israel.shmulik" name="xb-israel, israeli VOD" version="0.0.0.1" provider-name="shmulik">
   <extension point="xbmc.addon.repository" name="xb-israel, israeli VOD">
     <info compressed="false">http://xb-israel.googlecode.com/svn/trunk/addons.xml</info> 
     <checksum>http://xb-israel.googlecode.com/svn/trunk/addons.xml.md5</checksum> 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.smoothstreams" name="SmoothStreams.tv" version="0" provider-name="smoothstreams">
+<addon id="repository.smoothstreams" name="SmoothStreams.tv" version="0.0.0.1" provider-name="smoothstreams">
 	<extension point="xbmc.addon.repository" name="SmoothStreams Addons">
 		<info compressed="false">http://smoothstreams.tv/players/xbmc/repo/addons.xml</info>
 		<checksum>http://smoothstreams.tv/players/xbmc/repo/addons.xml.md5</checksum>

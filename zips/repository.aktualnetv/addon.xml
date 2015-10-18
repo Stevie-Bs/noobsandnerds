@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.aktualnetv" name="Aktualně TV Add-on Repository" version="0" provider-name="Petr Kutalek (petr@kutalek.cz)">
+<addon id="repository.aktualnetv" name="Aktualně TV Add-on Repository" version="0.0.0.1" provider-name="Petr Kutalek (petr@kutalek.cz)">
   <extension point="xbmc.addon.repository" name="Aktualně TV Add-on Repository">
     <info compressed="false">https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml</info>
     <checksum>https://github.com/petrkutalek/plugin.video.aktualnetv/raw/master/addons.xml.md5</checksum>

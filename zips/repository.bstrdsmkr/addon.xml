@@ -1,4 +1,4 @@
-<addon id="repository.bstrdsmkr" name="Bstrdsmkr's Repository" version="0" provider-name="Bstrdsmkr">
+<addon id="repository.bstrdsmkr" name="Bstrdsmkr's Repository" version="0.0.0.1" provider-name="Bstrdsmkr">
 	<extension point="xbmc.addon.repository" name="Bstrdsmkrs XBMC Addons">
 		<info compressed="false">http://repo.gosub.dk/bstrdsmkr/repository/addons.xml</info>
 		<checksum>http://repo.gosub.dk/bstrdsmkr/repository/addons.xml.md5</checksum>

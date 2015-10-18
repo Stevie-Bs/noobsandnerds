@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xbxl" name="Xbxl Add-on Repository" version="0" provider-name="Xbxl">
+<addon id="repository.xbxl" name="Xbxl Add-on Repository" version="0.0.0.1" provider-name="Xbxl">
 	<extension point="xbmc.addon.repository" name="The Xbxl Add-on Repository">
 		<info compressed="false">https://xbmc-dpstream.googlecode.com/git/repository/addons.xml</info>
 		<checksum>https://xbmc-dpstream.googlecode.com/git/repository/addons.xml.md5</checksum>
