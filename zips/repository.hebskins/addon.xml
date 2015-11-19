@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hebskins" name="Phenomenal Repository" version="0.0.0.1" provider-name="tomer953">
+    <extension point="xbmc.addon.repository" name="Phenomenal Repository">
+        <info compressed="true">https://raw.github.com/tomer953/phenomenal/master/addons.xml</info>
+        <checksum>https://raw.github.com/tomer953/phenomenal/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://kodisrael.net/phenomenal/addons/</datadir>
+    </extension>		
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Phenomenal Skin Repository</summary>
+        <summary lang="he">מאגר ההרחבות לסקין פנומנל</summary>
+        <description lang="en">Phenomenal Skin Repository</description>
+        <description lang="he">מאגר ההרחבות לסקין פנומנל</description>
+    </extension>
+</addon>

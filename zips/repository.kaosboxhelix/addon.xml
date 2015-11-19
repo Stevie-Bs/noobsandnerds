@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kaosboxhelix" name="KAOSbox Beta Repo" version="0.0.0.1" provider-name="KAOSbox">
+	<extension point="xbmc.addon.repository" name="Kaosbox Repository">
+		<info compressed="true">http://repohelix.kaosbox.tv/addons.xml</info>
+		<checksum>http://repohelix.kaosbox.tv/addons.xml.md5</checksum>
+		<datadir zip="true">http://repohelix.kaosbox.tv/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Beta/Test Repo for the KAOSbox</summary>
+		<description>Only some test stuff</description>
+		<platform>all</platform>
+		<broken>No longer working</broken>
+	</extension>
+</addon>
+

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="magicTR.repo" 
-		name="magic [COLOR red]T[/COLOR]U[COLOR red]R[/COLOR]K[COLOR red]I[/COLOR]Y[COLOR red]E[/COLOR] Eklenti Deposu" 
-		version="0.0.0.1" 
-		provider-name="MagicTR-Team">
+<addon id="magicTR.repo" name="MagicTR Add-on Repository" version="0.0.0.1" provider-name="MagicTR-Team">
 	<extension point="xbmc.addon.repository" name="MagicTR Add-on Repository">
 		<info compressed="false">https://github.com/koditr/magic-tr-team/raw/master/addons.xml</info>
 		<checksum>https://github.com/koditr/magic-tr-team/raw/master/addons.xml.md5</checksum>
@@ -11,7 +8,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from magicTR Add-on Repository</summary>
 		<summary lang="tr">xbmcTR.com sitesindeki Tum Eklentileri burdan yukleyebilirsiniz.</summary>
-		<description lang="en">Video plug-ins and Movie info scrapers for XBMC</description>
+		<description>If you're seeing this message it means the add-on is still updating, please wait for the update process to complete.</description>
 		<description lang="tr">XBMC programi icin turkce kaynakli dizi,sinema,belgesel,islami yayinlar ve cok daha fazlasi burada...</description>
 		<disclaimer lang="tr">xbmcTR.com sitesi telif hakki ile korunan hicbir medyayi yayinlamaz.Link vermez.Tum yayinlar muhtelif web sitelerinden alinmaktadir.</disclaimer>
 		<platform>all</platform>

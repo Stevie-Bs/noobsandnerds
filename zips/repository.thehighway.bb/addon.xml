@@ -9,5 +9,6 @@
 		<summary>Install The[COLOR tan]Highway[/COLOR]'s Addons from the BB alternative location.</summary>
 		<description>Download and install addons by The[COLOR tan]Highway[/COLOR].  If you are not currently a registered user of XBMCHUB's forum please feel free to help me out by using my referrer code ( http://www.xbmchub.com/forums/register.php?referrerid=15468 ) and register.  Also I'm often on irc.freenode.net:6667 #XBMCHUB for those who have a IRC Chat client.  For those without one, check the forum for the website app to connect to it and chat with us.  We're often AFK or busy with other things, so feel free to sit with us or drop a message for us to read when we get a chance.</description>
 		<platform>all</platform>
+		<broken>No longer working</broken>
 	</extension>
 </addon>

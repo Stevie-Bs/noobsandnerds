@@ -9,6 +9,7 @@
     <summary lang="en"> Join us at http://rh-project.info/</summary>
     <description lang="en">Special Thank you to Hakamac, Metal Kettle and Xunity</description>
 		<platform>all</platform>
+		<broken>This repository is no longer available</broken>
 	</extension>
 </addon>
 

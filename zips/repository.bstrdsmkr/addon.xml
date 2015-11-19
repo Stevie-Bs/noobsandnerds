@@ -8,6 +8,7 @@
 		<summary>Bstrdsmkr's Addons</summary>
 		<description>Download and install addons by Bstrdsmkr!</description>
 		<platform>all</platform>
+		<broken>This repository is now dead, if you're looking for the 1channel/primewire addon that can be found in the tknorris repo</broken>
 	</extension>
 </addon>
 

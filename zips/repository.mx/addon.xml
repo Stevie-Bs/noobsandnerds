@@ -14,5 +14,6 @@
 		<description>Home of the MX add-ons on www.TVaddons.ag only.</description>
 		<disclaimer>These add-ons can change at anytime so please stay updated. Support at www.tvaddons.ag ONLY</disclaimer>
 		<platform>all</platform>
+		<broken>The repository is broken but the addon files still exist, if you want to download them manually you can find them at http://thaisatellite.tv/repo/</broken>
 	</extension>
 </addon>

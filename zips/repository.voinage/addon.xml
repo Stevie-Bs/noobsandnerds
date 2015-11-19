@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.voinage" 
+        name="Add-ons by Voinage" 
+        version="0.0.0.1"
+        provider-name="voinage">
+    <extension point="xbmc.addon.repository" 
+        name="Add-ons by Voinage">
+        <info compressed="false">http://addons.webspace.virginmedia.com/files/addons.xml</info>
+        <checksum>http://addons.webspace.virginmedia.com/files/addons.xml.md5</checksum>
+        <datadir zip="true">http://addons.webspace.virginmedia.com/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install add-ons from the add-on repository of Voinage</summary>
+        <description>Home of Movie2k, Anime Ultima, Extramina, SeriesGate</description>
+        <disclaimer>The Author of the plugins does not condone the distribution of copyrights material, for all enquiries pleae contact the host websites.</disclaimer>
+        <platform>all</platform>
+		<broken>No longer active, repo was outdated and is no longer working</broken>
+    </extension>
+</addon>

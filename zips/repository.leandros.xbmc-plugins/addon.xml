@@ -10,5 +10,6 @@
 		<description lang="en">Leandros' Repository for XBMC</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
+		<broken>Developer has closed this repo, the files are still there on github if you need them but repository file is broken. You can find the github repo here: https://github.com/Leandros/XBMC-Repository</broken>
 	</extension>
 </addon>

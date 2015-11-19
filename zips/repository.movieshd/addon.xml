@@ -9,6 +9,7 @@
 		<summary></summary>
 		<description></description>
 		<platform>all</platform>
+		<broken>The MoviesHD addon is now located in the MetalKettle repository</broken>
 	</extension>
 </addon>
 

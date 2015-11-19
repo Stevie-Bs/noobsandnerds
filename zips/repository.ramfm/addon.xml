@@ -14,6 +14,7 @@
         <description lang="en">RAM FM Eighties Hit Radio is a Non Profit Organisation run by volunteers.[CR][CR]Listening is free for everybody but running a radio station costs money.[CR][CR]We pay royalties for the artists that we play and there are costs for the website host and streaming server.[CR][CR]So if you like our radio station, feel free to show your support by making a small donation to help us cover our expenses..[CR][CR]Please visit www.ramfm.org and click on the [COLOR FFFF00FF]purple donate[/COLOR] button.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
+		<broken>The RAM FM addon can now be found in Spoysers Repo, this repo is no longer available</broken>
     </extension>
 </addon>
 

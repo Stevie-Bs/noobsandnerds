@@ -14,5 +14,6 @@
 		<description>Download and install mortstar's repo</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
+		<broken>Repository no longer available</broken>
 	</extension>
 </addon>

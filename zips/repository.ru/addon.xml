@@ -7,7 +7,7 @@
   <import addon="xbmc.addon" version="12.0.0"/>
 </requires>	
 	<extension point="xbmc.addon.repository" name="XBMC.ru forum Add-ons">
-		<info compressed="false">https://github.com/xbmcrus/XBMC.ru-forum-Add-ons/raw/master/addons.xml</info>
+		<info compressed="true">https://github.com/xbmcrus/XBMC.ru-forum-Add-ons/raw/master/addons.xml</info>
 		<checksum>https://github.com/xbmcrus/XBMC.ru-forum-Add-ons/raw/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/xbmcrus/XBMC.ru-forum-Add-ons/raw/master/</datadir>
 	</extension>

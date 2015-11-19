@@ -10,7 +10,8 @@
 		<description>Download and install addons for the KAOSbox (www.kaosbox.tv)</description>
 		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
-                <nofanart>true</nofanart>
+        <nofanart>true</nofanart>
+		<broken>No longer working, please use the other KAOSbox repo</broken>
 	</extension>
 </addon>
 

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.wolf-team" name="Wolf-Team official Repo" version="0.0.0.1" provider-name="WolfTeam">
 	<extension point="xbmc.addon.repository" name="Wolf-Team official Repo">
 		<info compressed="false">https://svn.code.sf.net/u/teamwolf/code/addons/addons.xml</info>

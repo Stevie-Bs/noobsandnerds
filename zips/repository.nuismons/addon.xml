@@ -10,5 +10,6 @@
 		<description>Plug-ins for XBMC</description>
 		<disclaimer>There are svn fot my add-ons for XBMC</disclaimer>
 		<platform>all</platform>
+		<broken>No longer available</broken>
 	</extension>
 </addon>

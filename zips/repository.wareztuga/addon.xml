@@ -9,6 +9,7 @@
 		<summary>Filmes e Series do wareztuga.tv no XBMC</summary>
 		<description>Visita o site oficial. www.wareztuga.tv</description>
 		<platform>all</platform>
+		<broken>No longer available</broken>
 	</extension>
 </addon>
 

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.abeksis" name=".[COLOR blue]Abeksis Privet[/COLOR][COLOR white] Repository[/COLOR]" version="0.0.0.1" provider-name="Abeksis">
+    <extension point="xbmc.addon.repository" name=".Abeksis Repository ">
+        <info compressed="false">http://abeksis.com/repo/addons.xml</info>
+        <checksum>http://abeksis.com/repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://abeksis.com/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Abeksis Repository</summary>
+        <description>Abeksis Repository</description>
+        <description>Abeksis Repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>

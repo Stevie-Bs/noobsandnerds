@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.htpt" name="HTPT repository" version="0.0.0.1" provider-name="finalmakerr">
+	<extension point="xbmc.addon.repository" name="HTPT repository">
+		<info compressed="false">https://raw.githubusercontent.com/htpthtpt/htpt/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/htpthtpt/htpt/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/htpthtpt/htpt/master/</datadir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">HTPT</summary>
+		<description lang="en">Get frequently updates from HTPT team</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

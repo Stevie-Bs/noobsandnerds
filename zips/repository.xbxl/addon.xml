@@ -10,5 +10,6 @@
 		<description>Video plug-ins for XBMC</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
+		<broken>This repo is no longer available</broken>
 	</extension>
 </addon>

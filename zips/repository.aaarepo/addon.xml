@@ -9,5 +9,6 @@
 		<summary>Install my Addons</summary>
 		<description>Download and install addons from AAA Repo</description>
 		<platform>all</platform>
+		<broken>No longer available - site removed</broken>
 	</extension>
 </addon>

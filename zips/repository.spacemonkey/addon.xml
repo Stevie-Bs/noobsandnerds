@@ -6,9 +6,9 @@
 	provider-name="SpaceMonkey">
 	<extension point="xbmc.addon.repository"
         name="SpaceMonkey's Add-on Repository">
-		<info>http://dl.dropbox.com/u/6561811/Repository/addons.xml</info> 
-		<checksum>http://dl.dropbox.com/u/6561811/Repository/addons.xml.md5</checksum> 
-		<datadir zip="true">http://dl.dropbox.com/u/6561811/Repository</datadir>  
+		<info>https://raw.githubusercontent.com/atoiva/repository.spacemonkey/master/addons.xml</info> 
+		<checksum>https://github.com/atoiva/repository.spacemonkey/raw/master/addons.xml.md5</checksum> 
+		<datadir zip="true">https://raw.githubusercontent.com/atoiva/repository.spacemonkey/master/</datadir>  
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>SpaceMonkey's Add-ons for XBMC</summary>

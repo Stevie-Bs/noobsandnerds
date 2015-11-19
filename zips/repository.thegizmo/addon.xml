@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thegizmo" name="[COLOR FF006233]The Gizmo[/COLOR] Repo" version="0.0.0.1" provider-name="Travis Slattery">
+	<extension point="xbmc.addon.repository" name="The Gizmo Repo">
+       <info>http://the-gizmo.svn.beanstalkapp.com/the-gizmo/trunk/addons.xml</info>
+       <checksum>http://the-gizmo.svn.beanstalkapp.com/the-gizmo/trunk/trunk/addons.xml.md5</checksum>
+       <datadir zip="true">http://the-gizmo.svn.beanstalkapp.com/the-gizmo/trunk/</datadir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>For easy installation</summary>
+		<description>the best addons for your device</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+		<broken>Not working, been replaced by Irish Television XBMC Plugins repository</broken>
+	</extension>
+</addon>

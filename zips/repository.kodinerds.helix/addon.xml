@@ -19,6 +19,7 @@
 		<description lang="de">Downloade und installiere Add-ons vom repository-kodinerds Add-on-Repository.</description>
 		<disclaimer>kodinerds.com hat die Add-ons nicht selber erstellt und haftet nicht für deren Inhalt.</disclaimer>
 		<platform>all</platform>
+		<broken>No longer avaiable</broken>
 	</extension>
 </addon>
 

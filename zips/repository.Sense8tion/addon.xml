@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Sense8tion" version="0.0.0.1" name="Sense8tion Repo" provider-name="Sense8tion">
+	<extension point="xbmc.addon.repository" name="Sense8tion Repo">
+		<info compressed="false">https://github.com/Sense8tion/Sense8tion/raw/master/zips/addons.xml</info>
+		<checksum>https://github.com/Sense8tion/Sense8tion/raw/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/Sense8tion/Sense8tion/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Sense8tion</summary>
+		<description></description>
+		<platform>all</platform>
+		<broken>This was a test repository and is no longer available</broken>
+	</extension>
+</addon>

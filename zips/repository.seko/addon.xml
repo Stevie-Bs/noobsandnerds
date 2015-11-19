@@ -1,0 +1,13 @@
+<?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.seko" name="Seko Addons Repository" version="0.0.0.1" provider-name="Seko">
+	<extension point="xbmc.addon.repository" name="Seko Addons Repository">
+		<info compressed="false">https://raw.githubusercontent.com/Seko34/XBMC-Development/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Seko34/XBMC-Development/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Seko34/XBMC-Development/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Seko's addon for XBMC</summary>
+		<description>Go though the plugins and see what you like</description>
+		<platform>all</platform>
+	</extension>
+</addon>
