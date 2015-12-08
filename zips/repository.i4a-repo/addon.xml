@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.i4a-repo" name="i4a-repo" version="0.0.0.1" provider-name="Inside 4ndroid">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="i4a-repo">
+            <info compressed="false">http://i4atv.cu.ma/_repo/addons.xml</info>
+            <checksum>http://i4atv.cu.ma/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://i4atv.cu.ma/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Inside 4ndroid Kodi Addons</summary>
+            <description>Inside 4ndroid Kodi Addons</description>
+            <platform>all</platform>
+    </extension>
+</addon>

@@ -9,5 +9,6 @@
 		<summary>Install my Addons</summary>
 		<description>Download and install addons from Halow Repo</description>
 		<platform>all</platform>
+		<broken>This repo is no longer working, please use the newer HalowTV repo</broken>
 	</extension>
 </addon>

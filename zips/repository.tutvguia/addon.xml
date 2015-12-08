@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tutvguia" name="Tu [COLOR red]TVGuia[/COLOR] Repo" version="0.0.0.1" provider-name="Inter95 Coding-Mancuniancol">
+	<extension point="xbmc.addon.repository" name="Tu TVGuia Repo">	   
+        <info>http://tutvguia.xyz/addons.xml</info>
+        <checksum>http://tutvguia.xyz/addons.xml.md5</checksum>
+        <datadir zip="true">http://tutvguia.xyz</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio para Tu TVGuia</summary>
+		<description>Repositorio para instalar los proyectos de Tu TV Guia</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
