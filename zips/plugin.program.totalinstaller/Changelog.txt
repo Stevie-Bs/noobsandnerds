@@ -1,3 +1,14 @@
+v.3.0.2:
+- Add-ons section updated:
+--- Now have the option to view the 100 most popular (most downloaded) add-ons
+--- Manual Search improved, anything you type in the search box will search in addon title, author, id and even description tags.
+--- Fixed the issue with add-on not showing all video add-ons when searching by Kodi categories
+- Small bug fix, put an exception in for copytree function when backing up addons in a build.
+- Added back the ETA and size of download progress dialog. Can't remember why it was removed all those month ago, seems to work fine.
+
+v.3.0.1:
+- Fixed download path on AFTV
+
 v.3.0:
 - Force close issues now a thing of the past, re-coded so no need for manual force close.
 - Community Builds HUGE updates...
