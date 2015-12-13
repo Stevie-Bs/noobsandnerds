@@ -98,9 +98,11 @@ if not quit:
         xbmc.executebuiltin('RunAddon(plugin.video.SportsDevil)')
 
     if opencp:
-        xbmc.executebuiltin('ActivateWindow(10001,"plugin://plugin.program.totalinstaller/?mode=grab_addons&url=%26redirect%26addonid%3dplugin.video.SportsDevil",return)')
+        xbmc.executebuiltin('ActivateWindow(10001,"plugin://plugin.program.totalinstaller/?mode=addon_final_menu&url=1007",return)')
+        xbmc.executebuiltin('UpdateLocalAddons')
 
     if not os.path.exists(sportsdevil) and not quit:
         choice = dialog.yesno('SportsDevil Not Detected','The SportsDevil addon cannot be found on your system, would you like to search for it now?')
         if choice == 1:
-         xbmc.executebuiltin('ActivateWindow(10001,"plugin://plugin.program.totalinstaller/?mode=grab_addons&url=%26redirect%26addonid%3dplugin.video.SportsDevil",return)')
+         xbmc.executebuiltin('ActivateWindow(10001,"plugin://plugin.program.totalinstaller/?mode=addon_final_menu&url=1007",return)')
+         xbmc.executebuiltin('UpdateLocalAddons')
